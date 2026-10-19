@@ -1,0 +1,25 @@
+City,Model,MAE,RMSE
+Panipat,Naive (persistence),15.63,35.1
+Panipat,ARIMA,19.15,34.99
+Panipat,LSTM,16.3,34.09
+Haldia,Naive (persistence),11.42,16.76
+Haldia,ARIMA,11.59,16.74
+Haldia,LSTM,11.17,16.5
+Guwahati,Naive (persistence),27.13,39.91
+Guwahati,ARIMA,26.82,38.42
+Guwahati,LSTM,27.78,39.88
+Chennai,Naive (persistence),13.03,19.91
+Chennai,ARIMA,12.56,18.94
+Chennai,LSTM,13.27,19.32
+Patna,Naive (persistence),23.89,33.17
+Patna,ARIMA,23.16,31.36
+Patna,LSTM,23.4,31.72
+Ahmedabad,Naive (persistence),16.67,24.88
+Ahmedabad,ARIMA,16.44,22.98
+Ahmedabad,LSTM,15.7,22.87
+Delhi,Naive (persistence),31.58,43.32
+Delhi,ARIMA,31.18,41.25
+Delhi,LSTM,30.99,41.35
+Kolkata,Naive (persistence),20.85,30.57
+Kolkata,ARIMA,20.59,29.52
+Kolkata,LSTM,20.79,29.74

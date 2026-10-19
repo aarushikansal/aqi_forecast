@@ -1,0 +1,9 @@
+City,Note,Start,End,Calendar_days_in_raw_range,Missing_AQI_days_raw,Missing_pct_raw,Avg_stations_reporting,Days_used_after_cleaning,Train_days,Test_days,Test_days_scored,ARIMA_order,Best_model_by_RMSE,Stretch_mode,All_stretches_90d_plus
+Panipat,IOCL Panipat refinery (same town),2022-02-27,2023-12-31,1817,279,15.4,1.0,673,539,134,116,"(2, 0, 1)",LSTM,latest,2019-01-10->2020-12-31 (722d); 2021-02-11->2022-01-25 (349d); 2022-02-27->2023-12-31 (673d)
+Haldia,IOCL Haldia refinery (same town),2020-12-17,2023-12-31,2926,878,30.0,1.0,1110,888,222,209,"(3, 1, 3)",LSTM,latest,2015-12-28->2016-12-21 (360d); 2017-01-31->2019-03-25 (784d); 2019-05-09->2020-01-25 (262d); 2020-12-17->2023-12-31 (1110d)
+Guwahati,IOCL Guwahati refinery (same city),2019-02-19,2023-12-31,1777,33,1.9,1.9,1777,1422,355,350,"(1, 1, 2)",ARIMA,latest,2019-02-19->2023-12-31 (1777d)
+Chennai,"CPCL Manali refinery, IOCL subsidiary (same city)",2015-05-01,2023-12-31,3167,93,2.9,4.3,3167,2534,633,631,"(2, 0, 3)",ARIMA,latest,2015-05-01->2023-12-31 (3167d)
+Patna,Proxy for Barauni refinery (not in source),2015-09-18,2023-12-31,3027,437,14.4,3.4,3027,2422,605,605,"(3, 0, 3)",ARIMA,latest,2015-09-18->2023-12-31 (3027d)
+Ahmedabad,Proxy for Vadodara refinery (not in source),2017-11-09,2023-12-31,3167,629,19.9,2.9,2244,1796,448,446,"(2, 0, 1)",LSTM,latest,2015-05-01->2015-10-31 (184d); 2016-06-28->2017-03-22 (268d); 2017-11-09->2023-12-31 (2244d)
+Delhi,Reference city near Panipat/Mathura (not a refinery site),2015-05-01,2023-12-31,3167,24,0.8,24.4,3167,2534,633,633,"(2, 0, 2)",ARIMA,latest,2015-05-01->2023-12-31 (3167d)
+Kolkata,Reference metro near Haldia (not a refinery site),2018-04-13,2023-12-31,2736,226,8.3,4.7,2089,1672,417,417,"(2, 1, 3)",ARIMA,latest,2016-07-05->2017-10-28 (481d); 2018-04-13->2023-12-31 (2089d)

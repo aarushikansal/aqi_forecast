@@ -1,0 +1,2591 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2015-09-18,Patna,1.0,Moderate,107,PM10
+2015-09-19,Patna,1.0,Moderate,136,PM10
+2015-09-22,Patna,1.0,Satisfactory,93,PM10
+2015-09-23,Patna,1.0,Moderate,102,PM10
+2015-09-25,Patna,1.0,Moderate,136,PM10
+2015-09-26,Patna,1.0,Moderate,153,PM10
+2015-09-28,Patna,1.0,Moderate,163,PM10
+2015-09-29,Patna,1.0,Poor,221,PM10
+2015-10-01,Patna,1.0,Poor,247,PM10
+2015-10-03,Patna,1.0,Moderate,165,PM2.5
+2015-10-06,Patna,1.0,Poor,258,PM2.5
+2015-10-07,Patna,1.0,Poor,239,PM2.5
+2015-10-08,Patna,1.0,Poor,258,PM2.5
+2015-10-17,Patna,1.0,Moderate,177,PM2.5
+2015-10-21,Patna,1.0,Poor,210,PM2.5
+2015-10-23,Patna,1.0,Very Poor,301,PM2.5
+2015-10-27,Patna,1.0,Poor,284,PM2.5
+2015-10-30,Patna,1.0,Moderate,117,PM2.5
+2015-10-31,Patna,1.0,Moderate,197,PM2.5
+2015-11-04,Patna,1.0,Poor,266,PM2.5
+2015-11-05,Patna,1.0,Poor,271,PM2.5
+2015-11-06,Patna,1.0,Very Poor,313,PM2.5
+2015-11-07,Patna,1.0,Very Poor,366,PM2.5
+2015-11-09,Patna,1.0,Very Poor,342,PM2.5
+2015-11-10,Patna,1.0,Very Poor,375,PM2.5
+2015-11-11,Patna,1.0,Very Poor,360,PM2.5
+2015-11-12,Patna,1.0,Very Poor,386,PM2.5
+2015-11-13,Patna,1.0,Very Poor,359,PM2.5
+2015-11-14,Patna,1.0,Very Poor,384,PM2.5
+2015-11-21,Patna,1.0,Severe,425,PM2.5
+2015-11-24,Patna,1.0,Severe,439,PM2.5
+2015-11-25,Patna,1.0,Severe,405,PM2.5
+2015-11-26,Patna,1.0,Severe,401,PM2.5
+2015-12-01,Patna,1.0,Very Poor,396,PM2.5
+2015-12-02,Patna,1.0,Severe,403,PM2.5
+2015-12-03,Patna,1.0,Poor,245,PM2.5
+2015-12-05,Patna,1.0,Severe,410,PM2.5
+2015-12-07,Patna,1.0,Very Poor,338,PM2.5
+2015-12-09,Patna,1.0,Very Poor,335,PM2.5
+2015-12-11,Patna,1.0,Very Poor,340,PM2.5
+2015-12-12,Patna,1.0,Very Poor,383,PM2.5
+2015-12-14,Patna,1.0,Very Poor,378,PM2.5
+2015-12-15,Patna,1.0,Very Poor,336,PM2.5
+2015-12-16,Patna,1.0,Severe,405,PM2.5
+2015-12-17,Patna,1.0,Severe,402,PM2.5
+2015-12-19,Patna,1.0,Severe,406,PM2.5
+2015-12-23,Patna,1.0,Severe,415,PM2.5
+2015-12-24,Patna,1.0,Severe,421,PM2.5
+2015-12-26,Patna,1.0,Very Poor,357,PM2.5
+2016-01-01,Patna,1.0,Severe,488,PM2.5
+2016-01-02,Patna,1.0,Severe,466,PM2.5
+2016-01-04,Patna,1.0,Severe,424,PM2.5
+2016-01-05,Patna,1.0,Severe,439,PM2.5
+2016-01-06,Patna,1.0,Severe,453,PM2.5
+2016-01-07,Patna,1.0,Severe,434,PM2.5
+2016-01-09,Patna,1.0,Very Poor,379,PM2.5
+2016-01-10,Patna,1.0,Poor,297,PM2.5
+2016-01-11,Patna,1.0,Very Poor,347,PM2.5
+2016-01-12,Patna,1.0,Severe,404,PM2.5
+2016-01-13,Patna,1.0,Severe,429,PM2.5
+2016-01-14,Patna,1.0,Severe,440,PM2.5
+2016-01-15,Patna,1.0,Severe,443,PM2.5
+2016-01-16,Patna,1.0,Very Poor,370,PM2.5
+2016-01-18,Patna,1.0,Very Poor,368,PM2.5
+2016-01-20,Patna,1.0,Very Poor,348,PM2.5
+2016-01-21,Patna,1.0,Very Poor,362,PM2.5
+2016-01-22,Patna,1.0,Very Poor,331,PM2.5
+2016-01-23,Patna,1.0,Very Poor,349,PM2.5
+2016-01-25,Patna,1.0,Severe,421,PM2.5
+2016-01-27,Patna,1.0,Very Poor,384,PM2.5
+2016-01-30,Patna,1.0,Severe,441,PM2.5
+2016-02-01,Patna,1.0,Severe,426,PM2.5
+2016-02-03,Patna,1.0,Poor,285,PM2.5
+2016-02-04,Patna,1.0,Poor,273,PM2.5
+2016-02-12,Patna,1.0,Very Poor,342,PM2.5
+2016-02-15,Patna,1.0,Very Poor,327,PM2.5
+2016-02-18,Patna,1.0,Poor,287,PM2.5
+2016-02-20,Patna,1.0,Poor,270,PM2.5
+2016-02-23,Patna,1.0,Moderate,178,PM2.5
+2016-02-25,Patna,1.0,Poor,294,PM2.5
+2016-02-26,Patna,1.0,Poor,269,PM2.5
+2016-02-27,Patna,1.0,Poor,233,PM2.5
+2016-02-29,Patna,1.0,Poor,290,PM2.5
+2016-03-02,Patna,1.0,Poor,281,PM2.5
+2016-03-03,Patna,1.0,Very Poor,321,PM2.5
+2016-03-05,Patna,1.0,Very Poor,364,PM2.5
+2016-03-08,Patna,1.0,Moderate,123,PM2.5
+2016-03-09,Patna,1.0,Moderate,186,PM2.5
+2016-03-12,Patna,1.0,Moderate,155,PM2.5
+2016-03-14,Patna,1.0,Moderate,116,PM2.5
+2016-03-15,Patna,1.0,Moderate,150,PM2.5
+2016-03-22,Patna,1.0,Satisfactory,83,PM2.5
+2016-03-28,Patna,1.0,Moderate,192,PM2.5
+2016-03-29,Patna,1.0,Moderate,159,PM2.5
+2016-03-31,Patna,1.0,Poor,246,PM2.5
+2016-04-01,Patna,1.0,Poor,246,PM2.5
+2016-04-03,Patna,1.0,Moderate,170,PM2.5
+2016-04-04,Patna,1.0,Moderate,186,PM2.5
+2016-04-05,Patna,1.0,Poor,225,PM2.5
+2016-04-07,Patna,1.0,Moderate,115,PM2.5
+2016-04-08,Patna,1.0,Moderate,118,PM2.5
+2016-04-09,Patna,1.0,Moderate,133,PM2.5
+2016-04-11,Patna,1.0,Moderate,126,PM2.5
+2016-04-12,Patna,1.0,Moderate,112,PM2.5
+2016-04-13,Patna,1.0,Satisfactory,84,PM2.5
+2016-04-14,Patna,1.0,Moderate,137,PM2.5
+2016-04-16,Patna,1.0,Moderate,167,PM2.5
+2016-04-20,Patna,1.0,Moderate,182,PM2.5
+2016-04-21,Patna,1.0,Moderate,128,PM2.5
+2016-04-22,Patna,1.0,Moderate,126,PM2.5
+2016-04-23,Patna,1.0,Moderate,157,PM2.5
+2016-04-27,Patna,1.0,Poor,222,PM2.5
+2016-04-29,Patna,1.0,Poor,233,PM2.5
+2016-04-30,Patna,1.0,Moderate,189,PM2.5
+2016-05-02,Patna,1.0,Moderate,199,PM2.5
+2016-05-03,Patna,1.0,Moderate,134,PM2.5
+2016-05-04,Patna,1.0,Moderate,143,PM2.5
+2016-05-05,Patna,1.0,Moderate,115,PM2.5
+2016-05-06,Patna,1.0,Poor,260,PM2.5
+2016-05-07,Patna,1.0,Moderate,188,PM2.5
+2016-05-11,Patna,1.0,Moderate,111,PM2.5
+2016-05-12,Patna,1.0,Moderate,114,PM2.5
+2016-05-13,Patna,1.0,Moderate,125,PM2.5
+2016-05-14,Patna,1.0,Moderate,115,PM2.5
+2016-05-16,Patna,1.0,Moderate,120,PM2.5
+2016-05-18,Patna,1.0,Moderate,105,PM2.5
+2016-05-19,Patna,1.0,Satisfactory,80,PM2.5
+2016-05-20,Patna,1.0,Satisfactory,64,PM2.5
+2016-05-23,Patna,1.0,Satisfactory,97,PM2.5
+2016-05-24,Patna,1.0,Moderate,110,PM2.5
+2016-05-28,Patna,1.0,Poor,251,PM2.5
+2016-06-02,Patna,1.0,Moderate,147,PM2.5
+2016-06-09,Patna,1.0,Moderate,144,PM2.5
+2016-06-20,Patna,1.0,Satisfactory,82,PM2.5
+2016-06-21,Patna,1.0,Satisfactory,84,PM2.5
+2016-06-22,Patna,1.0,Satisfactory,67,PM2.5
+2016-06-23,Patna,1.0,Moderate,111,PM2.5
+2016-06-24,Patna,1.0,Moderate,104,PM2.5
+2016-06-27,Patna,1.0,Moderate,132,PM2.5
+2016-06-28,Patna,1.0,Satisfactory,99,PM2.5
+2016-06-29,Patna,1.0,Satisfactory,73,PM2.5
+2016-07-02,Patna,1.0,Satisfactory,66,PM2.5
+2016-07-05,Patna,1.0,Satisfactory,60,PM2.5
+2016-07-06,Patna,1.0,Satisfactory,71,PM2.5
+2016-07-07,Patna,1.0,Satisfactory,80,PM2.5
+2016-07-10,Patna,1.0,Satisfactory,62,PM2.5
+2016-07-11,Patna,1.0,Satisfactory,63,PM2.5
+2016-07-12,Patna,1.0,Satisfactory,54,PM2.5
+2016-07-14,Patna,1.0,Moderate,118,PM2.5
+2016-07-15,Patna,1.0,Satisfactory,76,PM2.5
+2016-07-18,Patna,1.0,Good,50,PM2.5
+2016-07-19,Patna,1.0,Satisfactory,80,PM2.5
+2016-07-20,Patna,1.0,Satisfactory,78,PM2.5
+2016-07-25,Patna,1.0,Satisfactory,77,PM2.5
+2016-07-26,Patna,1.0,Satisfactory,79,PM2.5
+2016-07-27,Patna,1.0,Satisfactory,63,PM2.5
+2016-07-28,Patna,1.0,Moderate,114,PM2.5
+2016-07-29,Patna,1.0,Satisfactory,83,PM2.5
+2016-07-30,Patna,1.0,Satisfactory,98,PM2.5
+2016-08-01,Patna,1.0,Satisfactory,85,PM2.5
+2016-08-02,Patna,1.0,Moderate,137,PM2.5
+2016-08-03,Patna,1.0,Good,48,PM2.5
+2016-08-04,Patna,1.0,Good,47,PM2.5
+2016-08-05,Patna,1.0,Satisfactory,70,PM2.5
+2016-08-06,Patna,1.0,Satisfactory,70,PM2.5
+2016-08-07,Patna,1.0,Good,41,PM2.5
+2016-08-08,Patna,1.0,Good,48,PM2.5
+2016-08-09,Patna,1.0,Satisfactory,74,PM2.5
+2016-08-10,Patna,1.0,Moderate,101,PM2.5
+2016-08-11,Patna,1.0,Satisfactory,59,CO
+2016-08-12,Patna,1.0,Satisfactory,53,CO
+2016-08-13,Patna,1.0,Satisfactory,58,PM2.5
+2016-08-14,Patna,1.0,Moderate,105,PM2.5
+2016-08-15,Patna,1.0,Moderate,106,PM2.5
+2016-08-16,Patna,1.0,Satisfactory,52,PM2.5
+2016-08-17,Patna,1.0,Satisfactory,55,PM2.5
+2016-08-18,Patna,1.0,Good,43,PM2.5
+2016-08-19,Patna,1.0,Satisfactory,57,PM2.5
+2016-08-20,Patna,1.0,Satisfactory,97,PM2.5
+2016-08-21,Patna,1.0,Satisfactory,84,PM2.5
+2016-08-22,Patna,1.0,Good,48,PM2.5
+2016-08-23,Patna,1.0,Satisfactory,58,PM2.5
+2016-08-24,Patna,1.0,Moderate,121,PM2.5
+2016-08-25,Patna,1.0,Moderate,178,PM2.5
+2016-08-26,Patna,1.0,Moderate,132,PM2.5
+2016-08-31,Patna,1.0,Satisfactory,91,PM2.5
+2016-09-01,Patna,1.0,Satisfactory,63,PM2.5
+2016-09-02,Patna,1.0,Satisfactory,69,PM2.5
+2016-09-03,Patna,1.0,Good,42,PM2.5
+2016-09-05,Patna,1.0,Moderate,152,PM2.5
+2016-09-06,Patna,1.0,Satisfactory,98,PM2.5
+2016-09-07,Patna,1.0,Satisfactory,86,CO
+2016-09-08,Patna,1.0,Satisfactory,88,PM2.5
+2016-09-09,Patna,1.0,Satisfactory,83,PM2.5
+2016-09-10,Patna,1.0,Moderate,116,PM2.5
+2016-09-11,Patna,1.0,Moderate,116,PM2.5
+2016-09-12,Patna,1.0,Satisfactory,62,PM2.5
+2016-09-13,Patna,1.0,Satisfactory,64,PM2.5
+2016-09-14,Patna,1.0,Satisfactory,65,PM2.5
+2016-09-15,Patna,1.0,Moderate,102,PM2.5
+2016-09-16,Patna,1.0,Moderate,120,PM2.5
+2016-09-17,Patna,1.0,Satisfactory,72,PM2.5
+2016-09-18,Patna,1.0,Satisfactory,83,PM2.5
+2016-09-21,Patna,1.0,Satisfactory,90,PM2.5
+2016-09-22,Patna,1.0,Satisfactory,52,PM2.5
+2016-09-23,Patna,1.0,Satisfactory,82,PM2.5
+2016-09-24,Patna,1.0,Satisfactory,69,PM2.5
+2016-09-27,Patna,1.0,Satisfactory,83,PM2.5
+2016-09-28,Patna,1.0,Satisfactory,92,PM2.5
+2016-09-29,Patna,1.0,Satisfactory,62,PM2.5
+2016-09-30,Patna,1.0,Moderate,102,PM2.5
+2016-10-03,Patna,1.0,Poor,226,PM2.5
+2016-10-04,Patna,1.0,Moderate,196,PM2.5
+2016-10-05,Patna,1.0,Moderate,192,PM2.5
+2016-10-06,Patna,1.0,Moderate,140,PM2.5
+2016-10-07,Patna,1.0,Moderate,127,PM2.5
+2016-10-08,Patna,1.0,Moderate,111,PM2.5
+2016-10-12,Patna,1.0,Poor,212,PM2.5
+2016-10-13,Patna,1.0,Poor,210,PM2.5
+2016-10-14,Patna,1.0,Moderate,162,PM2.5
+2016-10-15,Patna,1.0,Poor,220,PM2.5
+2016-10-20,Patna,1.0,Poor,253,PM2.5
+2016-10-21,Patna,1.0,Poor,254,PM2.5
+2016-10-22,Patna,1.0,Poor,265,PM2.5
+2016-10-23,Patna,1.0,Poor,277,PM2.5
+2016-10-24,Patna,1.0,Poor,274,PM2.5
+2016-10-25,Patna,1.0,Very Poor,346,PM2.5
+2016-10-26,Patna,1.0,Very Poor,337,PM2.5
+2016-10-27,Patna,1.0,Very Poor,324,PM2.5
+2016-10-28,Patna,1.0,Very Poor,309,PM2.5
+2016-10-30,Patna,1.0,Very Poor,369,PM2.5
+2016-10-31,Patna,1.0,Very Poor,381,PM2.5
+2016-11-01,Patna,1.0,Very Poor,315,PM2.5
+2016-11-02,Patna,1.0,Poor,287,PM2.5
+2016-11-03,Patna,1.0,Poor,283,PM2.5
+2016-11-04,Patna,1.0,Poor,246,PM2.5
+2016-11-07,Patna,1.0,Very Poor,323,PM2.5
+2016-11-11,Patna,1.0,Very Poor,344,PM2.5
+2016-11-13,Patna,1.0,Very Poor,362,PM2.5
+2016-11-14,Patna,1.0,Very Poor,316,PM2.5
+2016-11-15,Patna,1.0,Poor,297,PM2.5
+2016-11-16,Patna,1.0,Very Poor,309,PM2.5
+2016-11-17,Patna,1.0,Very Poor,329,PM2.5
+2016-11-18,Patna,1.0,Very Poor,368,PM2.5
+2016-11-20,Patna,1.0,Severe,404,PM2.5
+2016-11-21,Patna,1.0,Severe,404,PM2.5
+2016-11-22,Patna,1.0,Severe,403,PM2.5
+2016-11-24,Patna,1.0,Very Poor,399,PM2.5
+2016-11-25,Patna,1.0,Very Poor,393,PM2.5
+2016-11-26,Patna,1.0,Very Poor,392,PM2.5
+2016-11-28,Patna,1.0,Severe,452,PM2.5
+2016-11-29,Patna,1.0,Severe,476,PM2.5
+2016-12-01,Patna,1.0,Very Poor,377,PM2.5
+2016-12-03,Patna,1.0,Very Poor,400,PM2.5
+2016-12-05,Patna,1.0,Very Poor,382,PM2.5
+2016-12-06,Patna,1.0,Very Poor,390,PM2.5
+2016-12-07,Patna,1.0,Very Poor,372,PM2.5
+2016-12-08,Patna,1.0,Very Poor,347,PM2.5
+2016-12-09,Patna,1.0,Very Poor,322,PM2.5
+2016-12-10,Patna,1.0,Very Poor,364,PM2.5
+2016-12-11,Patna,1.0,Very Poor,322,PM2.5
+2016-12-15,Patna,1.0,Very Poor,385,PM2.5
+2016-12-20,Patna,1.0,Very Poor,356,PM2.5
+2016-12-21,Patna,1.0,Severe,440,PM2.5
+2016-12-22,Patna,1.0,Severe,455,PM2.5
+2016-12-23,Patna,1.0,Severe,448,PM2.5
+2016-12-26,Patna,1.0,Severe,421,PM2.5
+2016-12-27,Patna,1.0,Very Poor,370,PM2.5
+2016-12-28,Patna,1.0,Very Poor,334,PM2.5
+2016-12-29,Patna,1.0,Very Poor,376,PM2.5
+2016-12-30,Patna,1.0,Very Poor,382,PM2.5
+2016-12-31,Patna,1.0,Very Poor,335,PM2.5
+2017-01-03,Patna,1.0,Very Poor,386,PM2.5
+2017-01-04,Patna,1.0,Very Poor,344,PM2.5
+2017-01-05,Patna,1.0,Very Poor,311,PM2.5
+2017-01-06,Patna,1.0,Very Poor,363,PM2.5
+2017-01-08,Patna,1.0,Very Poor,344,PM2.5
+2017-01-10,Patna,1.0,Very Poor,343,PM2.5
+2017-01-11,Patna,1.0,Poor,240,PM2.5
+2017-01-12,Patna,1.0,Poor,264,PM2.5
+2017-01-13,Patna,1.0,Very Poor,305,PM2.5
+2017-01-14,Patna,1.0,Very Poor,317,PM2.5
+2017-01-16,Patna,1.0,Very Poor,389,PM2.5
+2017-01-17,Patna,1.0,Very Poor,392,PM2.5
+2017-01-18,Patna,1.0,Severe,435,PM2.5
+2017-01-19,Patna,1.0,Very Poor,354,PM2.5
+2017-01-20,Patna,1.0,Poor,293,PM2.5
+2017-01-21,Patna,1.0,Poor,258,PM2.5
+2017-01-24,Patna,1.0,Very Poor,322,PM2.5
+2017-01-25,Patna,1.0,Very Poor,392,PM2.5
+2017-01-26,Patna,1.0,Severe,406,PM2.5
+2017-01-27,Patna,1.0,Very Poor,370,PM2.5
+2017-01-28,Patna,1.0,Moderate,162,PM2.5
+2017-01-29,Patna,1.0,Moderate,159,PM2.5
+2017-01-30,Patna,1.0,Poor,286,PM2.5
+2017-01-31,Patna,1.0,Poor,291,PM2.5
+2017-02-02,Patna,1.0,Very Poor,330,PM2.5
+2017-02-03,Patna,1.0,Very Poor,365,PM2.5
+2017-02-04,Patna,1.0,Very Poor,373,PM2.5
+2017-02-05,Patna,1.0,Very Poor,399,PM2.5
+2017-02-06,Patna,1.0,Very Poor,384,PM2.5
+2017-02-07,Patna,1.0,Poor,287,PM2.5
+2017-02-08,Patna,1.0,Poor,207,PM2.5
+2017-03-02,Patna,1.0,Poor,259,PM2.5
+2017-03-05,Patna,1.0,Poor,272,PM2.5
+2017-03-07,Patna,1.0,Moderate,181,PM2.5
+2017-03-08,Patna,1.0,Poor,274,PM2.5
+2017-03-11,Patna,1.0,Moderate,198,PM2.5
+2017-03-17,Patna,1.0,Poor,223,PM2.5
+2017-03-18,Patna,1.0,Poor,254,PM2.5
+2017-03-21,Patna,1.0,Poor,209,PM2.5
+2017-03-23,Patna,1.0,Poor,281,PM2.5
+2017-03-28,Patna,1.0,Poor,286,PM2.5
+2017-03-29,Patna,1.0,Poor,227,PM2.5
+2017-03-30,Patna,1.0,Poor,221,PM2.5
+2017-04-01,Patna,1.0,Poor,249,PM2.5
+2017-04-02,Patna,1.0,Poor,227,PM2.5
+2017-04-03,Patna,1.0,Poor,253,PM2.5
+2017-04-05,Patna,1.0,Moderate,111,PM2.5
+2017-04-07,Patna,1.0,Moderate,186,PM2.5
+2017-04-08,Patna,1.0,Poor,216,PM2.5
+2017-04-12,Patna,1.0,Poor,287,PM2.5
+2017-04-13,Patna,1.0,Poor,233,PM2.5
+2017-04-15,Patna,1.0,Poor,255,PM2.5
+2017-04-16,Patna,1.0,Moderate,127,PM2.5
+2017-04-17,Patna,1.0,Moderate,121,PM2.5
+2017-04-18,Patna,1.0,Moderate,164,PM2.5
+2017-04-21,Patna,1.0,Moderate,118,PM2.5
+2017-04-25,Patna,1.0,Poor,216,PM2.5
+2017-04-26,Patna,1.0,Moderate,153,PM2.5
+2017-05-18,Patna,1.0,Moderate,123,PM2.5
+2017-05-22,Patna,1.0,Moderate,158,PM2.5
+2017-05-23,Patna,1.0,Moderate,186,PM2.5
+2017-05-24,Patna,1.0,Moderate,155,PM2.5
+2017-05-25,Patna,1.0,Moderate,189,PM2.5
+2017-05-26,Patna,1.0,Satisfactory,95,PM2.5
+2017-05-27,Patna,1.0,Satisfactory,79,PM2.5
+2017-05-29,Patna,1.0,Satisfactory,93,PM2.5
+2017-06-01,Patna,1.0,Moderate,126,PM2.5
+2017-06-02,Patna,1.0,Moderate,174,PM2.5
+2017-06-03,Patna,1.0,Moderate,175,PM2.5
+2017-06-05,Patna,1.0,Moderate,140,PM2.5
+2017-06-07,Patna,1.0,Moderate,128,PM2.5
+2017-06-08,Patna,1.0,Moderate,127,PM2.5
+2017-06-09,Patna,1.0,Moderate,143,PM2.5
+2017-06-10,Patna,1.0,Moderate,144,PM2.5
+2017-06-13,Patna,1.0,Very Poor,339,PM2.5
+2017-06-14,Patna,1.0,Moderate,156,PM2.5
+2017-06-15,Patna,1.0,Moderate,132,PM2.5
+2017-06-16,Patna,1.0,Satisfactory,91,PM2.5
+2017-06-19,Patna,1.0,Moderate,139,PM2.5
+2017-06-20,Patna,1.0,Satisfactory,85,PM2.5
+2017-06-22,Patna,1.0,Moderate,128,PM2.5
+2017-06-23,Patna,1.0,Satisfactory,87,PM2.5
+2017-06-24,Patna,1.0,Moderate,166,PM2.5
+2017-06-25,Patna,1.0,Moderate,119,PM2.5
+2017-06-26,Patna,1.0,Satisfactory,70,PM2.5
+2017-06-27,Patna,1.0,Satisfactory,59,PM2.5
+2017-06-28,Patna,1.0,Satisfactory,66,PM2.5
+2017-06-29,Patna,1.0,Satisfactory,68,PM2.5
+2017-07-01,Patna,1.0,Satisfactory,75,PM2.5
+2017-07-02,Patna,1.0,Satisfactory,74,PM2.5
+2017-07-03,Patna,1.0,Good,48,PM2.5
+2017-07-04,Patna,1.0,Good,45,PM2.5
+2017-07-05,Patna,1.0,Good,47,PM2.5
+2017-07-06,Patna,1.0,Satisfactory,81,PM2.5
+2017-07-07,Patna,1.0,Satisfactory,80,PM2.5
+2017-07-08,Patna,1.0,Satisfactory,82,PM2.5
+2017-07-10,Patna,1.0,Satisfactory,93,PM2.5
+2017-07-12,Patna,1.0,Moderate,121,PM2.5
+2017-07-13,Patna,1.0,Satisfactory,79,PM2.5
+2017-07-14,Patna,1.0,Satisfactory,85,PM2.5
+2017-07-15,Patna,1.0,Satisfactory,81,PM2.5
+2017-07-17,Patna,1.0,Moderate,118,PM2.5
+2017-07-18,Patna,1.0,Satisfactory,78,PM2.5
+2017-07-19,Patna,1.0,Satisfactory,68,PM2.5
+2017-07-20,Patna,1.0,Satisfactory,54,PM2.5
+2017-07-23,Patna,1.0,Satisfactory,66,PM2.5
+2017-07-24,Patna,1.0,Satisfactory,65,PM2.5
+2017-07-25,Patna,1.0,Satisfactory,63,PM2.5
+2017-07-26,Patna,1.0,Satisfactory,54,PM2.5
+2017-07-27,Patna,1.0,Satisfactory,85,PM2.5
+2017-07-28,Patna,1.0,Moderate,136,PM2.5
+2017-07-29,Patna,1.0,Moderate,131,PM2.5
+2017-07-31,Patna,1.0,Moderate,103,PM2.5
+2017-08-01,Patna,1.0,Satisfactory,75,PM2.5
+2017-08-02,Patna,1.0,Satisfactory,74,PM2.5
+2017-08-03,Patna,1.0,Satisfactory,89,CO
+2017-08-04,Patna,1.0,Satisfactory,86,PM2.5
+2017-08-05,Patna,1.0,Moderate,152,PM2.5
+2017-08-08,Patna,1.0,Moderate,108,PM2.5
+2017-08-09,Patna,1.0,Satisfactory,84,PM2.5
+2017-08-10,Patna,1.0,Satisfactory,79,PM2.5
+2017-08-11,Patna,1.0,Satisfactory,77,PM2.5
+2017-08-12,Patna,1.0,Satisfactory,67,PM2.5
+2017-08-14,Patna,1.0,Satisfactory,72,PM2.5
+2017-08-16,Patna,1.0,Satisfactory,79,PM2.5
+2017-08-17,Patna,1.0,Moderate,104,PM2.5
+2017-09-06,Patna,1.0,Moderate,139,PM2.5
+2017-09-07,Patna,1.0,Moderate,186,PM2.5
+2017-09-08,Patna,1.0,Moderate,144,PM2.5
+2017-09-13,Patna,1.0,Satisfactory,100,PM2.5
+2017-09-14,Patna,1.0,Moderate,124,PM2.5
+2017-09-15,Patna,1.0,Poor,231,PM2.5
+2017-09-16,Patna,1.0,Moderate,195,PM2.5
+2017-09-17,Patna,1.0,Moderate,194,PM2.5
+2017-09-18,Patna,1.0,Satisfactory,70,PM2.5
+2017-09-19,Patna,1.0,Satisfactory,63,PM2.5
+2017-09-22,Patna,1.0,Satisfactory,76,PM2.5
+2017-09-23,Patna,1.0,Moderate,121,PM2.5
+2017-09-25,Patna,1.0,Moderate,183,PM2.5
+2017-09-26,Patna,1.0,Moderate,116,PM2.5
+2017-09-27,Patna,1.0,Moderate,160,PM2.5
+2017-09-28,Patna,1.0,Moderate,183,PM2.5
+2017-09-29,Patna,1.0,Moderate,127,PM2.5
+2017-09-30,Patna,1.0,Moderate,103,PM2.5
+2017-10-02,Patna,1.0,Moderate,122,O3
+2017-10-03,Patna,1.0,Satisfactory,66,PM2.5
+2017-10-04,Patna,1.0,Moderate,160,PM2.5
+2017-10-05,Patna,1.0,Moderate,181,PM2.5
+2017-10-06,Patna,1.0,Moderate,187,PM2.5
+2017-10-07,Patna,1.0,Satisfactory,77,PM2.5
+2017-10-09,Patna,1.0,Moderate,154,PM2.5
+2017-10-10,Patna,1.0,Satisfactory,85,PM2.5
+2017-10-11,Patna,1.0,Satisfactory,62,PM2.5
+2017-10-12,Patna,1.0,Moderate,113,PM2.5
+2017-10-13,Patna,1.0,Moderate,176,PM2.5
+2017-10-16,Patna,1.0,Poor,291,PM2.5
+2017-10-17,Patna,1.0,Very Poor,328,PM2.5
+2017-10-18,Patna,1.0,Very Poor,306,PM2.5
+2017-10-19,Patna,1.0,Poor,216,PM2.5
+2017-10-20,Patna,1.0,Poor,209,PM2.5
+2017-10-21,Patna,1.0,Satisfactory,72,PM2.5
+2017-10-22,Patna,1.0,Moderate,125,PM2.5
+2017-10-23,Patna,1.0,Poor,276,PM2.5
+2017-10-24,Patna,1.0,Very Poor,387,PM2.5
+2017-10-25,Patna,1.0,Very Poor,340,PM2.5
+2017-10-26,Patna,1.0,Very Poor,332,PM2.5
+2017-10-27,Patna,1.0,Very Poor,337,PM2.5
+2017-10-28,Patna,1.0,Very Poor,319,PM2.5
+2017-10-29,Patna,1.0,Poor,275,PM2.5
+2017-10-30,Patna,1.0,Poor,255,PM2.5
+2017-10-31,Patna,1.0,Moderate,126,PM2.5
+2017-11-01,Patna,1.0,Moderate,140,PM2.5
+2017-11-02,Patna,1.0,Poor,234,PM2.5
+2017-11-03,Patna,1.0,Poor,230,PM2.5
+2017-11-04,Patna,1.0,Poor,282,PM2.5
+2017-11-05,Patna,1.0,Poor,247,PM2.5
+2017-11-06,Patna,1.0,Poor,249,PM2.5
+2017-11-07,Patna,1.0,Poor,264,PM2.5
+2017-11-10,Patna,1.0,Severe,428,PM2.5
+2017-11-11,Patna,1.0,Severe,435,PM2.5
+2017-11-12,Patna,1.0,Very Poor,383,PM2.5
+2017-11-13,Patna,1.0,Very Poor,353,PM2.5
+2017-11-14,Patna,1.0,Severe,404,PM2.5
+2017-11-15,Patna,1.0,Poor,300,PM2.5
+2017-11-16,Patna,1.0,Poor,219,PM2.5
+2017-11-17,Patna,1.0,Poor,214,PM2.5
+2017-11-18,Patna,1.0,Poor,246,PM2.5
+2017-11-20,Patna,1.0,Very Poor,359,PM2.5
+2017-11-21,Patna,1.0,Poor,289,PM2.5
+2017-11-22,Patna,1.0,Very Poor,343,PM2.5
+2017-11-23,Patna,1.0,Satisfactory,75,O3
+2017-11-25,Patna,1.0,Satisfactory,84,O3
+2017-11-26,Patna,1.0,Satisfactory,77,O3
+2017-11-28,Patna,1.0,Satisfactory,67,O3
+2017-11-29,Patna,1.0,Satisfactory,69,O3
+2017-11-30,Patna,1.0,Satisfactory,54,O3
+2017-12-03,Patna,1.0,Good,50,O3
+2017-12-04,Patna,1.0,Satisfactory,60,CO
+2017-12-06,Patna,1.0,Satisfactory,71,CO
+2017-12-07,Patna,1.0,Severe,421,PM2.5
+2017-12-10,Patna,1.0,Very Poor,338,PM2.5
+2017-12-11,Patna,1.0,Very Poor,346,PM2.5
+2017-12-12,Patna,1.0,Very Poor,392,PM2.5
+2017-12-13,Patna,1.0,Very Poor,359,PM2.5
+2017-12-14,Patna,1.0,Poor,295,PM2.5
+2017-12-17,Patna,1.0,Very Poor,369,PM2.5
+2017-12-18,Patna,1.0,Severe,407,PM2.5
+2017-12-21,Patna,1.0,Very Poor,381,PM2.5
+2017-12-22,Patna,1.0,Very Poor,326,PM2.5
+2017-12-23,Patna,1.0,Very Poor,354,PM2.5
+2017-12-26,Patna,1.0,Very Poor,363,PM2.5
+2017-12-27,Patna,1.0,Very Poor,359,PM2.5
+2017-12-28,Patna,1.0,Severe,461,PM2.5
+2017-12-29,Patna,1.0,Severe,402,PM2.5
+2017-12-30,Patna,1.0,Very Poor,396,PM2.5
+2017-12-31,Patna,1.0,Very Poor,381,PM2.5
+2018-01-04,Patna,1.0,Very Poor,389,PM2.5
+2018-01-05,Patna,1.0,Very Poor,397,PM2.5
+2018-01-06,Patna,1.0,Very Poor,391,PM2.5
+2018-01-07,Patna,1.0,Very Poor,384,PM2.5
+2018-01-10,Patna,1.0,Very Poor,376,PM2.5
+2018-01-11,Patna,1.0,Very Poor,346,PM2.5
+2018-01-12,Patna,1.0,Very Poor,372,PM2.5
+2018-01-14,Patna,1.0,Very Poor,366,PM2.5
+2018-01-16,Patna,1.0,Very Poor,330,PM2.5
+2018-01-17,Patna,1.0,Satisfactory,91,CO
+2018-01-19,Patna,1.0,Very Poor,325,PM2.5
+2018-01-20,Patna,1.0,Poor,203,PM2.5
+2018-01-21,Patna,1.0,Poor,291,PM2.5
+2018-01-22,Patna,1.0,Very Poor,357,PM2.5
+2018-01-23,Patna,1.0,Very Poor,366,PM2.5
+2018-01-24,Patna,1.0,Very Poor,359,PM2.5
+2018-01-25,Patna,1.0,Poor,261,PM2.5
+2018-01-26,Patna,1.0,Poor,234,PM2.5
+2018-01-27,Patna,1.0,Poor,217,PM2.5
+2018-01-28,Patna,1.0,Very Poor,393,PM2.5
+2018-01-30,Patna,1.0,Very Poor,341,PM2.5
+2018-01-31,Patna,1.0,Severe,416,PM2.5
+2018-02-01,Patna,1.0,Very Poor,382,PM2.5
+2018-02-02,Patna,1.0,Very Poor,358,PM2.5
+2018-02-03,Patna,1.0,Very Poor,329,PM2.5
+2018-02-06,Patna,1.0,Moderate,156,PM2.5
+2018-02-07,Patna,1.0,Very Poor,303,PM2.5
+2018-02-08,Patna,1.0,Poor,275,PM2.5
+2018-02-09,Patna,1.0,Poor,214,PM2.5
+2018-02-10,Patna,1.0,Poor,269,PM2.5
+2018-02-11,Patna,1.0,Poor,299,PM2.5
+2018-02-13,Patna,1.0,Very Poor,336,PM2.5
+2018-02-14,Patna,1.0,Poor,275,PM2.5
+2018-02-15,Patna,1.0,Moderate,178,PM2.5
+2018-02-16,Patna,1.0,Poor,284,PM2.5
+2018-02-17,Patna,1.0,Very Poor,308,PM2.5
+2018-02-19,Patna,1.0,Very Poor,320,PM2.5
+2018-02-20,Patna,1.0,Very Poor,318,PM2.5
+2018-02-21,Patna,1.0,Very Poor,325,PM2.5
+2018-02-22,Patna,1.0,Very Poor,360,PM2.5
+2018-02-23,Patna,1.0,Very Poor,316,PM2.5
+2018-02-24,Patna,1.0,Very Poor,378,PM2.5
+2018-02-26,Patna,1.0,Very Poor,338,PM2.5
+2018-02-27,Patna,1.0,Poor,270,PM2.5
+2018-02-28,Patna,1.0,Poor,288,PM2.5
+2018-03-01,Patna,1.0,Poor,278,PM2.5
+2018-03-02,Patna,1.0,Very Poor,314,PM2.5
+2018-03-03,Patna,1.0,Moderate,183,PM2.5
+2018-03-04,Patna,1.0,Moderate,175,OZONE
+2018-03-05,Patna,1.0,Poor,258,PM2.5
+2018-03-06,Patna,1.0,Moderate,175,PM2.5
+2018-03-07,Patna,1.0,Moderate,178,OZONE
+2018-03-10,Patna,1.0,Poor,246,PM2.5
+2018-03-12,Patna,1.0,Poor,295,PM2.5
+2018-03-13,Patna,1.0,Poor,270,PM2.5
+2018-03-14,Patna,1.0,Very Poor,310,PM2.5
+2018-03-15,Patna,1.0,Very Poor,337,PM2.5
+2018-03-16,Patna,1.0,Very Poor,317,PM2.5
+2018-03-17,Patna,1.0,Poor,218,PM2.5
+2018-03-18,Patna,1.0,Moderate,199,PM2.5
+2018-03-19,Patna,1.0,Poor,247,OZONE
+2018-03-20,Patna,1.0,Poor,245,PM2.5
+2018-03-21,Patna,1.0,Poor,278,PM2.5
+2018-03-22,Patna,1.0,Very Poor,312,PM2.5
+2018-03-23,Patna,1.0,Poor,293,PM2.5
+2018-03-24,Patna,1.0,Poor,210,PM2.5
+2018-03-25,Patna,1.0,Poor,247,PM2.5
+2018-03-26,Patna,1.0,Poor,206,PM2.5
+2018-03-27,Patna,1.0,Poor,264,PM2.5
+2018-03-28,Patna,1.0,Poor,274,PM2.5
+2018-03-29,Patna,1.0,Poor,298,PM2.5
+2018-03-30,Patna,1.0,Poor,275,PM2.5
+2018-03-31,Patna,1.0,Moderate,160,OZONE
+2018-04-01,Patna,1.0,Moderate,138,PM2.5
+2018-04-03,Patna,1.0,Poor,256,OZONE
+2018-04-04,Patna,1.0,Poor,208,OZONE
+2018-04-05,Patna,1.0,Moderate,144,PM2.5
+2018-04-06,Patna,1.0,Moderate,143,PM2.5
+2018-04-07,Patna,1.0,Moderate,143,PM2.5
+2018-04-08,Patna,1.0,Poor,217,PM2.5
+2018-04-09,Patna,1.0,Moderate,187,PM2.5
+2018-04-10,Patna,1.0,Poor,234,PM2.5
+2018-04-11,Patna,1.0,Moderate,162,PM2.5
+2018-04-12,Patna,1.0,Moderate,197,PM2.5
+2018-04-13,Patna,1.0,Poor,205,PM2.5
+2018-04-14,Patna,1.0,Moderate,191,PM2.5
+2018-04-16,Patna,1.0,Poor,212,PM2.5
+2018-04-18,Patna,1.0,Poor,210,PM2.5
+2018-04-19,Patna,1.0,Poor,234,PM2.5
+2018-04-20,Patna,1.0,Poor,214,PM2.5
+2018-04-21,Patna,1.0,Poor,254,PM2.5
+2018-04-22,Patna,1.0,Poor,218,PM2.5
+2018-04-23,Patna,1.0,Moderate,181,OZONE
+2018-04-25,Patna,1.0,Poor,284,PM2.5
+2018-04-26,Patna,1.0,Moderate,161,OZONE
+2018-04-27,Patna,1.0,Moderate,191,OZONE
+2018-04-29,Patna,1.0,Moderate,172,OZONE
+2018-04-30,Patna,1.0,Moderate,173,OZONE
+2018-05-01,Patna,1.0,Moderate,100,OZONE
+2018-05-02,Patna,1.0,Moderate,100,OZONE
+2018-05-03,Patna,1.0,Moderate,121,OZONE
+2018-05-04,Patna,1.0,Moderate,166,OZONE
+2018-05-05,Patna,1.0,Poor,261,OZONE
+2018-05-06,Patna,1.0,Poor,210,PM2.5
+2018-05-07,Patna,1.0,Poor,238,PM2.5
+2018-05-08,Patna,1.0,Poor,226,PM2.5
+2018-05-09,Patna,1.0,Moderate,186,PM2.5
+2018-05-10,Patna,1.0,Poor,208,PM2.5
+2018-05-11,Patna,1.0,Poor,246,OZONE
+2018-05-12,Patna,1.0,Moderate,166,OZONE
+2018-05-13,Patna,1.0,Moderate,127,OZONE
+2018-05-14,Patna,1.0,Poor,238,OZONE
+2018-05-15,Patna,1.0,Moderate,188,OZONE
+2018-05-16,Patna,1.0,Moderate,168,OZONE
+2018-05-17,Patna,1.0,Moderate,164,OZONE
+2018-05-19,Patna,1.0,Moderate,167,PM2.5
+2018-05-20,Patna,1.0,Moderate,124,OZONE
+2018-05-21,Patna,1.0,Poor,225,PM2.5
+2018-05-22,Patna,1.0,Moderate,198,PM2.5
+2018-05-23,Patna,1.0,Moderate,169,PM2.5
+2018-05-24,Patna,1.0,Moderate,145,PM2.5
+2018-05-25,Patna,1.0,Moderate,190,OZONE
+2018-05-26,Patna,1.0,Poor,279,OZONE
+2018-05-27,Patna,1.0,Moderate,170,OZONE
+2018-05-28,Patna,1.0,Poor,217,OZONE
+2018-05-29,Patna,1.0,Moderate,197,OZONE
+2018-05-30,Patna,1.0,Moderate,170,OZONE
+2018-05-31,Patna,1.0,Moderate,172,OZONE
+2018-06-01,Patna,1.0,Moderate,167,OZONE
+2018-06-02,Patna,1.0,Poor,206,OZONE
+2018-06-03,Patna,1.0,Moderate,152,OZONE
+2018-06-04,Patna,1.0,Moderate,173,PM2.5
+2018-06-05,Patna,1.0,Moderate,152,PM2.5
+2018-06-06,Patna,1.0,Moderate,162,OZONE
+2018-06-07,Patna,1.0,Moderate,163,PM2.5
+2018-06-08,Patna,1.0,Satisfactory,96,NO2
+2018-06-09,Patna,1.0,Moderate,102,OZONE
+2018-06-10,Patna,1.0,Moderate,167,OZONE
+2018-06-11,Patna,1.0,Moderate,111,PM2.5
+2018-06-12,Patna,1.0,Moderate,144,PM2.5
+2018-06-13,Patna,1.0,Moderate,131,PM2.5
+2018-06-14,Patna,1.0,Moderate,174,PM2.5
+2018-06-15,Patna,1.0,Poor,221,PM2.5
+2018-06-16,Patna,1.0,Poor,203,PM2.5
+2018-06-17,Patna,1.0,Moderate,160,PM2.5
+2018-06-18,Patna,1.0,Moderate,162,PM2.5
+2018-06-19,Patna,1.0,Moderate,162,PM2.5
+2018-06-20,Patna,1.0,Moderate,142,NO2
+2018-06-21,Patna,1.0,Moderate,163,OZONE
+2018-06-22,Patna,1.0,Moderate,163,OZONE
+2018-06-23,Patna,1.0,Moderate,153,OZONE
+2018-06-24,Patna,1.0,Moderate,123,PM2.5
+2018-06-25,Patna,1.0,Moderate,154,OZONE
+2018-06-26,Patna,1.0,Satisfactory,87,OZONE
+2018-06-27,Patna,1.0,Moderate,106,PM2.5
+2018-06-28,Patna,1.0,Satisfactory,94,NO2
+2018-06-29,Patna,1.0,Moderate,100,NO2
+2018-06-30,Patna,1.0,Moderate,128,NO2
+2018-07-01,Patna,1.0,Moderate,126,PM2.5
+2018-07-02,Patna,1.0,Satisfactory,94,PM2.5
+2018-07-03,Patna,1.0,Moderate,107,PM2.5
+2018-07-04,Patna,1.0,Satisfactory,86,NO2
+2018-07-05,Patna,1.0,Satisfactory,76,OZONE
+2018-07-06,Patna,1.0,Moderate,102,NO2
+2018-07-07,Patna,1.0,Moderate,144,PM2.5
+2018-07-08,Patna,1.0,Moderate,105,PM2.5
+2018-07-09,Patna,1.0,Moderate,120,NO2
+2018-07-10,Patna,1.0,Satisfactory,89,NO2
+2018-07-11,Patna,1.0,Satisfactory,88,NO2
+2018-07-12,Patna,1.0,Satisfactory,92,NO2
+2018-07-13,Patna,1.0,Moderate,160,OZONE
+2018-07-15,Patna,1.0,Satisfactory,89,OZONE
+2018-07-16,Patna,1.0,Satisfactory,81,NO2
+2018-07-17,Patna,1.0,Satisfactory,77,OZONE
+2018-07-18,Patna,1.0,Satisfactory,81,NO2
+2018-07-19,Patna,1.0,Satisfactory,98,OZONE
+2018-07-20,Patna,1.0,Moderate,119,OZONE
+2018-07-21,Patna,1.0,Satisfactory,92,NO2
+2018-07-22,Patna,1.0,Satisfactory,73,OZONE
+2018-07-23,Patna,1.0,Satisfactory,66,NO2
+2018-07-25,Patna,1.0,Satisfactory,66,SO2
+2018-07-26,Patna,1.0,Satisfactory,66,PM2.5
+2018-07-27,Patna,1.0,Satisfactory,68,SO2
+2018-07-28,Patna,1.0,Satisfactory,79,PM2.5
+2018-07-29,Patna,1.0,Satisfactory,66,PM2.5
+2018-07-30,Patna,1.0,Satisfactory,58,OZONE
+2018-07-31,Patna,1.0,Satisfactory,81,PM2.5
+2018-08-02,Patna,1.0,Satisfactory,86,PM2.5
+2018-08-03,Patna,1.0,Satisfactory,86,PM2.5
+2018-08-04,Patna,1.0,Satisfactory,86,PM2.5
+2018-08-05,Patna,1.0,Moderate,130,PM2.5
+2018-08-07,Patna,1.0,Moderate,103,PM2.5
+2018-08-08,Patna,1.0,Satisfactory,74,OZONE
+2018-08-10,Patna,1.0,Satisfactory,94,NO2
+2018-08-11,Patna,1.0,Moderate,174,PM2.5
+2018-08-12,Patna,1.0,Moderate,133,PM2.5
+2018-08-13,Patna,1.0,Moderate,103,PM2.5
+2018-08-14,Patna,1.0,Moderate,125,PM2.5
+2018-08-15,Patna,1.0,Satisfactory,99,NO2
+2018-08-16,Patna,1.0,Satisfactory,61,NO2
+2018-08-17,Patna,1.0,Satisfactory,78,NO2
+2018-08-18,Patna,1.0,Moderate,112,PM2.5
+2018-08-19,Patna,1.0,Moderate,113,PM2.5
+2018-08-20,Patna,1.0,Satisfactory,87,NO2
+2018-08-21,Patna,1.0,Satisfactory,66,NO2
+2018-08-22,Patna,1.0,Satisfactory,90,PM2.5
+2018-08-23,Patna,1.0,Satisfactory,98,PM2.5
+2018-08-24,Patna,1.0,Moderate,136,PM2.5
+2018-08-25,Patna,1.0,Satisfactory,98,PM2.5
+2018-08-26,Patna,1.0,Moderate,109,PM2.5
+2018-08-27,Patna,1.0,Satisfactory,85,PM2.5
+2018-08-28,Patna,1.0,Satisfactory,78,NO2
+2018-08-29,Patna,1.0,Satisfactory,72,OZONE
+2018-08-30,Patna,1.0,Moderate,149,PM2.5
+2018-08-31,Patna,1.0,Satisfactory,95,NO2
+2018-09-02,Patna,1.0,Satisfactory,93,PM2.5
+2018-09-03,Patna,1.0,Satisfactory,74,NO2
+2018-09-04,Patna,1.0,Satisfactory,74,NO2
+2018-09-05,Patna,1.0,Satisfactory,87,PM2.5
+2018-09-06,Patna,1.0,Moderate,122,PM2.5
+2018-09-07,Patna,1.0,Satisfactory,70,OZONE
+2018-09-08,Patna,1.0,Satisfactory,93,PM2.5
+2018-09-09,Patna,1.0,Moderate,171,PM2.5
+2018-09-10,Patna,1.0,Satisfactory,92,PM2.5
+2018-09-11,Patna,1.0,Satisfactory,93,PM2.5
+2018-09-12,Patna,1.0,Satisfactory,88,PM2.5
+2018-09-13,Patna,1.0,Satisfactory,92,PM2.5
+2018-09-14,Patna,1.0,Moderate,104,PM2.5
+2018-09-15,Patna,1.0,Moderate,112,PM2.5
+2018-09-16,Patna,1.0,Moderate,127,PM2.5
+2018-09-18,Patna,1.0,Moderate,182,PM2.5
+2018-09-19,Patna,1.0,Poor,201,PM2.5
+2018-09-20,Patna,1.0,Poor,225,PM2.5
+2018-09-22,Patna,1.0,Satisfactory,67,PM2.5
+2018-09-23,Patna,1.0,Moderate,117,PM2.5
+2018-09-24,Patna,1.0,Moderate,141,PM2.5
+2018-09-25,Patna,1.0,Moderate,158,PM2.5
+2018-09-28,Patna,1.0,Moderate,151,PM2.5
+2018-09-29,Patna,1.0,Moderate,182,PM2.5
+2018-09-30,Patna,1.0,Moderate,182,OZONE
+2018-10-01,Patna,1.0,Moderate,173,OZONE
+2018-10-02,Patna,1.0,Moderate,195,PM2.5
+2018-10-03,Patna,1.0,Poor,223,PM2.5
+2018-10-04,Patna,1.0,Poor,241,PM2.5
+2018-10-06,Patna,1.0,Moderate,189,PM2.5
+2018-10-07,Patna,1.0,Moderate,194,PM2.5
+2018-10-08,Patna,1.0,Poor,222,PM2.5
+2018-10-09,Patna,1.0,Poor,268,PM2.5
+2018-10-10,Patna,1.0,Poor,245,PM2.5
+2018-10-11,Patna,1.0,Moderate,176,PM2.5
+2018-10-12,Patna,1.0,Satisfactory,74,CO
+2018-10-14,Patna,1.0,Moderate,163,PM2.5
+2018-10-15,Patna,1.0,Poor,227,PM2.5
+2018-10-16,Patna,1.0,Poor,262,PM2.5
+2018-10-17,Patna,1.0,Poor,242,PM2.5
+2018-10-18,Patna,1.0,Poor,283,PM2.5
+2018-10-19,Patna,1.0,Poor,234,PM2.5
+2018-10-20,Patna,1.0,Poor,276,PM2.5
+2018-10-24,Patna,1.0,Poor,273,PM2.5
+2018-10-25,Patna,1.0,Very Poor,310,PM2.5
+2018-10-26,Patna,1.0,Very Poor,313,PM2.5
+2018-10-27,Patna,1.0,Poor,282,PM2.5
+2018-10-28,Patna,1.0,Poor,282,PM2.5
+2018-10-29,Patna,1.0,Poor,236,PM2.5
+2018-10-30,Patna,1.0,Poor,266,PM2.5
+2018-10-31,Patna,1.0,Poor,220,PM2.5
+2018-11-01,Patna,1.0,Poor,282,PM2.5
+2018-11-02,Patna,1.0,Very Poor,309,PM2.5
+2018-11-03,Patna,1.0,Poor,289,PM2.5
+2018-11-04,Patna,1.0,Very Poor,305,PM2.5
+2018-11-06,Patna,1.0,Very Poor,334,PM2.5
+2018-11-07,Patna,1.0,Very Poor,373,PM2.5
+2018-11-08,Patna,1.0,Severe,427,PM2.5
+2018-11-09,Patna,1.0,Very Poor,348,PM2.5
+2018-11-10,Patna,1.0,Very Poor,352,PM2.5
+2018-11-13,Patna,1.0,Very Poor,372,PM2.5
+2018-11-14,Patna,1.0,Severe,406,PM2.5
+2018-11-15,Patna,1.0,Very Poor,361,PM2.5
+2018-11-16,Patna,1.0,Very Poor,315,PM2.5
+2018-11-17,Patna,1.0,Poor,295,PM2.5
+2018-11-18,Patna,1.0,Very Poor,315,PM2.5
+2018-11-19,Patna,1.0,Severe,403,PM2.5
+2018-11-20,Patna,1.0,Severe,402,PM2.5
+2018-11-21,Patna,1.0,Severe,423,PM2.5
+2018-11-22,Patna,1.0,Very Poor,370,PM2.5
+2018-11-23,Patna,1.0,Very Poor,373,PM2.5
+2018-11-24,Patna,1.0,Very Poor,347,PM2.5
+2018-11-25,Patna,1.0,Very Poor,398,PM2.5
+2018-11-26,Patna,1.0,Very Poor,398,PM2.5
+2018-11-27,Patna,1.0,Very Poor,366,PM2.5
+2018-11-28,Patna,1.0,Poor,277,PM2.5
+2018-11-29,Patna,1.0,Very Poor,331,PM2.5
+2018-11-30,Patna,1.0,Very Poor,352,PM2.5
+2018-12-01,Patna,1.0,Very Poor,374,PM2.5
+2018-12-02,Patna,1.0,Severe,405,PM2.5
+2018-12-03,Patna,1.0,Very Poor,380,PM2.5
+2018-12-04,Patna,1.0,Severe,409,PM2.5
+2018-12-05,Patna,1.0,Severe,413,PM2.5
+2018-12-06,Patna,1.0,Severe,405,PM2.5
+2018-12-07,Patna,1.0,Severe,405,PM2.5
+2018-12-08,Patna,1.0,Severe,406,PM2.5
+2018-12-09,Patna,1.0,Severe,419,PM2.5
+2018-12-11,Patna,1.0,Very Poor,386,PM2.5
+2018-12-13,Patna,1.0,Very Poor,394,PM2.5
+2018-12-14,Patna,1.0,Very Poor,394,PM2.5
+2018-12-15,Patna,1.0,Very Poor,329,PM2.5
+2018-12-18,Patna,1.0,Very Poor,391,PM2.5
+2018-12-19,Patna,1.0,Poor,254,PM2.5
+2018-12-21,Patna,1.0,Severe,456,PM2.5
+2018-12-23,Patna,1.0,Severe,423,PM2.5
+2018-12-24,Patna,1.0,Very Poor,390,PM2.5
+2018-12-25,Patna,1.0,Very Poor,373,PM2.5
+2018-12-26,Patna,1.0,Very Poor,394,PM2.5
+2018-12-27,Patna,1.0,Very Poor,396,PM2.5
+2018-12-29,Patna,1.0,Very Poor,372,PM2.5
+2018-12-30,Patna,1.0,Severe,414,PM2.5
+2018-12-31,Patna,1.0,Severe,427,PM2.5
+2019-01-01,Patna,1.0,Severe,454,PM2.5
+2019-01-02,Patna,1.0,Severe,468,PM2.5
+2019-01-03,Patna,1.0,Severe,466,PM2.5
+2019-01-04,Patna,1.0,Severe,452,PM2.5
+2019-01-05,Patna,1.0,Severe,470,PM2.5
+2019-01-06,Patna,1.0,Severe,407,PM2.5
+2019-01-07,Patna,1.0,Very Poor,349,PM2.5
+2019-01-08,Patna,1.0,Very Poor,312,PM2.5
+2019-01-09,Patna,1.0,Poor,291,PM2.5
+2019-01-11,Patna,1.0,Severe,421,PM2.5
+2019-01-12,Patna,1.0,Severe,406,PM2.5
+2019-01-13,Patna,1.0,Severe,418,PM2.5
+2019-01-15,Patna,1.0,Poor,271,PM2.5
+2019-01-16,Patna,1.0,Very Poor,326,PM2.5
+2019-01-17,Patna,1.0,Severe,427,PM2.5
+2019-01-18,Patna,1.0,Severe,444,PM2.5
+2019-01-19,Patna,1.0,Severe,419,PM2.5
+2019-01-20,Patna,1.0,Severe,433,PM2.5
+2019-01-21,Patna,1.0,Severe,462,PM2.5
+2019-01-22,Patna,1.0,Severe,449,PM2.5
+2019-01-23,Patna,1.0,Very Poor,366,PM2.5
+2019-01-24,Patna,1.0,Poor,244,PM2.5
+2019-01-25,Patna,1.0,Very Poor,353,PM2.5
+2019-01-26,Patna,1.0,Very Poor,337,PM2.5
+2019-01-27,Patna,1.0,Poor,247,PM2.5
+2019-01-28,Patna,1.0,Poor,233,PM2.5
+2019-01-29,Patna,1.0,Poor,233,PM2.5
+2019-01-30,Patna,1.0,Poor,244,PM2.5
+2019-01-31,Patna,1.0,Very Poor,384,PM2.5
+2019-02-01,Patna,1.0,Very Poor,389,PM2.5
+2019-02-02,Patna,1.0,Very Poor,391,PM2.5
+2019-02-03,Patna,1.0,Very Poor,344,PM2.5
+2019-02-04,Patna,1.0,Very Poor,307,PM2.5
+2019-02-05,Patna,1.0,Poor,295,PM2.5
+2019-02-07,Patna,1.0,Very Poor,374,PM2.5
+2019-02-08,Patna,1.0,Very Poor,303,PM2.5
+2019-02-09,Patna,1.0,Poor,215,PM2.5
+2019-02-10,Patna,1.0,Moderate,184,PM2.5
+2019-02-11,Patna,1.0,Poor,270,PM2.5
+2019-02-12,Patna,1.0,Poor,254,PM2.5
+2019-02-13,Patna,1.0,Very Poor,317,PM2.5
+2019-02-14,Patna,1.0,Very Poor,331,PM2.5
+2019-02-15,Patna,1.0,Very Poor,334,PM2.5
+2019-02-16,Patna,1.0,Poor,221,PM2.5
+2019-02-17,Patna,1.0,Moderate,198,PM2.5
+2019-02-18,Patna,1.0,Poor,201,PM2.5
+2019-02-19,Patna,1.0,Poor,282,PM2.5
+2019-02-20,Patna,1.0,Very Poor,305,PM2.5
+2019-02-21,Patna,1.0,Poor,269,PM2.5
+2019-02-22,Patna,1.0,Very Poor,315,PM2.5
+2019-02-23,Patna,1.0,Poor,238,PM2.5
+2019-02-24,Patna,1.0,Moderate,170,OZONE
+2019-02-25,Patna,1.0,Poor,212,PM2.5
+2019-02-26,Patna,1.0,Poor,289,PM2.5
+2019-02-27,Patna,1.0,Poor,210,PM2.5
+2019-02-28,Patna,1.0,Satisfactory,90,PM2.5
+2019-03-01,Patna,1.0,Moderate,156,OZONE
+2019-03-02,Patna,1.0,Poor,234,PM2.5
+2019-03-03,Patna,1.0,Poor,273,PM2.5
+2019-03-04,Patna,1.0,Poor,230,PM2.5
+2019-03-05,Patna,1.0,Poor,234,PM2.5
+2019-03-06,Patna,1.0,Moderate,176,PM2.5
+2019-03-07,Patna,1.0,Poor,242,OZONE
+2019-03-08,Patna,1.0,Poor,201,PM2.5
+2019-03-09,Patna,1.0,Moderate,196,PM2.5
+2019-03-10,Patna,1.0,Poor,274,PM2.5
+2019-03-11,Patna,1.0,Poor,211,PM2.5
+2019-03-12,Patna,1.0,Poor,239,PM2.5
+2019-03-13,Patna,1.0,Poor,204,PM2.5
+2019-03-14,Patna,1.0,Poor,260,OZONE
+2019-03-15,Patna,1.0,Moderate,158,PM2.5
+2019-03-16,Patna,1.0,Moderate,183,PM2.5
+2019-03-17,Patna,1.0,Poor,262,OZONE
+2019-03-18,Patna,1.0,Moderate,178,OZONE
+2019-03-19,Patna,1.0,Moderate,182,OZONE
+2019-03-20,Patna,1.0,Poor,218,PM2.5
+2019-03-21,Patna,1.0,Poor,272,PM2.5
+2019-03-22,Patna,1.0,Moderate,180,OZONE
+2019-03-23,Patna,1.0,Poor,245,OZONE
+2019-03-24,Patna,1.0,Moderate,159,OZONE
+2019-03-25,Patna,1.0,Moderate,164,OZONE
+2019-03-27,Patna,1.0,Moderate,136,OZONE
+2019-03-28,Patna,1.0,Moderate,182,OZONE
+2019-04-02,Patna,1.0,Poor,231,OZONE
+2019-04-03,Patna,1.0,Moderate,194,PM2.5
+2019-04-04,Patna,1.0,Moderate,188,OZONE
+2019-04-05,Patna,1.0,Satisfactory,92,PM2.5
+2019-04-06,Patna,1.0,Satisfactory,95,PM2.5
+2019-04-07,Patna,1.0,Moderate,151,OZONE
+2019-04-08,Patna,1.0,Satisfactory,94,OZONE
+2019-04-09,Patna,1.0,Moderate,113,PM2.5
+2019-04-10,Patna,1.0,Moderate,175,OZONE
+2019-04-11,Patna,1.0,Moderate,173,OZONE
+2019-04-12,Patna,1.0,Moderate,154,OZONE
+2019-04-13,Patna,1.0,Moderate,124,PM2.5
+2019-04-14,Patna,1.0,Moderate,170,OZONE
+2019-04-15,Patna,1.0,Moderate,123,OZONE
+2019-04-16,Patna,1.0,Satisfactory,99,PM2.5
+2019-04-17,Patna,1.0,Satisfactory,77,OZONE
+2019-04-18,Patna,1.0,Moderate,168,OZONE
+2019-04-19,Patna,1.0,Moderate,195,OZONE
+2019-04-20,Patna,1.0,Poor,201,OZONE
+2019-04-21,Patna,1.0,Moderate,198,NO2
+2019-04-23,Patna,1.0,Moderate,150,OZONE
+2019-04-24,Patna,1.0,Poor,235,OZONE
+2019-04-25,Patna,1.0,Poor,273,OZONE
+2019-04-26,Patna,1.0,Moderate,173,OZONE
+2019-04-27,Patna,1.0,Moderate,156,OZONE
+2019-04-28,Patna,1.0,Poor,243,OZONE
+2019-04-29,Patna,1.0,Poor,208,OZONE
+2019-04-30,Patna,1.0,Moderate,116,PM2.5
+2019-05-01,Patna,1.0,Moderate,190,OZONE
+2019-05-02,Patna,1.0,Moderate,172,OZONE
+2019-05-04,Patna,1.0,Satisfactory,96,OZONE
+2019-05-05,Patna,1.0,Poor,243,OZONE
+2019-05-06,Patna,1.0,Moderate,191,OZONE
+2019-05-07,Patna,1.0,Poor,228,OZONE
+2019-05-08,Patna,1.0,Poor,244,OZONE
+2019-05-09,Patna,1.0,Poor,247,OZONE
+2019-05-10,Patna,1.0,Moderate,192,OZONE
+2019-05-11,Patna,1.0,Moderate,175,PM2.5
+2019-05-12,Patna,1.0,Poor,236,OZONE
+2019-05-13,Patna,1.0,Moderate,113,PM2.5
+2019-05-14,Patna,1.0,Poor,242,OZONE
+2019-05-15,Patna,1.0,Poor,240,OZONE
+2019-05-16,Patna,1.0,Moderate,175,OZONE
+2019-05-17,Patna,1.0,Moderate,108,OZONE
+2019-05-18,Patna,1.0,Moderate,196,OZONE
+2019-05-19,Patna,1.0,Poor,217,OZONE
+2019-05-20,Patna,1.0,Poor,268,OZONE
+2019-05-21,Patna,1.0,Poor,241,OZONE
+2019-05-22,Patna,1.0,Moderate,156,OZONE
+2019-05-23,Patna,1.0,Moderate,187,OZONE
+2019-05-24,Patna,1.0,Satisfactory,74,PM2.5
+2019-05-25,Patna,1.0,Satisfactory,81,PM2.5
+2019-05-26,Patna,1.0,Moderate,166,OZONE
+2019-05-27,Patna,1.0,Poor,209,OZONE
+2019-05-28,Patna,1.0,Poor,224,OZONE
+2019-05-29,Patna,1.0,Moderate,103,OZONE
+2019-05-30,Patna,1.0,Poor,216,OZONE
+2019-05-31,Patna,1.0,Moderate,172,OZONE
+2019-06-01,Patna,1.0,Satisfactory,89,OZONE
+2019-06-02,Patna,1.0,Moderate,135,OZONE
+2019-06-04,Patna,1.0,Moderate,106,OZONE
+2019-06-05,Patna,1.0,Satisfactory,66,PM2.5
+2019-06-06,Patna,1.0,Satisfactory,94,OZONE
+2019-06-07,Patna,1.0,Moderate,153,OZONE
+2019-06-08,Patna,1.0,Poor,232,OZONE
+2019-06-09,Patna,1.0,Moderate,141,OZONE
+2019-06-10,Patna,1.0,Moderate,104,OZONE
+2019-06-11,Patna,1.0,Moderate,160,OZONE
+2019-06-12,Patna,1.0,Satisfactory,99,OZONE
+2019-06-13,Patna,1.0,Moderate,186,OZONE
+2019-06-14,Patna,1.0,Poor,274,OZONE
+2019-06-15,Patna,1.0,Poor,220,OZONE
+2019-06-16,Patna,1.0,Poor,242,OZONE
+2019-06-18,Patna,1.0,Poor,272,OZONE
+2019-06-19,Patna,1.0,Moderate,116,OZONE
+2019-06-20,Patna,1.0,Satisfactory,100,OZONE
+2019-06-21,Patna,1.0,Moderate,104,OZONE
+2019-06-22,Patna,1.0,Satisfactory,64,PM2.5
+2019-06-23,Patna,1.0,Moderate,118,NO2
+2019-06-24,Patna,1.0,Moderate,137,NO2
+2019-06-25,Patna,1.0,Moderate,137,NO2
+2019-06-26,Patna,1.0,Moderate,136,NO2
+2019-06-27,Patna,1.0,Satisfactory,96,NO2
+2019-06-28,Patna,1.0,Moderate,116,NO2
+2019-06-29,Patna,1.0,Moderate,123,NO2
+2019-07-01,Patna,1.0,Satisfactory,97,PM2.5
+2019-07-02,Patna,1.0,Satisfactory,74,CO
+2019-07-03,Patna,1.0,Satisfactory,74,CO
+2019-07-04,Patna,1.0,Satisfactory,59,CO
+2019-07-05,Patna,1.0,Satisfactory,66,PM2.5
+2019-07-06,Patna,1.0,Satisfactory,96,NO2
+2019-07-07,Patna,1.0,Satisfactory,70,NO2
+2019-07-08,Patna,1.0,Satisfactory,79,NO2
+2019-07-09,Patna,1.0,Satisfactory,74,NO2
+2019-07-10,Patna,1.0,Satisfactory,62,NO2
+2019-07-11,Patna,1.0,Satisfactory,55,OZONE
+2019-07-12,Patna,1.0,Satisfactory,70,NO2
+2019-07-14,Patna,1.0,Satisfactory,62,NO2
+2019-07-15,Patna,1.0,Satisfactory,70,CO
+2019-07-16,Patna,1.0,Satisfactory,89,NO2
+2019-07-17,Patna,1.0,Satisfactory,95,CO
+2019-07-18,Patna,1.0,Satisfactory,94,CO
+2019-07-19,Patna,1.0,Satisfactory,91,CO
+2019-07-20,Patna,1.0,Satisfactory,70,PM2.5
+2019-07-21,Patna,1.0,Satisfactory,63,CO
+2019-07-22,Patna,1.0,Satisfactory,84,CO
+2019-07-23,Patna,1.0,Satisfactory,89,NO2
+2019-07-24,Patna,1.0,Satisfactory,60,SO2
+2019-07-25,Patna,1.0,Satisfactory,63,OZONE
+2019-07-26,Patna,1.0,Satisfactory,65,CO
+2019-07-27,Patna,1.0,Satisfactory,63,OZONE
+2019-07-28,Patna,1.0,Satisfactory,63,SO2
+2019-07-29,Patna,1.0,Satisfactory,56,CO
+2019-07-30,Patna,1.0,Satisfactory,64,CO
+2019-07-31,Patna,1.0,Satisfactory,61,CO
+2019-08-01,Patna,1.0,Satisfactory,73,OZONE
+2019-08-02,Patna,1.0,Satisfactory,81,OZONE
+2019-08-03,Patna,1.0,Satisfactory,81,OZONE
+2019-08-04,Patna,1.0,Satisfactory,63,SO2
+2019-08-05,Patna,1.0,Satisfactory,67,CO
+2019-08-06,Patna,1.0,Moderate,101,CO
+2019-08-07,Patna,1.0,Satisfactory,93,CO
+2019-08-09,Patna,1.0,Satisfactory,84,CO
+2019-08-10,Patna,1.0,Satisfactory,94,NO2
+2019-08-11,Patna,1.0,Moderate,104,NO2
+2019-08-12,Patna,1.0,Satisfactory,76,CO
+2019-08-13,Patna,1.0,Satisfactory,89,CO
+2019-08-14,Patna,1.0,Satisfactory,63,CO
+2019-08-15,Patna,1.0,Satisfactory,61,NO2
+2019-08-16,Patna,1.0,Satisfactory,61,SO2
+2019-08-17,Patna,1.0,Satisfactory,62,SO2
+2019-08-18,Patna,1.0,Satisfactory,79,PM2.5
+2019-08-19,Patna,1.0,Satisfactory,85,CO
+2019-08-20,Patna,1.0,Satisfactory,74,CO
+2019-08-21,Patna,1.0,Satisfactory,75,PM2.5
+2019-08-23,Patna,1.0,Satisfactory,71,PM2.5
+2019-08-24,Patna,1.0,Satisfactory,63,SO2
+2019-08-25,Patna,1.0,Satisfactory,61,NO2
+2019-08-28,Patna,1.0,Satisfactory,77,PM2.5
+2019-08-29,Patna,1.0,Satisfactory,76,PM2.5
+2019-08-30,Patna,1.0,Satisfactory,88,OZONE
+2019-08-31,Patna,1.0,Moderate,106,OZONE
+2019-09-01,Patna,1.0,Poor,214,OZONE
+2019-09-03,Patna,1.0,Moderate,120,OZONE
+2019-09-04,Patna,1.0,Satisfactory,95,NO2
+2019-09-05,Patna,1.0,Satisfactory,84,NO2
+2019-09-07,Patna,1.0,Satisfactory,71,OZONE
+2019-09-08,Patna,1.0,Satisfactory,78,OZONE
+2019-09-09,Patna,1.0,Moderate,115,OZONE
+2019-09-10,Patna,1.0,Satisfactory,99,PM2.5
+2019-09-11,Patna,1.0,Satisfactory,100,PM2.5
+2019-09-12,Patna,1.0,Satisfactory,88,NO2
+2019-09-13,Patna,1.0,Satisfactory,76,CO
+2019-09-14,Patna,1.0,Satisfactory,92,NO2
+2019-09-15,Patna,1.0,Satisfactory,83,PM2.5
+2019-09-16,Patna,1.0,Moderate,104,PM2.5
+2019-09-17,Patna,1.0,Satisfactory,82,PM2.5
+2019-09-18,Patna,1.0,Moderate,102,CO
+2019-09-19,Patna,1.0,Satisfactory,97,CO
+2019-09-20,Patna,1.0,Satisfactory,87,NO2
+2019-09-21,Patna,1.0,Moderate,111,NO2
+2019-09-23,Patna,1.0,Satisfactory,79,CO
+2019-09-24,Patna,1.0,Moderate,104,NO2
+2019-09-27,Patna,1.0,Satisfactory,59,SO2
+2019-09-28,Patna,1.0,Satisfactory,59,SO2
+2019-09-29,Patna,1.0,Satisfactory,59,SO2
+2019-10-01,Patna,1.0,Satisfactory,67,SO2
+2019-10-02,Patna,1.0,Satisfactory,81,NO2
+2019-10-04,Patna,1.0,Satisfactory,88,PM2.5
+2019-10-10,Patna,1.0,Satisfactory,84,PM2.5
+2019-10-11,Patna,1.0,Moderate,104,PM2.5
+2019-10-12,Patna,1.0,Moderate,116,PM2.5
+2019-10-15,Patna,1.0,Moderate,171,PM2.5
+2019-10-16,Patna,1.0,Poor,207,PM2.5
+2019-10-17,Patna,1.0,Poor,256,PM2.5
+2019-10-18,Patna,1.0,Poor,298,PM2.5
+2019-10-19,Patna,1.0,Very Poor,309,PM2.5
+2019-10-20,Patna,1.0,Moderate,168,PM2.5
+2019-10-21,Patna,1.0,Poor,246,PM2.5
+2019-10-23,Patna,1.0,Poor,297,PM2.5
+2019-10-24,Patna,1.0,Very Poor,310,PM2.5
+2019-10-25,Patna,1.0,Moderate,124,PM2.5
+2019-10-26,Patna,1.0,Satisfactory,89,OZONE
+2019-10-27,Patna,1.0,Moderate,174,PM2.5
+2019-10-28,Patna,1.0,Very Poor,334,PM2.5
+2019-10-29,Patna,1.0,Very Poor,365,PM2.5
+2019-10-30,Patna,1.0,Very Poor,359,PM2.5
+2019-10-31,Patna,1.0,Very Poor,347,PM2.5
+2019-11-01,Patna,1.0,Very Poor,357,PM2.5
+2019-11-02,Patna,1.0,Severe,428,PM2.5
+2019-11-03,Patna,1.0,Severe,413,PM2.5
+2019-11-04,Patna,1.0,Very Poor,382,PM2.5
+2019-11-05,Patna,1.0,Severe,414,PM2.5
+2019-11-06,Patna,1.0,Very Poor,317,PM2.5
+2019-11-07,Patna,1.0,Very Poor,338,PM2.5
+2019-11-08,Patna,1.0,Very Poor,339,PM2.5
+2019-11-09,Patna,1.0,Poor,297,PM2.5
+2019-11-10,Patna,1.0,Poor,231,PM2.5
+2019-11-11,Patna,1.0,Poor,281,PM2.5
+2019-11-12,Patna,1.0,Poor,300,PM2.5
+2019-11-13,Patna,1.0,Very Poor,373,PM2.5
+2019-11-14,Patna,1.0,Very Poor,389,PM2.5
+2019-11-15,Patna,1.0,Very Poor,342,PM2.5
+2019-11-16,Patna,1.0,Very Poor,306,PM2.5
+2019-11-17,Patna,1.0,Very Poor,309,PM2.5
+2019-11-18,Patna,1.0,Very Poor,323,PM2.5
+2019-11-19,Patna,1.0,Poor,281,PM2.5
+2019-11-20,Patna,1.0,Very Poor,327,PM2.5
+2019-11-22,Patna,1.0,Very Poor,372,PM2.5
+2019-11-23,Patna,1.0,Severe,407,PM2.5
+2019-11-24,Patna,1.0,Very Poor,382,PM2.5
+2019-11-25,Patna,1.0,Severe,404,PM2.5
+2019-11-26,Patna,1.0,Severe,419,PM2.5
+2019-11-27,Patna,1.0,Severe,426,PM2.5
+2019-11-28,Patna,1.0,Very Poor,371,PM2.5
+2019-11-29,Patna,1.0,Very Poor,377,PM2.5
+2019-11-30,Patna,1.0,Very Poor,312,PM2.5
+2019-12-02,Patna,1.0,Very Poor,326,PM2.5
+2019-12-03,Patna,1.0,Very Poor,380,PM2.5
+2019-12-04,Patna,1.0,Very Poor,386,PM2.5
+2019-12-05,Patna,1.0,Very Poor,395,PM2.5
+2019-12-06,Patna,1.0,Severe,411,PM2.5
+2019-12-07,Patna,1.0,Very Poor,325,PM2.5
+2019-12-08,Patna,1.0,Very Poor,305,PM2.5
+2019-12-09,Patna,1.0,Very Poor,340,PM2.5
+2019-12-10,Patna,1.0,Very Poor,356,PM2.5
+2019-12-11,Patna,1.0,Severe,404,PM2.5
+2019-12-12,Patna,1.0,Severe,402,PM2.5
+2019-12-13,Patna,1.0,Very Poor,351,PM2.5
+2019-12-18,Patna,1.0,Poor,282,PM2.5
+2019-12-20,Patna,1.0,Very Poor,352,PM2.5
+2019-12-21,Patna,1.0,Severe,412,PM2.5
+2019-12-22,Patna,1.0,Severe,447,PM2.5
+2019-12-23,Patna,1.0,Severe,422,PM2.5
+2019-12-24,Patna,1.0,Severe,431,PM2.5
+2019-12-25,Patna,1.0,Very Poor,386,PM2.5
+2019-12-26,Patna,4.0,Poor,272,PM2.5
+2019-12-27,Patna,4.0,Poor,253,PM2.5
+2019-12-28,Patna,4.0,Very Poor,311,PM2.5
+2019-12-29,Patna,4.0,Very Poor,316,PM2.5
+2019-12-30,Patna,4.0,Very Poor,322,PM2.5
+2019-12-31,Patna,4.0,Very Poor,340,PM2.5
+2020-01-01,Patna,4.0,Very Poor,365,PM2.5
+2020-01-02,Patna,4.0,Very Poor,362,PM2.5
+2020-01-03,Patna,4.0,Very Poor,342,PM2.5
+2020-01-04,Patna,4.0,Moderate,150,"PM10, PM2.5"
+2020-01-05,Patna,3.0,Moderate,140,"CO, PM2.5"
+2020-01-06,Patna,2.0,Moderate,115,PM10
+2020-01-07,Patna,4.0,Very Poor,323,PM2.5
+2020-01-08,Patna,4.0,Very Poor,343,PM2.5
+2020-01-09,Patna,3.0,Poor,250,PM2.5
+2020-01-10,Patna,3.0,Poor,214,PM2.5
+2020-01-11,Patna,3.0,Moderate,180,"CO, PM10, PM2.5"
+2020-01-12,Patna,2.0,Poor,242,"CO, PM2.5"
+2020-01-13,Patna,3.0,Poor,217,"CO, PM2.5"
+2020-01-14,Patna,3.0,Poor,294,PM2.5
+2020-01-15,Patna,3.0,Very Poor,301,PM2.5
+2020-01-16,Patna,3.0,Very Poor,325,PM2.5
+2020-01-17,Patna,4.0,Poor,250,PM2.5
+2020-01-18,Patna,3.0,Poor,224,PM2.5
+2020-01-19,Patna,3.0,Poor,210,PM2.5
+2020-01-20,Patna,3.0,Moderate,144,"PM10, PM2.5"
+2020-01-21,Patna,3.0,Poor,237,PM2.5
+2020-01-22,Patna,4.0,Poor,274,PM2.5
+2020-01-23,Patna,4.0,Poor,256,PM2.5
+2020-01-24,Patna,4.0,Moderate,138,"PM10, PM2.5"
+2020-01-25,Patna,4.0,Poor,231,PM2.5
+2020-01-26,Patna,4.0,Poor,256,PM2.5
+2020-01-27,Patna,4.0,Poor,299,PM2.5
+2020-01-28,Patna,4.0,Very Poor,302,PM2.5
+2020-01-29,Patna,2.0,Poor,276,PM2.5
+2020-01-30,Patna,4.0,Very Poor,305,"PM10, PM2.5"
+2020-01-31,Patna,2.0,Poor,206,PM2.5
+2020-02-01,Patna,3.0,Moderate,184,"PM10, PM2.5"
+2020-02-02,Patna,4.0,Moderate,163,"PM10, PM2.5"
+2020-02-03,Patna,4.0,Moderate,174,"PM10, PM2.5"
+2020-02-04,Patna,4.0,Poor,233,"PM10, PM2.5"
+2020-02-05,Patna,4.0,Poor,230,PM2.5
+2020-02-06,Patna,4.0,Poor,212,"PM10, PM2.5"
+2020-02-07,Patna,3.0,Poor,209,PM2.5
+2020-02-08,Patna,3.0,Poor,211,PM2.5
+2020-02-09,Patna,4.0,Moderate,192,"PM10, PM2.5"
+2020-02-10,Patna,4.0,Poor,217,"PM10, PM2.5"
+2020-02-11,Patna,4.0,Poor,232,PM2.5
+2020-02-12,Patna,3.0,Moderate,197,PM2.5
+2020-02-13,Patna,4.0,Poor,219,PM2.5
+2020-02-14,Patna,4.0,Poor,241,PM2.5
+2020-02-15,Patna,4.0,Moderate,153,"PM10, PM2.5"
+2020-02-16,Patna,3.0,Moderate,174,"PM10, PM2.5"
+2020-02-17,Patna,3.0,Moderate,180,"O3, PM10, PM2.5"
+2020-02-18,Patna,3.0,Moderate,182,"PM10, PM2.5"
+2020-02-19,Patna,4.0,Moderate,186,"PM10, PM2.5"
+2020-02-20,Patna,4.0,Poor,244,PM2.5
+2020-02-21,Patna,4.0,Poor,248,PM2.5
+2020-02-22,Patna,4.0,Moderate,172,"PM10, PM2.5"
+2020-02-23,Patna,4.0,Moderate,152,"PM10, PM2.5"
+2020-02-24,Patna,4.0,Moderate,136,"PM10, PM2.5"
+2020-02-25,Patna,4.0,Moderate,108,"PM10, PM2.5"
+2020-02-26,Patna,4.0,Satisfactory,66,"NO2, PM10, PM2.5"
+2020-02-27,Patna,4.0,Moderate,103,"NO2, PM10, PM2.5"
+2020-02-28,Patna,4.0,Moderate,175,"PM10, PM2.5"
+2020-02-29,Patna,1.0,Moderate,144,PM2.5
+2020-03-01,Patna,2.0,Moderate,152,PM2.5
+2020-03-02,Patna,3.0,Moderate,167,PM10
+2020-03-03,Patna,3.0,Moderate,161,"PM10, PM2.5"
+2020-03-04,Patna,4.0,Poor,203,"PM10, PM2.5"
+2020-03-05,Patna,2.0,Moderate,172,"PM10, PM2.5"
+2020-03-06,Patna,5.0,Moderate,131,"NO2, PM10, PM2.5"
+2020-03-07,Patna,5.0,Satisfactory,96,"NO2, PM10, PM2.5"
+2020-03-08,Patna,5.0,Moderate,125,"NO2, PM10, PM2.5"
+2020-03-09,Patna,5.0,Moderate,118,"NO2, PM10"
+2020-03-10,Patna,5.0,Poor,221,PM2.5
+2020-03-11,Patna,6.0,Moderate,138,"NO2, PM10, PM2.5"
+2020-03-12,Patna,6.0,Moderate,155,"NO2, PM10, PM2.5"
+2020-03-13,Patna,6.0,Moderate,156,"NO2, PM10, PM2.5"
+2020-03-14,Patna,5.0,Moderate,115,"CO, NO2, PM2.5"
+2020-03-15,Patna,6.0,Satisfactory,91,"CO, NO2, PM2.5"
+2020-03-16,Patna,6.0,Moderate,138,"CO, PM10, PM2.5"
+2020-03-17,Patna,6.0,Moderate,167,"CO, PM10, PM2.5"
+2020-03-18,Patna,6.0,Moderate,164,"CO, NO2, PM2.5"
+2020-03-19,Patna,6.0,Moderate,170,"CO, PM10, PM2.5"
+2020-03-20,Patna,6.0,Moderate,134,"CO, NO2, PM2.5"
+2020-03-21,Patna,6.0,Poor,239,"PM10, PM2.5"
+2020-03-22,Patna,6.0,Moderate,190,"PM10, PM2.5"
+2020-03-23,Patna,5.0,Moderate,126,"CO, NO2, PM2.5"
+2020-03-24,Patna,2.0,Moderate,126,"CO, PM10"
+2020-03-25,Patna,3.0,Moderate,129,"PM10, PM2.5"
+2020-03-26,Patna,3.0,Moderate,112,"CO, PM10"
+2020-03-27,Patna,3.0,Moderate,119,"CO, PM10"
+2020-03-28,Patna,3.0,Moderate,101,"CO, PM10"
+2020-03-29,Patna,2.0,Satisfactory,69,PM10
+2020-03-30,Patna,2.0,Satisfactory,82,PM10
+2020-03-31,Patna,2.0,Satisfactory,97,PM10
+2020-04-01,Patna,5.0,Moderate,147,"PM10, PM2.5"
+2020-04-02,Patna,4.0,Moderate,119,"CO, PM10, PM2.5"
+2020-04-03,Patna,4.0,Moderate,114,"CO, NO2, PM10"
+2020-04-04,Patna,5.0,Moderate,131,"CO, NO2, PM2.5"
+2020-04-05,Patna,5.0,Moderate,115,"CO, NO2, PM10"
+2020-04-06,Patna,5.0,Moderate,133,"CO, NO2, PM10"
+2020-04-07,Patna,5.0,Moderate,140,"CO, NO2, PM10"
+2020-04-08,Patna,5.0,Moderate,134,"CO, NO2, PM10"
+2020-04-09,Patna,5.0,Moderate,138,"CO, NO2, PM10"
+2020-04-10,Patna,5.0,Moderate,134,"CO, PM10, PM2.5"
+2020-04-11,Patna,4.0,Moderate,134,PM10
+2020-04-12,Patna,4.0,Moderate,154,"PM10, PM2.5"
+2020-04-13,Patna,4.0,Moderate,123,"CO, PM10"
+2020-04-14,Patna,4.0,Moderate,129,"O3, PM10, PM2.5"
+2020-04-15,Patna,4.0,Moderate,126,"CO, PM10"
+2020-04-16,Patna,4.0,Satisfactory,99,PM10
+2020-04-17,Patna,4.0,Moderate,107,"CO, PM10"
+2020-04-18,Patna,4.0,Moderate,117,"CO, PM10"
+2020-04-19,Patna,3.0,Moderate,135,"CO, PM10"
+2020-04-20,Patna,4.0,Moderate,107,"CO, PM10"
+2020-04-21,Patna,4.0,Satisfactory,90,"CO, PM10"
+2020-04-22,Patna,4.0,Satisfactory,77,"CO, O3, PM10"
+2020-04-23,Patna,4.0,Satisfactory,90,"O3, PM10"
+2020-04-24,Patna,3.0,Satisfactory,80,"O3, PM10"
+2020-04-25,Patna,3.0,Satisfactory,83,"O3, PM10"
+2020-04-26,Patna,3.0,Satisfactory,59,"O3, PM10"
+2020-04-27,Patna,3.0,Satisfactory,62,"O3, PM10, PM2.5"
+2020-04-28,Patna,5.0,Satisfactory,63,"O3, PM10"
+2020-04-29,Patna,3.0,Satisfactory,55,"O3, PM10"
+2020-04-30,Patna,2.0,Satisfactory,77,O3
+2020-05-01,Patna,2.0,Satisfactory,74,"PM10, PM2.5"
+2020-05-02,Patna,1.0,Satisfactory,68,O3
+2020-05-03,Patna,2.0,Satisfactory,60,"O3, PM10"
+2020-05-04,Patna,2.0,Satisfactory,74,"O3, PM10"
+2020-05-05,Patna,3.0,Satisfactory,92,"O3, PM10"
+2020-05-06,Patna,6.0,Satisfactory,80,"CO, O3, PM10"
+2020-05-07,Patna,6.0,Satisfactory,94,"O3, PM10"
+2020-05-08,Patna,4.0,Moderate,125,"O3, PM10"
+2020-05-09,Patna,6.0,Moderate,132,"O3, PM10"
+2020-05-10,Patna,3.0,Poor,206,"O3, PM10"
+2020-05-11,Patna,2.0,Satisfactory,52,"PM10, PM2.5"
+2020-05-12,Patna,3.0,Satisfactory,78,PM10
+2020-05-13,Patna,4.0,Moderate,114,"O3, PM10"
+2020-05-14,Patna,4.0,Moderate,160,"O3, PM10, PM2.5"
+2020-05-15,Patna,3.0,Satisfactory,90,"O3, PM10"
+2020-05-16,Patna,4.0,Moderate,147,"O3, PM10"
+2020-05-17,Patna,4.0,Poor,208,"O3, PM10"
+2020-05-18,Patna,4.0,Moderate,128,"O3, PM10, PM2.5"
+2020-05-19,Patna,5.0,Moderate,119,PM10
+2020-05-20,Patna,6.0,Satisfactory,98,PM10
+2020-05-21,Patna,5.0,Satisfactory,68,"O3, PM10"
+2020-05-22,Patna,3.0,Satisfactory,74,"O3, PM10"
+2020-05-23,Patna,6.0,Satisfactory,63,"O3, PM10"
+2020-05-24,Patna,6.0,Satisfactory,97,PM10
+2020-05-25,Patna,6.0,Moderate,111,PM10
+2020-05-26,Patna,5.0,Satisfactory,96,PM10
+2020-05-27,Patna,6.0,Moderate,104,PM10
+2020-05-28,Patna,6.0,Moderate,111,"O3, PM10"
+2020-05-29,Patna,6.0,Satisfactory,79,PM10
+2020-05-30,Patna,5.0,Satisfactory,85,PM10
+2020-05-31,Patna,4.0,Moderate,102,"O3, PM10"
+2020-06-01,Patna,5.0,Satisfactory,94,"O3, PM10"
+2020-06-02,Patna,5.0,Moderate,133,"O3, PM10"
+2020-06-03,Patna,4.0,Moderate,106,"O3, PM10"
+2020-06-04,Patna,4.0,Moderate,102,PM10
+2020-06-05,Patna,4.0,Satisfactory,64,PM10
+2020-06-06,Patna,5.0,Good,46,"CO, O3"
+2020-06-07,Patna,5.0,Satisfactory,68,"O3, PM10"
+2020-06-08,Patna,5.0,Satisfactory,73,"O3, PM10"
+2020-06-09,Patna,4.0,Satisfactory,93,PM10
+2020-06-10,Patna,5.0,Satisfactory,100,"O3, PM10"
+2020-06-11,Patna,5.0,Satisfactory,83,"O3, PM10"
+2020-06-12,Patna,4.0,Satisfactory,72,PM10
+2020-06-13,Patna,5.0,Satisfactory,58,"O3, PM10"
+2020-06-14,Patna,4.0,Satisfactory,54,"O3, PM10"
+2020-06-15,Patna,5.0,Good,48,"CO, PM10"
+2020-06-16,Patna,5.0,Good,47,"O3, PM10"
+2020-06-17,Patna,5.0,Good,49,"O3, PM10"
+2020-06-18,Patna,5.0,Satisfactory,53,"CO, PM10"
+2020-06-19,Patna,5.0,Good,44,"CO, PM10"
+2020-06-20,Patna,5.0,Satisfactory,56,"CO, O3, PM10"
+2020-06-21,Patna,5.0,Good,45,"O3, PM10"
+2020-06-22,Patna,3.0,Satisfactory,51,"CO, PM10"
+2020-06-23,Patna,6.0,Satisfactory,60,"CO, O3, PM10"
+2020-06-24,Patna,5.0,Satisfactory,68,"CO, O3, PM10"
+2020-06-25,Patna,5.0,Satisfactory,82,"CO, PM10"
+2020-06-26,Patna,6.0,Satisfactory,56,"CO, PM10"
+2020-06-27,Patna,6.0,Satisfactory,64,"CO, O3, PM10"
+2020-06-28,Patna,6.0,Satisfactory,68,"CO, NO2, PM10"
+2020-06-29,Patna,6.0,Satisfactory,56,"CO, O3, PM10"
+2020-06-30,Patna,3.0,Satisfactory,87,"CO, PM10"
+2020-07-01,Patna,5.0,Satisfactory,98,"PM10, PM2.5"
+2020-07-02,Patna,6.0,Moderate,113,"NO2, PM10, PM2.5"
+2020-07-03,Patna,4.0,Satisfactory,72,"CO, PM10"
+2020-07-04,Patna,6.0,Satisfactory,52,"CO, PM10, PM2.5"
+2020-07-05,Patna,4.0,Good,47,"CO, PM10"
+2020-07-06,Patna,6.0,Good,47,"CO, O3, PM10"
+2020-07-07,Patna,6.0,Good,40,"CO, O3, PM10"
+2020-07-08,Patna,6.0,Satisfactory,54,"CO, O3, PM10"
+2020-07-09,Patna,4.0,Satisfactory,54,"CO, PM10, PM2.5"
+2020-07-10,Patna,4.0,Good,38,"O3, PM10"
+2020-07-11,Patna,6.0,Good,42,"O3, PM10"
+2020-07-12,Patna,5.0,Satisfactory,54,"O3, PM10"
+2020-07-13,Patna,4.0,Good,45,"CO, O3, PM10"
+2020-07-14,Patna,5.0,Satisfactory,57,"CO, O3, PM10"
+2020-07-15,Patna,6.0,Satisfactory,66,"O3, PM10, PM2.5"
+2020-07-16,Patna,6.0,Satisfactory,56,"O3, PM10"
+2020-07-17,Patna,5.0,Satisfactory,61,"O3, PM10, PM2.5"
+2020-07-18,Patna,5.0,Satisfactory,64,"O3, PM10"
+2020-07-19,Patna,5.0,Satisfactory,68,PM10
+2020-07-20,Patna,5.0,Good,36,"O3, PM10"
+2020-07-21,Patna,5.0,Good,39,"CO, O3, PM10"
+2020-07-22,Patna,3.0,Good,39,O3
+2020-07-23,Patna,4.0,Good,47,"O3, PM10"
+2020-07-24,Patna,4.0,Good,39,O3
+2020-07-25,Patna,4.0,Good,50,"O3, PM10"
+2020-07-26,Patna,4.0,Satisfactory,64,"O3, PM10, PM2.5"
+2020-07-27,Patna,4.0,Satisfactory,58,"O3, PM10, PM2.5"
+2020-07-28,Patna,5.0,Good,47,"CO, PM10, SO2"
+2020-07-29,Patna,5.0,Good,36,"O3, PM10, SO2"
+2020-07-30,Patna,3.0,Good,49,"CO, PM10"
+2020-07-31,Patna,4.0,Good,50,"O3, PM10, PM2.5"
+2020-08-01,Patna,6.0,Good,46,"O3, PM10, PM2.5"
+2020-08-02,Patna,5.0,Satisfactory,71,"NO2, PM10, PM2.5"
+2020-08-03,Patna,5.0,Satisfactory,64,"NO2, PM10, PM2.5"
+2020-08-04,Patna,5.0,Satisfactory,64,"NO2, PM10, PM2.5"
+2020-08-05,Patna,5.0,Good,44,"NO2, O3, PM10"
+2020-08-06,Patna,3.0,Good,49,"O3, PM10"
+2020-08-07,Patna,5.0,Good,43,"NO2, O3, PM10"
+2020-08-08,Patna,5.0,Good,41,"O3, PM10, PM2.5"
+2020-08-09,Patna,4.0,Satisfactory,54,"PM10, PM2.5"
+2020-08-10,Patna,5.0,Satisfactory,59,"PM10, PM2.5"
+2020-08-11,Patna,5.0,Satisfactory,55,"CO, PM10, PM2.5"
+2020-08-12,Patna,5.0,Good,43,"O3, PM10, PM2.5"
+2020-08-13,Patna,4.0,Good,42,"O3, PM10, PM2.5"
+2020-08-14,Patna,3.0,Good,42,"O3, PM10, PM2.5"
+2020-08-15,Patna,3.0,Good,50,"O3, PM10, PM2.5"
+2020-08-16,Patna,3.0,Good,38,"O3, PM2.5"
+2020-08-17,Patna,5.0,Good,42,"O3, PM2.5"
+2020-08-18,Patna,5.0,Good,48,"O3, PM10, PM2.5"
+2020-08-19,Patna,5.0,Satisfactory,54,"O3, PM10"
+2020-08-20,Patna,5.0,Good,44,"CO, O3, PM10"
+2020-08-21,Patna,5.0,Good,40,"CO, O3, PM10"
+2020-08-22,Patna,4.0,Satisfactory,58,"O3, PM10"
+2020-08-23,Patna,6.0,Good,43,"O3, PM10"
+2020-08-24,Patna,6.0,Good,47,"NO2, PM10, PM2.5"
+2020-08-25,Patna,6.0,Good,48,"NO2, O3, PM10"
+2020-08-26,Patna,4.0,Good,46,"O3, PM10, PM2.5"
+2020-08-27,Patna,6.0,Good,43,"CO, O3, PM10"
+2020-08-28,Patna,5.0,Good,43,"CO, O3, PM10"
+2020-08-29,Patna,5.0,Satisfactory,55,"O3, PM10, PM2.5"
+2020-08-30,Patna,5.0,Satisfactory,57,"O3, PM10, PM2.5"
+2020-08-31,Patna,3.0,Satisfactory,70,"O3, PM10, PM2.5"
+2020-09-01,Patna,5.0,Satisfactory,60,"O3, PM10, PM2.5"
+2020-09-02,Patna,6.0,Satisfactory,63,"O3, PM10, PM2.5"
+2020-09-03,Patna,6.0,Satisfactory,67,"O3, PM10, PM2.5"
+2020-09-04,Patna,5.0,Satisfactory,81,"O3, PM10, PM2.5"
+2020-09-05,Patna,5.0,Satisfactory,81,"O3, PM10, PM2.5"
+2020-09-06,Patna,4.0,Satisfactory,71,"PM10, PM2.5"
+2020-09-07,Patna,5.0,Satisfactory,62,"PM10, PM2.5"
+2020-09-08,Patna,6.0,Satisfactory,52,"CO, PM10, PM2.5"
+2020-09-09,Patna,5.0,Satisfactory,55,"NO2, PM10, PM2.5"
+2020-09-10,Patna,6.0,Satisfactory,69,"O3, PM10, PM2.5"
+2020-09-11,Patna,5.0,Good,49,"CO, PM10, PM2.5"
+2020-09-12,Patna,6.0,Satisfactory,63,"O3, PM10, PM2.5"
+2020-09-13,Patna,6.0,Satisfactory,96,"O3, PM10, PM2.5"
+2020-09-14,Patna,5.0,Satisfactory,67,"O3, PM10, PM2.5"
+2020-09-15,Patna,4.0,Satisfactory,83,"PM10, PM2.5"
+2020-09-16,Patna,5.0,Satisfactory,51,"O3, PM2.5"
+2020-09-17,Patna,6.0,Satisfactory,73,"PM10, PM2.5"
+2020-09-18,Patna,6.0,Satisfactory,54,"O3, PM10, PM2.5"
+2020-09-19,Patna,6.0,Satisfactory,84,"O3, PM10, PM2.5"
+2020-09-20,Patna,6.0,Satisfactory,68,"PM10, PM2.5"
+2020-09-21,Patna,6.0,Satisfactory,66,"PM10, PM2.5"
+2020-09-22,Patna,5.0,Good,30,"CO, PM2.5"
+2020-09-23,Patna,4.0,Good,33,"CO, O3"
+2020-09-24,Patna,5.0,Good,40,"CO, O3, PM2.5"
+2020-09-25,Patna,5.0,Good,50,"CO, NO2, PM2.5"
+2020-09-26,Patna,6.0,Good,50,"CO, NO2, PM2.5"
+2020-09-27,Patna,6.0,Satisfactory,52,"NO2, O3, PM2.5"
+2020-09-28,Patna,6.0,Satisfactory,85,"PM10, PM2.5"
+2020-09-29,Patna,6.0,Moderate,114,"PM10, PM2.5"
+2020-09-30,Patna,6.0,Moderate,138,"PM10, PM2.5"
+2020-10-01,Patna,6.0,Moderate,164,"PM10, PM2.5"
+2020-10-02,Patna,5.0,Moderate,109,"PM10, PM2.5"
+2020-10-03,Patna,6.0,Moderate,120,"PM10, PM2.5"
+2020-10-04,Patna,6.0,Satisfactory,56,"PM10, PM2.5"
+2020-10-05,Patna,6.0,Satisfactory,79,"PM10, PM2.5"
+2020-10-06,Patna,6.0,Satisfactory,69,"O3, PM10, PM2.5"
+2020-10-07,Patna,5.0,Moderate,102,"PM10, PM2.5"
+2020-10-08,Patna,6.0,Moderate,127,"PM10, PM2.5"
+2020-10-09,Patna,6.0,Moderate,126,"PM10, PM2.5"
+2020-10-10,Patna,6.0,Moderate,130,"PM10, PM2.5"
+2020-10-11,Patna,6.0,Moderate,118,"PM10, PM2.5"
+2020-10-12,Patna,6.0,Moderate,128,"CO, PM10, PM2.5"
+2020-10-13,Patna,6.0,Moderate,125,"O3, PM2.5"
+2020-10-14,Patna,6.0,Moderate,115,"CO, PM10, PM2.5"
+2020-10-15,Patna,5.0,Moderate,174,PM2.5
+2020-10-16,Patna,6.0,Moderate,183,PM2.5
+2020-10-17,Patna,6.0,Moderate,170,"PM10, PM2.5"
+2020-10-18,Patna,6.0,Moderate,161,"PM10, PM2.5"
+2020-10-19,Patna,6.0,Poor,208,"PM10, PM2.5"
+2020-10-20,Patna,5.0,Poor,214,"PM10, PM2.5"
+2020-10-21,Patna,6.0,Poor,205,PM2.5
+2020-10-22,Patna,5.0,Poor,205,PM2.5
+2020-10-23,Patna,5.0,Moderate,128,"PM10, PM2.5"
+2020-10-24,Patna,3.0,Moderate,150,"PM10, PM2.5"
+2020-10-25,Patna,6.0,Moderate,173,"PM10, PM2.5"
+2020-10-26,Patna,6.0,Moderate,191,"O3, PM10, PM2.5"
+2020-10-27,Patna,6.0,Poor,214,"PM10, PM2.5"
+2020-10-28,Patna,6.0,Poor,202,"PM10, PM2.5"
+2020-10-29,Patna,6.0,Moderate,187,"PM10, PM2.5"
+2020-10-30,Patna,2.0,Moderate,186,PM2.5
+2020-10-31,Patna,5.0,Moderate,152,"PM10, PM2.5"
+2020-11-01,Patna,5.0,Moderate,164,"PM10, PM2.5"
+2020-11-02,Patna,6.0,Poor,203,"O3, PM2.5"
+2020-11-03,Patna,6.0,Poor,234,"O3, PM2.5"
+2020-11-04,Patna,6.0,Poor,212,"PM10, PM2.5"
+2020-11-05,Patna,6.0,Moderate,184,"PM10, PM2.5"
+2020-11-06,Patna,6.0,Poor,231,"PM10, PM2.5"
+2020-11-07,Patna,6.0,Poor,244,"CO, PM2.5"
+2020-11-08,Patna,6.0,Poor,285,"CO, PM10, PM2.5"
+2020-11-09,Patna,5.0,Poor,210,"PM10, PM2.5"
+2020-11-10,Patna,6.0,Moderate,198,"O3, PM10, PM2.5"
+2020-11-11,Patna,6.0,Moderate,129,"NO2, PM10, PM2.5"
+2020-11-12,Patna,6.0,Moderate,137,"NO2, PM10, PM2.5"
+2020-11-13,Patna,6.0,Moderate,190,"O3, PM10, PM2.5"
+2020-11-14,Patna,6.0,Poor,215,"O3, PM2.5"
+2020-11-15,Patna,6.0,Poor,275,PM2.5
+2020-11-16,Patna,5.0,Poor,251,"PM10, PM2.5"
+2020-11-17,Patna,6.0,Moderate,126,"PM10, PM2.5"
+2020-11-18,Patna,6.0,Moderate,150,"PM10, PM2.5"
+2020-11-19,Patna,6.0,Moderate,198,"PM10, PM2.5"
+2020-11-20,Patna,6.0,Poor,223,"PM10, PM2.5"
+2020-11-21,Patna,6.0,Moderate,186,"O3, PM2.5"
+2020-11-22,Patna,5.0,Moderate,166,PM2.5
+2020-11-23,Patna,5.0,Poor,252,PM2.5
+2020-11-24,Patna,6.0,Poor,288,PM2.5
+2020-11-25,Patna,6.0,Very Poor,316,"PM10, PM2.5"
+2020-11-26,Patna,6.0,Very Poor,319,PM2.5
+2020-11-27,Patna,6.0,Very Poor,316,PM2.5
+2020-11-28,Patna,4.0,Very Poor,350,PM2.5
+2020-11-29,Patna,5.0,Poor,288,PM2.5
+2020-11-30,Patna,3.0,Poor,286,PM2.5
+2020-12-01,Patna,6.0,Poor,299,PM2.5
+2020-12-02,Patna,6.0,Very Poor,310,"PM10, PM2.5"
+2020-12-03,Patna,6.0,Very Poor,370,"PM10, PM2.5"
+2020-12-04,Patna,6.0,Severe,404,"PM10, PM2.5"
+2020-12-05,Patna,6.0,Very Poor,391,"PM10, PM2.5"
+2020-12-06,Patna,5.0,Very Poor,370,"PM10, PM2.5"
+2020-12-07,Patna,5.0,Very Poor,354,PM2.5
+2020-12-08,Patna,6.0,Very Poor,315,"PM10, PM2.5"
+2020-12-09,Patna,6.0,Moderate,172,"PM10, PM2.5"
+2020-12-10,Patna,6.0,Poor,279,"PM10, PM2.5"
+2020-12-11,Patna,6.0,Poor,267,"PM10, PM2.5"
+2020-12-12,Patna,6.0,Very Poor,317,"PM10, PM2.5"
+2020-12-13,Patna,6.0,Poor,284,"PM10, PM2.5"
+2020-12-14,Patna,4.0,Poor,218,"PM10, PM2.5"
+2020-12-15,Patna,6.0,Poor,219,"PM10, PM2.5"
+2020-12-16,Patna,6.0,Very Poor,333,PM2.5
+2020-12-17,Patna,6.0,Poor,274,PM2.5
+2020-12-18,Patna,6.0,Moderate,197,PM2.5
+2020-12-19,Patna,6.0,Poor,295,PM2.5
+2020-12-20,Patna,6.0,Very Poor,330,"PM10, PM2.5"
+2020-12-21,Patna,5.0,Very Poor,360,PM2.5
+2020-12-22,Patna,6.0,Very Poor,319,"PM10, PM2.5"
+2020-12-23,Patna,4.0,Poor,292,"PM10, PM2.5"
+2020-12-24,Patna,6.0,Very Poor,308,"PM10, PM2.5"
+2020-12-25,Patna,6.0,Very Poor,334,PM2.5
+2020-12-26,Patna,5.0,Very Poor,315,PM2.5
+2020-12-27,Patna,5.0,Very Poor,329,"PM10, PM2.5"
+2020-12-28,Patna,5.0,Very Poor,357,PM2.5
+2020-12-29,Patna,5.0,Very Poor,344,"PM10, PM2.5"
+2020-12-30,Patna,3.0,Very Poor,356,"PM10, PM2.5"
+2020-12-31,Patna,4.0,Poor,280,"PM10, PM2.5"
+2021-01-01,Patna,6.0,Poor,298,"PM10, PM2.5"
+2021-01-02,Patna,6.0,Very Poor,303,"PM10, PM2.5"
+2021-01-03,Patna,6.0,Very Poor,334,"PM10, PM2.5"
+2021-01-04,Patna,4.0,Very Poor,350,"PM10, PM2.5"
+2021-01-05,Patna,4.0,Very Poor,345,"PM10, PM2.5"
+2021-01-06,Patna,5.0,Very Poor,330,"PM10, PM2.5"
+2021-01-07,Patna,4.0,Poor,255,PM2.5
+2021-01-08,Patna,5.0,Poor,223,PM2.5
+2021-01-09,Patna,5.0,Poor,207,"PM10, PM2.5"
+2021-01-10,Patna,5.0,Poor,225,"PM10, PM2.5"
+2021-01-11,Patna,6.0,Moderate,172,"PM10, PM2.5"
+2021-01-12,Patna,6.0,Moderate,182,"CO, PM10, PM2.5"
+2021-01-13,Patna,6.0,Poor,237,"PM10, PM2.5"
+2021-01-14,Patna,5.0,Very Poor,318,PM2.5
+2021-01-15,Patna,6.0,Poor,240,"PM10, PM2.5"
+2021-01-16,Patna,5.0,Poor,285,PM2.5
+2021-01-17,Patna,5.0,Moderate,195,"NO2, PM10, PM2.5"
+2021-01-18,Patna,6.0,Poor,262,"NO2, PM10, PM2.5"
+2021-01-19,Patna,6.0,Moderate,193,"PM10, PM2.5"
+2021-01-20,Patna,6.0,Poor,295,PM2.5
+2021-01-21,Patna,6.0,Poor,279,PM2.5
+2021-01-22,Patna,6.0,Poor,243,"PM10, PM2.5"
+2021-01-23,Patna,5.0,Poor,256,PM2.5
+2021-01-24,Patna,6.0,Poor,238,"PM10, PM2.5"
+2021-01-25,Patna,6.0,Moderate,172,"CO, PM10, PM2.5"
+2021-01-26,Patna,6.0,Poor,232,"PM10, PM2.5"
+2021-01-27,Patna,6.0,Poor,227,"PM10, PM2.5"
+2021-01-28,Patna,6.0,Poor,212,"PM10, PM2.5"
+2021-01-29,Patna,6.0,Poor,204,"PM10, PM2.5"
+2021-01-30,Patna,2.0,Very Poor,306,PM2.5
+2021-01-31,Patna,6.0,Poor,265,"PM10, PM2.5"
+2021-02-01,Patna,6.0,Poor,287,"PM10, PM2.5"
+2021-02-02,Patna,4.0,Very Poor,319,"PM10, PM2.5"
+2021-02-03,Patna,6.0,Very Poor,333,"PM10, PM2.5"
+2021-02-04,Patna,6.0,Poor,282,"PM10, PM2.5"
+2021-02-05,Patna,6.0,Poor,294,"PM10, PM2.5"
+2021-02-06,Patna,6.0,Moderate,170,"PM10, PM2.5"
+2021-02-07,Patna,6.0,Moderate,196,"PM10, PM2.5"
+2021-02-08,Patna,6.0,Poor,203,"PM10, PM2.5"
+2021-02-09,Patna,6.0,Poor,203,"PM10, PM2.5"
+2021-02-10,Patna,6.0,Poor,264,"PM10, PM2.5"
+2021-02-11,Patna,6.0,Very Poor,326,"PM10, PM2.5"
+2021-02-12,Patna,6.0,Very Poor,306,"PM10, PM2.5"
+2021-02-13,Patna,4.0,Very Poor,309,PM2.5
+2021-02-14,Patna,6.0,Poor,296,"PM10, PM2.5"
+2021-02-15,Patna,6.0,Poor,246,"PM10, PM2.5"
+2021-02-16,Patna,6.0,Poor,234,"PM10, PM2.5"
+2021-02-17,Patna,6.0,Poor,214,"PM10, PM2.5"
+2021-02-18,Patna,6.0,Poor,258,"PM10, PM2.5"
+2021-02-19,Patna,6.0,Poor,277,"PM10, PM2.5"
+2021-02-20,Patna,6.0,Moderate,194,"PM10, PM2.5"
+2021-02-21,Patna,5.0,Poor,215,"PM10, PM2.5"
+2021-02-22,Patna,5.0,Poor,224,"PM10, PM2.5"
+2021-02-23,Patna,5.0,Poor,206,"PM10, PM2.5"
+2021-02-24,Patna,6.0,Poor,214,"NO2, PM10, PM2.5"
+2021-02-25,Patna,6.0,Poor,233,"PM10, PM2.5"
+2021-02-26,Patna,5.0,Moderate,191,"PM10, PM2.5"
+2021-02-27,Patna,6.0,Moderate,155,"NO2, PM10, PM2.5"
+2021-02-28,Patna,5.0,Moderate,144,"PM10, PM2.5"
+2021-03-01,Patna,5.0,Moderate,183,"PM10, PM2.5"
+2021-03-02,Patna,4.0,Moderate,196,"PM10, PM2.5"
+2021-03-03,Patna,6.0,Moderate,186,"PM10, PM2.5"
+2021-03-04,Patna,5.0,Poor,219,"PM10, PM2.5"
+2021-03-05,Patna,5.0,Moderate,190,"PM10, PM2.5"
+2021-03-06,Patna,5.0,Poor,217,"PM10, PM2.5"
+2021-03-07,Patna,5.0,Poor,216,"PM10, PM2.5"
+2021-03-08,Patna,5.0,Moderate,194,"PM10, PM2.5"
+2021-03-09,Patna,5.0,Moderate,197,"PM10, PM2.5"
+2021-03-10,Patna,5.0,Poor,286,"PM10, PM2.5"
+2021-03-11,Patna,5.0,Poor,268,"PM10, PM2.5"
+2021-03-12,Patna,5.0,Poor,253,"PM10, PM2.5"
+2021-03-13,Patna,4.0,Poor,234,"PM10, PM2.5"
+2021-03-14,Patna,5.0,Moderate,193,"PM10, PM2.5"
+2021-03-15,Patna,5.0,Poor,209,"PM10, PM2.5"
+2021-03-16,Patna,5.0,Poor,278,"PM10, PM2.5"
+2021-03-17,Patna,5.0,Very Poor,349,"PM10, PM2.5"
+2021-03-18,Patna,5.0,Very Poor,331,"PM10, PM2.5"
+2021-03-19,Patna,5.0,Very Poor,315,"PM10, PM2.5"
+2021-03-20,Patna,5.0,Poor,265,"PM10, PM2.5"
+2021-03-21,Patna,5.0,Poor,265,"PM10, PM2.5"
+2021-03-22,Patna,5.0,Poor,237,"PM10, PM2.5"
+2021-03-23,Patna,4.0,Poor,283,"PM10, PM2.5"
+2021-03-24,Patna,5.0,Poor,251,"PM10, PM2.5"
+2021-03-25,Patna,5.0,Poor,230,"PM10, PM2.5"
+2021-03-26,Patna,5.0,Poor,224,"PM10, PM2.5"
+2021-03-27,Patna,5.0,Moderate,187,"PM10, PM2.5"
+2021-03-28,Patna,6.0,Poor,209,"PM10, PM2.5"
+2021-03-29,Patna,5.0,Poor,220,PM2.5
+2021-03-30,Patna,5.0,Moderate,191,"PM10, PM2.5"
+2021-03-31,Patna,5.0,Moderate,179,"PM10, PM2.5"
+2021-04-01,Patna,5.0,Poor,210,"PM10, PM2.5"
+2021-04-02,Patna,5.0,Moderate,198,"PM10, PM2.5"
+2021-04-03,Patna,6.0,Poor,215,"PM10, PM2.5"
+2021-04-04,Patna,4.0,Moderate,159,"PM10, PM2.5"
+2021-04-05,Patna,5.0,Poor,243,PM2.5
+2021-04-06,Patna,5.0,Moderate,167,"O3, PM2.5"
+2021-04-07,Patna,5.0,Moderate,168,"PM10, PM2.5"
+2021-04-08,Patna,5.0,Poor,212,"PM10, PM2.5"
+2021-04-09,Patna,5.0,Poor,206,"PM10, PM2.5"
+2021-04-10,Patna,5.0,Poor,261,PM2.5
+2021-04-11,Patna,5.0,Poor,245,"PM10, PM2.5"
+2021-04-12,Patna,4.0,Poor,219,"PM10, PM2.5"
+2021-04-13,Patna,5.0,Poor,245,"PM10, PM2.5"
+2021-04-14,Patna,6.0,Poor,259,PM2.5
+2021-04-15,Patna,6.0,Poor,232,PM2.5
+2021-04-16,Patna,6.0,Poor,221,"O3, PM10, PM2.5"
+2021-04-17,Patna,5.0,Moderate,184,"PM10, PM2.5"
+2021-04-18,Patna,5.0,Moderate,113,"PM10, PM2.5"
+2021-04-19,Patna,4.0,Poor,216,"PM10, PM2.5"
+2021-04-20,Patna,4.0,Poor,216,PM2.5
+2021-04-21,Patna,3.0,Poor,210,PM2.5
+2021-04-22,Patna,4.0,Moderate,146,"PM10, PM2.5"
+2021-04-23,Patna,3.0,Moderate,126,"O3, PM10"
+2021-04-24,Patna,3.0,Moderate,191,"O3, PM10, PM2.5"
+2021-04-25,Patna,4.0,Poor,210,"O3, PM10, PM2.5"
+2021-04-26,Patna,4.0,Moderate,175,"O3, PM10, PM2.5"
+2021-04-27,Patna,4.0,Moderate,192,PM2.5
+2021-04-28,Patna,4.0,Poor,224,"PM10, PM2.5"
+2021-04-29,Patna,4.0,Moderate,163,"PM10, PM2.5"
+2021-04-30,Patna,4.0,Moderate,127,PM10
+2021-05-01,Patna,5.0,Moderate,126,"PM10, PM2.5"
+2021-05-02,Patna,5.0,Moderate,120,PM10
+2021-05-03,Patna,5.0,Moderate,110,"O3, PM10"
+2021-05-04,Patna,5.0,Moderate,127,"O3, PM10"
+2021-05-05,Patna,5.0,Moderate,103,"O3, PM10"
+2021-05-06,Patna,5.0,Moderate,107,"O3, PM10"
+2021-05-07,Patna,5.0,Satisfactory,88,"PM10, PM2.5"
+2021-05-08,Patna,5.0,Satisfactory,85,"O3, PM10, PM2.5"
+2021-05-09,Patna,6.0,Satisfactory,95,"O3, PM10, PM2.5"
+2021-05-10,Patna,6.0,Moderate,106,"NO2, O3, PM10"
+2021-05-11,Patna,4.0,Satisfactory,87,"O3, PM10, PM2.5"
+2021-05-12,Patna,5.0,Satisfactory,82,"PM10, PM2.5"
+2021-05-13,Patna,5.0,Satisfactory,78,"NO2, O3, SO2"
+2021-05-14,Patna,5.0,Satisfactory,99,"O3, PM10, PM2.5"
+2021-05-15,Patna,4.0,Moderate,112,"CO, O3, PM10"
+2021-05-16,Patna,4.0,Moderate,177,"O3, PM10"
+2021-05-17,Patna,5.0,Moderate,138,"PM10, PM2.5"
+2021-05-18,Patna,6.0,Moderate,115,"PM10, PM2.5, SO2"
+2021-05-19,Patna,5.0,Satisfactory,79,"O3, PM10, SO2"
+2021-05-20,Patna,5.0,Satisfactory,65,PM10
+2021-05-21,Patna,5.0,Satisfactory,55,"O3, PM2.5, SO2"
+2021-05-22,Patna,5.0,Moderate,114,"PM10, PM2.5"
+2021-05-23,Patna,5.0,Satisfactory,90,"O3, PM10, SO2"
+2021-05-24,Patna,4.0,Moderate,116,"O3, PM10"
+2021-05-25,Patna,4.0,Moderate,139,"PM10, PM2.5"
+2021-05-26,Patna,5.0,Good,50,"PM10, PM2.5"
+2021-05-27,Patna,5.0,Satisfactory,61,"PM10, PM2.5, SO2"
+2021-05-28,Patna,3.0,Good,48,"O3, PM10"
+2021-05-29,Patna,5.0,Good,40,"O3, PM10, PM2.5"
+2021-05-30,Patna,5.0,Satisfactory,69,"PM10, PM2.5"
+2021-05-31,Patna,4.0,Satisfactory,98,"PM10, PM2.5"
+2021-06-01,Patna,5.0,Satisfactory,70,"CO, PM10, PM2.5"
+2021-06-02,Patna,4.0,Satisfactory,64,"O3, PM10, PM2.5"
+2021-06-03,Patna,5.0,Moderate,103,"PM10, PM2.5"
+2021-06-04,Patna,5.0,Moderate,109,"PM10, PM2.5"
+2021-06-05,Patna,5.0,Moderate,104,"PM10, PM2.5"
+2021-06-06,Patna,5.0,Satisfactory,92,"O3, PM10"
+2021-06-07,Patna,5.0,Satisfactory,100,"O3, PM10"
+2021-06-08,Patna,5.0,Satisfactory,96,"O3, PM10"
+2021-06-09,Patna,4.0,Satisfactory,89,"PM10, PM2.5"
+2021-06-10,Patna,5.0,Satisfactory,75,"PM10, PM2.5"
+2021-06-11,Patna,5.0,Satisfactory,87,"PM10, PM2.5"
+2021-06-13,Patna,4.0,Good,44,"O3, PM10"
+2021-06-14,Patna,2.0,Good,46,O3
+2021-06-15,Patna,4.0,Satisfactory,60,"CO, O3, PM10"
+2021-06-16,Patna,4.0,Satisfactory,93,"CO, PM10"
+2021-06-17,Patna,5.0,Satisfactory,71,"CO, O3, PM10"
+2021-06-18,Patna,5.0,Satisfactory,66,PM10
+2021-06-19,Patna,4.0,Satisfactory,76,"CO, O3, PM10"
+2021-06-20,Patna,4.0,Satisfactory,60,"CO, O3, PM10"
+2021-06-21,Patna,5.0,Satisfactory,61,"CO, O3, PM2.5"
+2021-06-22,Patna,5.0,Satisfactory,59,"CO, NO2, O3"
+2021-06-23,Patna,4.0,Satisfactory,86,PM10
+2021-06-24,Patna,4.0,Satisfactory,92,"O3, PM10"
+2021-06-25,Patna,4.0,Satisfactory,92,PM10
+2021-06-26,Patna,4.0,Satisfactory,56,"CO, O3, PM10"
+2021-06-27,Patna,5.0,Satisfactory,62,"CO, PM10"
+2021-06-28,Patna,5.0,Satisfactory,71,"CO, PM10"
+2021-06-29,Patna,5.0,Satisfactory,85,PM10
+2021-06-30,Patna,4.0,Satisfactory,100,PM10
+2021-07-01,Patna,5.0,Satisfactory,98,"PM10, PM2.5"
+2021-07-02,Patna,6.0,Satisfactory,68,"O3, PM10, PM2.5"
+2021-07-03,Patna,6.0,Satisfactory,87,"NO2, PM10, PM2.5"
+2021-07-04,Patna,5.0,Satisfactory,56,"O3, PM10"
+2021-07-05,Patna,6.0,Moderate,121,"NO2, PM10, PM2.5"
+2021-07-06,Patna,5.0,Moderate,109,"NO2, PM10, PM2.5"
+2021-07-07,Patna,5.0,Moderate,120,"NO2, PM10, PM2.5"
+2021-07-08,Patna,5.0,Satisfactory,83,"PM10, PM2.5"
+2021-07-09,Patna,5.0,Satisfactory,53,"CO, O3, PM2.5"
+2021-07-10,Patna,5.0,Satisfactory,70,"O3, PM10, PM2.5"
+2021-07-11,Patna,5.0,Satisfactory,74,"PM10, PM2.5"
+2021-07-12,Patna,5.0,Good,50,"O3, PM10"
+2021-07-13,Patna,6.0,Satisfactory,76,"NO2, O3, PM10"
+2021-07-14,Patna,5.0,Satisfactory,64,"O3, PM10, PM2.5"
+2021-07-15,Patna,5.0,Satisfactory,66,"O3, PM10"
+2021-07-16,Patna,5.0,Satisfactory,65,"O3, PM10"
+2021-07-17,Patna,4.0,Satisfactory,62,"CO, PM10"
+2021-07-18,Patna,4.0,Satisfactory,68,"CO, O3, PM10"
+2021-07-19,Patna,5.0,Satisfactory,63,"CO, O3, PM10"
+2021-07-20,Patna,5.0,Satisfactory,67,"O3, PM10"
+2021-07-21,Patna,5.0,Satisfactory,64,"O3, PM10, PM2.5"
+2021-07-22,Patna,5.0,Satisfactory,64,"CO, O3, PM10"
+2021-07-23,Patna,5.0,Satisfactory,62,"O3, PM10"
+2021-07-24,Patna,5.0,Satisfactory,55,"CO, O3, PM10"
+2021-07-25,Patna,5.0,Satisfactory,62,"O3, PM10, PM2.5"
+2021-07-26,Patna,5.0,Satisfactory,67,"O3, PM10, PM2.5"
+2021-07-27,Patna,5.0,Satisfactory,67,"CO, O3, PM2.5"
+2021-07-28,Patna,5.0,Satisfactory,62,"CO, O3, PM10"
+2021-07-29,Patna,5.0,Satisfactory,58,"CO, O3"
+2021-07-30,Patna,1.0,Good,46,PM10
+2021-07-31,Patna,3.0,Satisfactory,51,"CO, O3, PM10"
+2021-08-01,Patna,4.0,Satisfactory,79,"O3, PM10, PM2.5"
+2021-08-02,Patna,5.0,Satisfactory,60,"O3, PM10"
+2021-08-03,Patna,5.0,Satisfactory,55,"CO, O3, PM10"
+2021-08-04,Patna,4.0,Satisfactory,60,"CO, PM10, PM2.5"
+2021-08-05,Patna,5.0,Satisfactory,76,"PM10, PM2.5"
+2021-08-06,Patna,5.0,Satisfactory,75,PM10
+2021-08-07,Patna,5.0,Satisfactory,60,"O3, PM10"
+2021-08-08,Patna,5.0,Satisfactory,51,"CO, O3, PM10"
+2021-08-09,Patna,5.0,Satisfactory,52,"CO, O3, PM10"
+2021-08-10,Patna,5.0,Satisfactory,53,"CO, O3, PM10"
+2021-08-11,Patna,5.0,Satisfactory,81,"CO, O3, PM10"
+2021-08-12,Patna,5.0,Satisfactory,52,"CO, PM10"
+2021-08-13,Patna,5.0,Satisfactory,71,"NO2, PM10"
+2021-08-14,Patna,5.0,Satisfactory,81,"PM10, PM2.5"
+2021-08-15,Patna,5.0,Satisfactory,73,"PM10, PM2.5"
+2021-08-16,Patna,5.0,Satisfactory,71,"O3, PM10"
+2021-08-17,Patna,4.0,Satisfactory,80,"PM10, PM2.5"
+2021-08-18,Patna,5.0,Satisfactory,70,"NO2, O3, PM10"
+2021-08-19,Patna,5.0,Satisfactory,61,"CO, O3, PM10"
+2021-08-20,Patna,5.0,Satisfactory,100,"O3, PM10, PM2.5"
+2021-08-21,Patna,5.0,Satisfactory,81,"CO, O3, PM10"
+2021-08-22,Patna,5.0,Satisfactory,58,"PM10, PM2.5"
+2021-08-23,Patna,5.0,Satisfactory,61,"CO, PM10, PM2.5"
+2021-08-24,Patna,5.0,Satisfactory,95,"CO, O3, PM10"
+2021-08-25,Patna,5.0,Satisfactory,99,"CO, O3, PM10"
+2021-08-26,Patna,5.0,Satisfactory,98,"CO, O3, PM10"
+2021-08-27,Patna,5.0,Moderate,109,"CO, O3, PM10"
+2021-08-28,Patna,5.0,Moderate,102,"CO, O3, PM10"
+2021-08-29,Patna,5.0,Satisfactory,84,"CO, O3, PM10"
+2021-08-30,Patna,2.0,Good,38,PM10
+2021-08-31,Patna,5.0,Satisfactory,54,"CO, PM10"
+2021-09-01,Patna,5.0,Satisfactory,60,"PM10, PM2.5"
+2021-09-02,Patna,5.0,Satisfactory,81,"O3, PM10"
+2021-09-03,Patna,5.0,Satisfactory,55,"O3, PM10, PM2.5"
+2021-09-04,Patna,5.0,Satisfactory,81,"PM10, PM2.5"
+2021-09-05,Patna,5.0,Moderate,102,"PM10, PM2.5"
+2021-09-06,Patna,5.0,Moderate,109,"PM10, PM2.5"
+2021-09-07,Patna,5.0,Satisfactory,61,PM10
+2021-09-08,Patna,5.0,Satisfactory,52,"CO, NO2, O3"
+2021-09-09,Patna,5.0,Satisfactory,64,"CO, PM10"
+2021-09-10,Patna,5.0,Satisfactory,73,"PM10, PM2.5"
+2021-09-11,Patna,5.0,Satisfactory,57,"CO, PM10"
+2021-09-12,Patna,5.0,Satisfactory,65,"CO, PM10"
+2021-09-13,Patna,5.0,Satisfactory,56,"CO, O3, PM10"
+2021-09-14,Patna,5.0,Satisfactory,52,"CO, O3, PM10"
+2021-09-15,Patna,5.0,Good,46,"CO, O3, PM10"
+2021-09-16,Patna,5.0,Satisfactory,61,"CO, O3, PM10"
+2021-09-17,Patna,5.0,Satisfactory,67,"CO, O3, PM10"
+2021-09-18,Patna,5.0,Satisfactory,60,"CO, PM10, PM2.5"
+2021-09-19,Patna,5.0,Moderate,115,"O3, PM10, PM2.5"
+2021-09-20,Patna,5.0,Moderate,101,"O3, PM10, PM2.5"
+2021-09-21,Patna,5.0,Satisfactory,71,"CO, PM10, PM2.5"
+2021-09-22,Patna,5.0,Satisfactory,67,"O3, PM10"
+2021-09-23,Patna,5.0,Good,49,"O3, PM10"
+2021-09-24,Patna,5.0,Satisfactory,71,"O3, PM10"
+2021-09-25,Patna,5.0,Moderate,103,"O3, PM10"
+2021-09-26,Patna,5.0,Satisfactory,76,"O3, PM10"
+2021-09-27,Patna,5.0,Satisfactory,67,PM10
+2021-09-28,Patna,5.0,Satisfactory,52,"CO, O3, PM10"
+2021-09-29,Patna,5.0,Satisfactory,55,"O3, PM10"
+2021-09-30,Patna,5.0,Satisfactory,52,"CO, O3"
+2021-10-01,Patna,5.0,Satisfactory,77,"CO, O3, PM10"
+2021-10-02,Patna,5.0,Satisfactory,51,"CO, O3, PM10"
+2021-10-03,Patna,4.0,Good,45,"CO, NO2, O3"
+2021-10-04,Patna,2.0,Good,47,PM10
+2021-10-05,Patna,5.0,Satisfactory,91,"CO, PM10"
+2021-10-06,Patna,5.0,Satisfactory,82,PM10
+2021-10-07,Patna,5.0,Satisfactory,98,PM10
+2021-10-08,Patna,5.0,Moderate,112,"O3, PM10"
+2021-10-09,Patna,5.0,Moderate,123,"PM10, PM2.5"
+2021-10-10,Patna,5.0,Moderate,151,"PM10, PM2.5"
+2021-10-11,Patna,5.0,Moderate,168,"PM10, PM2.5"
+2021-10-12,Patna,5.0,Moderate,165,"PM10, PM2.5"
+2021-10-13,Patna,5.0,Moderate,127,"PM10, PM2.5"
+2021-10-14,Patna,5.0,Moderate,139,"PM10, PM2.5"
+2021-10-15,Patna,5.0,Moderate,121,"O3, PM10, PM2.5"
+2021-10-16,Patna,5.0,Moderate,106,"PM10, PM2.5"
+2021-10-17,Patna,5.0,Satisfactory,65,PM10
+2021-10-18,Patna,5.0,Good,41,"CO, O3, PM10"
+2021-10-19,Patna,5.0,Good,39,"CO, O3, PM10"
+2021-10-20,Patna,4.0,Satisfactory,51,"CO, NO2, PM10"
+2021-10-21,Patna,5.0,Moderate,107,"PM10, PM2.5"
+2021-10-22,Patna,5.0,Moderate,128,"PM10, PM2.5"
+2021-10-23,Patna,5.0,Moderate,145,"PM10, PM2.5"
+2021-10-24,Patna,5.0,Moderate,170,"NO2, PM10, PM2.5"
+2021-10-25,Patna,5.0,Moderate,198,"NO2, PM10, PM2.5"
+2021-10-26,Patna,5.0,Moderate,144,"PM10, PM2.5"
+2021-10-27,Patna,5.0,Moderate,162,"O3, PM10, PM2.5"
+2021-10-28,Patna,5.0,Moderate,143,"PM10, PM2.5"
+2021-10-29,Patna,5.0,Moderate,157,"PM10, PM2.5"
+2021-10-30,Patna,5.0,Moderate,162,"PM10, PM2.5"
+2021-10-31,Patna,5.0,Moderate,143,"PM10, PM2.5"
+2021-11-01,Patna,5.0,Moderate,171,"PM10, PM2.5"
+2021-11-02,Patna,5.0,Poor,203,"PM10, PM2.5"
+2021-11-03,Patna,5.0,Poor,239,"PM10, PM2.5"
+2021-11-04,Patna,5.0,Poor,225,"PM10, PM2.5"
+2021-11-05,Patna,5.0,Poor,268,"PM10, PM2.5"
+2021-11-06,Patna,5.0,Poor,217,"PM10, PM2.5"
+2021-11-07,Patna,5.0,Poor,229,"PM10, PM2.5"
+2021-11-08,Patna,5.0,Poor,260,"PM10, PM2.5"
+2021-11-09,Patna,5.0,Poor,272,"PM10, PM2.5"
+2021-11-10,Patna,5.0,Poor,263,"PM10, PM2.5"
+2021-11-11,Patna,5.0,Poor,223,"PM10, PM2.5"
+2021-11-12,Patna,5.0,Moderate,172,"PM10, PM2.5"
+2021-11-13,Patna,5.0,Moderate,166,"PM10, PM2.5"
+2021-11-14,Patna,5.0,Poor,203,"PM10, PM2.5"
+2021-11-15,Patna,5.0,Poor,203,"O3, PM10, PM2.5"
+2021-11-16,Patna,5.0,Poor,242,"PM10, PM2.5"
+2021-11-17,Patna,5.0,Poor,231,"PM10, PM2.5"
+2021-11-18,Patna,5.0,Poor,259,"PM10, PM2.5"
+2021-11-19,Patna,5.0,Poor,267,"PM10, PM2.5"
+2021-11-20,Patna,5.0,Poor,290,"PM10, PM2.5"
+2021-11-21,Patna,5.0,Very Poor,308,"PM10, PM2.5"
+2021-11-22,Patna,5.0,Poor,291,"PM10, PM2.5"
+2021-11-23,Patna,6.0,Poor,268,"PM10, PM2.5"
+2021-11-24,Patna,5.0,Poor,280,"PM10, PM2.5"
+2021-11-25,Patna,4.0,Poor,281,"PM10, PM2.5"
+2021-11-26,Patna,6.0,Very Poor,308,"PM10, PM2.5"
+2021-11-27,Patna,6.0,Very Poor,328,"PM10, PM2.5"
+2021-11-28,Patna,5.0,Very Poor,342,PM2.5
+2021-11-29,Patna,6.0,Very Poor,353,"PM10, PM2.5"
+2021-11-30,Patna,2.0,Poor,292,PM2.5
+2021-12-01,Patna,6.0,Poor,286,"PM10, PM2.5"
+2021-12-02,Patna,6.0,Very Poor,306,"PM10, PM2.5"
+2021-12-03,Patna,6.0,Very Poor,331,"PM10, PM2.5"
+2021-12-04,Patna,6.0,Very Poor,333,"PM10, PM2.5"
+2021-12-05,Patna,5.0,Poor,258,"PM10, PM2.5"
+2021-12-06,Patna,5.0,Poor,212,"PM10, PM2.5"
+2021-12-07,Patna,5.0,Poor,232,"PM10, PM2.5"
+2021-12-08,Patna,6.0,Poor,255,"PM10, PM2.5"
+2021-12-09,Patna,6.0,Poor,228,"PM10, PM2.5"
+2021-12-10,Patna,6.0,Poor,233,"PM10, PM2.5"
+2021-12-11,Patna,6.0,Poor,261,"PM10, PM2.5"
+2021-12-12,Patna,6.0,Very Poor,304,"PM10, PM2.5"
+2021-12-13,Patna,6.0,Very Poor,301,"PM10, PM2.5"
+2021-12-14,Patna,6.0,Very Poor,314,"PM10, PM2.5"
+2021-12-15,Patna,5.0,Very Poor,320,"PM10, PM2.5"
+2021-12-16,Patna,5.0,Poor,298,"PM10, PM2.5"
+2021-12-17,Patna,6.0,Poor,270,"PM10, PM2.5"
+2021-12-18,Patna,6.0,Poor,248,"PM10, PM2.5"
+2021-12-19,Patna,6.0,Poor,246,"PM10, PM2.5"
+2021-12-20,Patna,6.0,Very Poor,306,"PM10, PM2.5"
+2021-12-21,Patna,6.0,Very Poor,328,"PM10, PM2.5"
+2021-12-22,Patna,6.0,Very Poor,311,"PM10, PM2.5"
+2021-12-23,Patna,6.0,Very Poor,316,"PM10, PM2.5"
+2021-12-24,Patna,6.0,Very Poor,325,"PM10, PM2.5"
+2021-12-25,Patna,6.0,Poor,298,"PM10, PM2.5"
+2021-12-26,Patna,6.0,Poor,295,"PM10, PM2.5"
+2021-12-27,Patna,4.0,Poor,272,"PM10, PM2.5"
+2021-12-28,Patna,5.0,Poor,252,"PM10, PM2.5"
+2021-12-29,Patna,5.0,Moderate,159,"PM10, PM2.5"
+2021-12-30,Patna,5.0,Satisfactory,89,"NO2, PM10, PM2.5"
+2021-12-31,Patna,6.0,Moderate,142,"PM10, PM2.5"
+2022-01-01,Patna,5.0,Moderate,182,"PM10, PM2.5"
+2022-01-02,Patna,6.0,Moderate,187,"PM10, PM2.5"
+2022-01-03,Patna,5.0,Poor,279,PM2.5
+2022-01-04,Patna,5.0,Very Poor,302,"PM10, PM2.5"
+2022-01-05,Patna,6.0,Very Poor,354,"PM10, PM2.5"
+2022-01-06,Patna,5.0,Very Poor,352,"PM10, PM2.5"
+2022-01-07,Patna,6.0,Very Poor,333,"PM10, PM2.5"
+2022-01-08,Patna,6.0,Moderate,196,"PM10, PM2.5"
+2022-01-09,Patna,6.0,Moderate,187,"PM10, PM2.5"
+2022-01-10,Patna,5.0,Moderate,159,"PM10, PM2.5"
+2022-01-11,Patna,5.0,Poor,271,"PM10, PM2.5"
+2022-01-12,Patna,6.0,Poor,207,"PM10, PM2.5"
+2022-01-13,Patna,6.0,Moderate,119,"PM10, PM2.5"
+2022-01-14,Patna,6.0,Poor,210,"PM10, PM2.5"
+2022-01-15,Patna,6.0,Poor,250,"PM10, PM2.5"
+2022-01-16,Patna,6.0,Poor,225,"PM10, PM2.5"
+2022-01-17,Patna,6.0,Poor,253,"PM10, PM2.5"
+2022-01-18,Patna,6.0,Very Poor,304,"PM10, PM2.5"
+2022-01-19,Patna,6.0,Very Poor,316,"PM10, PM2.5"
+2022-01-20,Patna,6.0,Very Poor,329,"PM10, PM2.5"
+2022-01-21,Patna,6.0,Very Poor,372,"PM10, PM2.5"
+2022-01-22,Patna,6.0,Very Poor,375,"PM10, PM2.5"
+2022-01-23,Patna,6.0,Poor,291,"PM10, PM2.5"
+2022-01-24,Patna,5.0,Poor,208,"PM10, PM2.5"
+2022-01-25,Patna,6.0,Poor,278,"PM10, PM2.5"
+2022-01-26,Patna,6.0,Moderate,200,"PM10, PM2.5"
+2022-01-27,Patna,6.0,Moderate,190,"PM10, PM2.5"
+2022-01-28,Patna,6.0,Poor,246,"PM10, PM2.5"
+2022-01-29,Patna,5.0,Poor,270,"PM10, PM2.5"
+2022-01-30,Patna,6.0,Poor,279,"PM10, PM2.5"
+2022-01-31,Patna,6.0,Very Poor,327,"PM10, PM2.5"
+2022-02-01,Patna,5.0,Very Poor,330,PM2.5
+2022-02-02,Patna,6.0,Very Poor,332,"PM10, PM2.5"
+2022-02-03,Patna,6.0,Very Poor,303,PM2.5
+2022-02-04,Patna,4.0,Moderate,170,"PM10, PM2.5"
+2022-02-05,Patna,6.0,Satisfactory,90,"NO2, PM10"
+2022-02-06,Patna,6.0,Moderate,136,"PM10, PM2.5"
+2022-02-07,Patna,5.0,Poor,226,"PM10, PM2.5"
+2022-02-08,Patna,6.0,Poor,246,"PM10, PM2.5"
+2022-02-09,Patna,6.0,Poor,262,"PM10, PM2.5"
+2022-02-10,Patna,6.0,Poor,269,PM2.5
+2022-02-11,Patna,6.0,Moderate,171,"PM10, PM2.5"
+2022-02-12,Patna,6.0,Moderate,146,"PM10, PM2.5"
+2022-02-13,Patna,6.0,Poor,237,"PM10, PM2.5"
+2022-02-14,Patna,6.0,Poor,244,"PM10, PM2.5"
+2022-02-15,Patna,6.0,Poor,270,PM2.5
+2022-02-16,Patna,6.0,Poor,266,PM2.5
+2022-02-17,Patna,6.0,Poor,264,PM2.5
+2022-02-18,Patna,6.0,Poor,206,"PM10, PM2.5"
+2022-02-19,Patna,6.0,Poor,214,"PM10, PM2.5"
+2022-02-20,Patna,6.0,Moderate,165,"PM10, PM2.5"
+2022-02-21,Patna,6.0,Moderate,156,"PM10, PM2.5"
+2022-02-22,Patna,6.0,Poor,234,"PM10, PM2.5"
+2022-02-23,Patna,6.0,Poor,204,"PM10, PM2.5"
+2022-02-24,Patna,5.0,Moderate,164,"PM10, PM2.5"
+2022-02-25,Patna,6.0,Poor,257,PM2.5
+2022-02-26,Patna,6.0,Poor,233,"PM10, PM2.5"
+2022-02-27,Patna,6.0,Poor,252,PM2.5
+2022-02-28,Patna,5.0,Poor,214,"PM10, PM2.5"
+2022-03-01,Patna,6.0,Poor,208,"PM10, PM2.5"
+2022-03-02,Patna,6.0,Poor,231,"PM10, PM2.5"
+2022-03-03,Patna,6.0,Poor,235,"PM10, PM2.5"
+2022-03-04,Patna,6.0,Poor,226,"PM10, PM2.5"
+2022-03-05,Patna,5.0,Moderate,190,"PM10, PM2.5"
+2022-03-06,Patna,6.0,Moderate,196,"PM10, PM2.5"
+2022-03-07,Patna,5.0,Poor,214,"PM10, PM2.5"
+2022-03-08,Patna,5.0,Poor,219,"PM10, PM2.5"
+2022-03-09,Patna,6.0,Poor,226,"PM10, PM2.5"
+2022-03-10,Patna,6.0,Poor,261,"PM10, PM2.5"
+2022-03-11,Patna,6.0,Poor,240,"PM10, PM2.5"
+2022-03-12,Patna,6.0,Poor,231,"PM10, PM2.5"
+2022-03-13,Patna,6.0,Poor,227,"PM10, PM2.5"
+2022-03-14,Patna,6.0,Poor,244,"PM10, PM2.5"
+2022-03-15,Patna,6.0,Poor,250,"PM10, PM2.5"
+2022-03-16,Patna,5.0,Poor,265,"PM10, PM2.5"
+2022-03-17,Patna,5.0,Poor,260,PM2.5
+2022-03-18,Patna,6.0,Very Poor,316,PM2.5
+2022-03-19,Patna,6.0,Poor,215,"PM10, PM2.5"
+2022-03-20,Patna,5.0,Poor,222,PM2.5
+2022-03-21,Patna,5.0,Poor,225,PM2.5
+2022-03-22,Patna,6.0,Poor,212,"PM10, PM2.5"
+2022-03-23,Patna,6.0,Poor,263,"PM10, PM2.5"
+2022-03-24,Patna,6.0,Poor,243,"PM10, PM2.5"
+2022-03-25,Patna,6.0,Poor,244,"PM10, PM2.5"
+2022-03-26,Patna,6.0,Poor,236,"PM10, PM2.5"
+2022-03-27,Patna,6.0,Poor,237,"PM10, PM2.5"
+2022-03-28,Patna,5.0,Poor,283,"PM10, PM2.5"
+2022-03-29,Patna,4.0,Poor,285,PM2.5
+2022-03-30,Patna,5.0,Poor,244,PM2.5
+2022-03-31,Patna,6.0,Poor,243,"PM10, PM2.5"
+2022-04-01,Patna,5.0,Poor,265,PM2.5
+2022-04-02,Patna,6.0,Poor,236,"PM10, PM2.5"
+2022-04-03,Patna,6.0,Moderate,193,"PM10, PM2.5"
+2022-04-04,Patna,6.0,Poor,273,"PM10, PM2.5"
+2022-04-05,Patna,6.0,Poor,283,"PM10, PM2.5"
+2022-04-06,Patna,6.0,Poor,280,"PM10, PM2.5"
+2022-04-07,Patna,6.0,Poor,253,"PM10, PM2.5"
+2022-04-08,Patna,5.0,Poor,208,"PM10, PM2.5"
+2022-04-09,Patna,6.0,Poor,226,"PM10, PM2.5"
+2022-04-10,Patna,6.0,Moderate,171,"PM10, PM2.5"
+2022-04-11,Patna,5.0,Moderate,130,"PM10, PM2.5"
+2022-04-12,Patna,6.0,Moderate,140,"PM10, PM2.5"
+2022-04-13,Patna,5.0,Poor,203,"PM10, PM2.5"
+2022-04-14,Patna,6.0,Poor,229,"PM10, PM2.5"
+2022-04-15,Patna,5.0,Poor,293,"PM10, PM2.5"
+2022-04-16,Patna,6.0,Poor,264,"NO2, PM10, PM2.5"
+2022-04-17,Patna,5.0,Poor,299,"PM10, PM2.5"
+2022-04-18,Patna,5.0,Very Poor,310,"PM10, PM2.5"
+2022-04-19,Patna,6.0,Moderate,189,"PM10, PM2.5"
+2022-04-20,Patna,5.0,Poor,202,"PM10, PM2.5"
+2022-04-21,Patna,6.0,Moderate,164,"NO2, PM10, PM2.5"
+2022-04-22,Patna,6.0,Moderate,173,"PM10, PM2.5"
+2022-04-23,Patna,6.0,Poor,272,"PM10, PM2.5"
+2022-04-24,Patna,4.0,Very Poor,363,"PM10, PM2.5"
+2022-04-25,Patna,6.0,Poor,275,"PM10, PM2.5"
+2022-04-26,Patna,5.0,Poor,281,PM2.5
+2022-04-27,Patna,6.0,Very Poor,337,PM2.5
+2022-04-28,Patna,6.0,Poor,239,PM2.5
+2022-04-29,Patna,6.0,Poor,209,"PM10, PM2.5"
+2022-04-30,Patna,6.0,Poor,248,"PM10, PM2.5"
+2022-05-01,Patna,6.0,Moderate,175,"O3, PM10, PM2.5"
+2022-05-02,Patna,6.0,Moderate,178,"PM10, PM2.5"
+2022-05-03,Patna,6.0,Moderate,164,"NO2, PM10, PM2.5"
+2022-05-04,Patna,5.0,Moderate,124,"NO2, PM10, PM2.5"
+2022-05-05,Patna,6.0,Satisfactory,100,"NO2, PM10"
+2022-05-06,Patna,5.0,Moderate,112,"PM10, PM2.5"
+2022-05-07,Patna,6.0,Moderate,138,"O3, PM10, PM2.5"
+2022-05-08,Patna,5.0,Moderate,137,"PM10, PM2.5"
+2022-05-09,Patna,5.0,Moderate,132,"NO2, PM10"
+2022-05-10,Patna,6.0,Moderate,115,"NO2, PM10, PM2.5"
+2022-05-11,Patna,6.0,Moderate,111,"NO2, PM10, PM2.5"
+2022-05-12,Patna,6.0,Moderate,125,"CO, PM10, PM2.5"
+2022-05-13,Patna,6.0,Moderate,153,"PM10, PM2.5"
+2022-05-14,Patna,5.0,Moderate,136,"PM10, PM2.5"
+2022-05-15,Patna,6.0,Moderate,130,"PM10, PM2.5"
+2022-05-16,Patna,6.0,Moderate,155,"PM10, PM2.5"
+2022-05-17,Patna,6.0,Moderate,136,"CO, PM10, PM2.5"
+2022-05-18,Patna,6.0,Moderate,141,"O3, PM10, PM2.5"
+2022-05-19,Patna,6.0,Poor,218,"PM10, PM2.5"
+2022-05-20,Patna,6.0,Moderate,176,"PM10, PM2.5"
+2022-05-21,Patna,6.0,Moderate,126,"O3, PM10, PM2.5"
+2022-05-22,Patna,6.0,Moderate,127,"NO2, O3, PM10"
+2022-05-23,Patna,6.0,Moderate,127,"O3, PM10"
+2022-05-24,Patna,6.0,Moderate,137,"NO2, PM10"
+2022-05-25,Patna,6.0,Moderate,130,"NO2, O3, PM10"
+2022-05-26,Patna,6.0,Moderate,144,"NO2, PM10, PM2.5"
+2022-05-27,Patna,6.0,Moderate,161,"NO2, O3, PM2.5"
+2022-05-28,Patna,6.0,Moderate,160,"NO2, PM10, PM2.5"
+2022-05-29,Patna,5.0,Moderate,179,"PM10, PM2.5"
+2022-05-30,Patna,5.0,Moderate,150,"PM10, PM2.5"
+2022-05-31,Patna,6.0,Moderate,150,"PM10, PM2.5"
+2022-06-01,Patna,6.0,Moderate,198,"PM10, PM2.5"
+2022-06-02,Patna,6.0,Moderate,178,"PM10, PM2.5"
+2022-06-03,Patna,6.0,Moderate,166,"PM10, PM2.5"
+2022-06-04,Patna,6.0,Moderate,189,"PM10, PM2.5"
+2022-06-05,Patna,6.0,Moderate,138,"PM10, PM2.5"
+2022-06-06,Patna,6.0,Moderate,147,"PM10, PM2.5"
+2022-06-07,Patna,6.0,Moderate,134,"PM10, PM2.5"
+2022-06-08,Patna,6.0,Moderate,153,"PM10, PM2.5"
+2022-06-09,Patna,6.0,Moderate,164,"PM10, PM2.5"
+2022-06-10,Patna,5.0,Moderate,114,"CO, PM10, PM2.5"
+2022-06-11,Patna,5.0,Moderate,143,"PM10, PM2.5"
+2022-06-12,Patna,5.0,Moderate,158,"PM10, PM2.5"
+2022-06-13,Patna,4.0,Moderate,133,"PM10, PM2.5"
+2022-06-14,Patna,6.0,Moderate,152,"PM10, PM2.5"
+2022-06-15,Patna,6.0,Moderate,154,"PM10, PM2.5"
+2022-06-16,Patna,6.0,Moderate,171,"NO2, PM10"
+2022-06-17,Patna,6.0,Moderate,129,"NO2, PM10, PM2.5"
+2022-06-18,Patna,6.0,Moderate,104,"NO2, PM10, PM2.5"
+2022-06-19,Patna,5.0,Satisfactory,94,"NO2, PM10"
+2022-06-20,Patna,6.0,Satisfactory,86,"O3, PM10, PM2.5"
+2022-06-21,Patna,6.0,Satisfactory,96,PM10
+2022-06-22,Patna,6.0,Moderate,102,"NO2, PM10, PM2.5"
+2022-06-23,Patna,6.0,Moderate,120,"PM10, PM2.5"
+2022-06-24,Patna,6.0,Moderate,128,"PM10, PM2.5"
+2022-06-25,Patna,6.0,Moderate,109,"PM10, PM2.5"
+2022-06-26,Patna,5.0,Moderate,113,"O3, PM10"
+2022-06-27,Patna,6.0,Moderate,108,"O3, PM10, PM2.5"
+2022-06-28,Patna,5.0,Moderate,122,"PM10, PM2.5"
+2022-06-29,Patna,6.0,Satisfactory,89,"NO2, PM10, PM2.5"
+2022-06-30,Patna,5.0,Satisfactory,89,"CO, O3, PM10"
+2022-07-01,Patna,4.0,Moderate,135,"PM10, PM2.5"
+2022-07-02,Patna,6.0,Moderate,102,"O3, PM10, PM2.5"
+2022-07-03,Patna,5.0,Moderate,116,"PM10, PM2.5"
+2022-07-04,Patna,5.0,Moderate,108,"PM10, PM2.5"
+2022-07-05,Patna,5.0,Moderate,129,"NO2, PM10, PM2.5"
+2022-07-06,Patna,5.0,Moderate,124,"NO2, PM10, PM2.5"
+2022-07-07,Patna,5.0,Satisfactory,95,"NO2, PM10"
+2022-07-08,Patna,5.0,Moderate,110,"NO2, PM10"
+2022-07-09,Patna,3.0,Satisfactory,83,"NO2, PM10"
+2022-07-10,Patna,5.0,Satisfactory,85,"NO2, PM10"
+2022-07-11,Patna,5.0,Satisfactory,85,"NO2, PM10, PM2.5"
+2022-07-12,Patna,5.0,Satisfactory,89,"NO2, PM10"
+2022-07-13,Patna,6.0,Satisfactory,96,"NO2, PM10"
+2022-07-14,Patna,5.0,Satisfactory,89,"NO2, PM10"
+2022-07-15,Patna,4.0,Satisfactory,93,"NO2, PM10"
+2022-07-16,Patna,4.0,Satisfactory,63,"NO2, PM10"
+2022-07-17,Patna,5.0,Satisfactory,82,"NO2, PM10, PM2.5"
+2022-07-18,Patna,5.0,Satisfactory,84,"NO2, PM10, PM2.5"
+2022-07-19,Patna,5.0,Satisfactory,91,"NO2, PM10, PM2.5"
+2022-07-20,Patna,4.0,Satisfactory,100,"NO2, PM10, PM2.5"
+2022-07-21,Patna,3.0,Satisfactory,91,"PM10, PM2.5"
+2022-07-22,Patna,6.0,Satisfactory,84,"O3, PM10, PM2.5"
+2022-07-23,Patna,6.0,Satisfactory,96,"O3, PM10, PM2.5"
+2022-07-24,Patna,6.0,Satisfactory,88,"O3, PM10"
+2022-07-25,Patna,6.0,Satisfactory,90,"NO2, O3, PM10"
+2022-07-26,Patna,6.0,Satisfactory,81,"O3, PM10, PM2.5"
+2022-07-27,Patna,5.0,Satisfactory,71,"CO, PM10"
+2022-07-28,Patna,6.0,Satisfactory,95,"O3, PM10"
+2022-07-29,Patna,6.0,Satisfactory,90,"CO, PM10"
+2022-07-30,Patna,6.0,Satisfactory,72,"O3, PM10"
+2022-07-31,Patna,6.0,Satisfactory,63,"O3, PM10"
+2022-08-01,Patna,5.0,Satisfactory,64,"O3, PM10, SO2"
+2022-08-02,Patna,6.0,Satisfactory,75,"CO, PM10"
+2022-08-03,Patna,6.0,Satisfactory,79,"O3, PM10, PM2.5"
+2022-08-04,Patna,5.0,Moderate,108,"PM10, PM2.5"
+2022-08-05,Patna,6.0,Moderate,119,"PM10, PM2.5"
+2022-08-06,Patna,6.0,Moderate,101,"PM10, PM2.5"
+2022-08-07,Patna,6.0,Satisfactory,86,"O3, PM10, PM2.5"
+2022-08-08,Patna,6.0,Satisfactory,88,"O3, PM10"
+2022-08-09,Patna,6.0,Satisfactory,82,"CO, NO2, PM10"
+2022-08-10,Patna,5.0,Satisfactory,89,"CO, NO2, PM10"
+2022-08-11,Patna,5.0,Satisfactory,77,"NO2, O3, PM10"
+2022-08-12,Patna,6.0,Satisfactory,70,"NO2, O3, PM10"
+2022-08-13,Patna,4.0,Satisfactory,80,"NO2, O3, PM10"
+2022-08-14,Patna,4.0,Satisfactory,79,"NO2, PM10"
+2022-08-15,Patna,5.0,Satisfactory,73,"CO, PM10"
+2022-08-16,Patna,5.0,Satisfactory,79,"CO, NO2, PM10"
+2022-08-17,Patna,5.0,Satisfactory,99,"CO, NO2, PM10"
+2022-08-18,Patna,6.0,Satisfactory,90,"NO2, PM10, PM2.5"
+2022-08-19,Patna,4.0,Satisfactory,86,"NO2, PM10"
+2022-08-20,Patna,6.0,Satisfactory,67,"NO2, O3, PM10"
+2022-08-21,Patna,6.0,Satisfactory,74,"NO2, O3, PM10"
+2022-08-22,Patna,5.0,Satisfactory,73,"O3, PM10"
+2022-08-23,Patna,5.0,Satisfactory,98,"PM10, PM2.5"
+2022-08-24,Patna,5.0,Satisfactory,68,"O3, PM10, PM2.5"
+2022-08-25,Patna,4.0,Satisfactory,73,"PM10, PM2.5"
+2022-08-26,Patna,6.0,Satisfactory,86,"PM10, PM2.5"
+2022-08-27,Patna,6.0,Satisfactory,88,"PM10, PM2.5"
+2022-08-28,Patna,6.0,Satisfactory,66,"PM10, PM2.5"
+2022-08-29,Patna,6.0,Satisfactory,70,"PM10, PM2.5"
+2022-08-30,Patna,6.0,Moderate,113,"PM10, PM2.5"
+2022-08-31,Patna,6.0,Moderate,105,"PM10, PM2.5"
+2022-09-01,Patna,6.0,Satisfactory,94,"PM10, PM2.5"
+2022-09-02,Patna,6.0,Satisfactory,86,"PM10, PM2.5"
+2022-09-03,Patna,5.0,Satisfactory,82,PM10
+2022-09-04,Patna,6.0,Satisfactory,70,"O3, PM10"
+2022-09-05,Patna,6.0,Satisfactory,96,"PM10, PM2.5"
+2022-09-06,Patna,6.0,Moderate,102,"PM10, PM2.5"
+2022-09-07,Patna,6.0,Moderate,113,"PM10, PM2.5"
+2022-09-08,Patna,6.0,Moderate,113,"PM10, PM2.5"
+2022-09-09,Patna,6.0,Satisfactory,82,"PM10, PM2.5"
+2022-09-10,Patna,6.0,Satisfactory,86,"PM10, PM2.5"
+2022-09-11,Patna,6.0,Satisfactory,71,"NO2, PM10"
+2022-09-12,Patna,5.0,Good,47,PM10
+2022-09-13,Patna,6.0,Good,50,"PM10, PM2.5"
+2022-09-14,Patna,6.0,Satisfactory,52,"CO, PM10, PM2.5"
+2022-09-15,Patna,6.0,Satisfactory,65,"O3, PM10, PM2.5"
+2022-09-16,Patna,6.0,Satisfactory,61,"NO2, PM10"
+2022-09-17,Patna,6.0,Satisfactory,62,"NO2, PM10, PM2.5"
+2022-09-18,Patna,6.0,Satisfactory,52,"NO2, PM10"
+2022-09-19,Patna,5.0,Satisfactory,85,"PM10, PM2.5"
+2022-09-20,Patna,6.0,Satisfactory,59,PM10
+2022-09-21,Patna,6.0,Satisfactory,68,"NO2, PM10"
+2022-09-22,Patna,6.0,Satisfactory,70,"PM10, PM2.5"
+2022-09-23,Patna,6.0,Satisfactory,92,"PM10, PM2.5"
+2022-09-24,Patna,6.0,Moderate,101,"PM10, PM2.5"
+2022-09-25,Patna,5.0,Satisfactory,96,"PM10, PM2.5"
+2022-09-26,Patna,6.0,Moderate,123,"PM10, PM2.5"
+2022-09-27,Patna,6.0,Satisfactory,80,"PM10, PM2.5"
+2022-09-28,Patna,6.0,Satisfactory,87,"PM10, PM2.5"
+2022-09-29,Patna,6.0,Satisfactory,94,"PM10, PM2.5"
+2022-09-30,Patna,6.0,Satisfactory,77,"PM10, PM2.5"
+2022-10-01,Patna,6.0,Moderate,129,"PM10, PM2.5"
+2022-10-02,Patna,6.0,Moderate,127,"PM10, PM2.5"
+2022-10-03,Patna,6.0,Moderate,124,"PM10, PM2.5"
+2022-10-04,Patna,6.0,Good,40,"NO2, O3, PM10"
+2022-10-05,Patna,6.0,Good,43,"NO2, O3, PM10"
+2022-10-06,Patna,6.0,Satisfactory,53,"NO2, PM10"
+2022-10-07,Patna,6.0,Satisfactory,58,"NO2, PM10"
+2022-10-08,Patna,6.0,Satisfactory,56,"NO2, PM10"
+2022-10-09,Patna,6.0,Satisfactory,98,"PM10, PM2.5"
+2022-10-10,Patna,6.0,Satisfactory,72,"NO2, PM10"
+2022-10-11,Patna,6.0,Satisfactory,63,"NO2, PM10"
+2022-10-12,Patna,6.0,Satisfactory,60,"NO2, PM10, PM2.5"
+2022-10-13,Patna,5.0,Moderate,103,PM10
+2022-10-14,Patna,6.0,Satisfactory,96,"O3, PM10, PM2.5"
+2022-10-15,Patna,6.0,Moderate,124,"PM10, PM2.5"
+2022-10-16,Patna,6.0,Moderate,134,"O3, PM10, PM2.5"
+2022-10-17,Patna,6.0,Moderate,145,"PM10, PM2.5"
+2022-10-18,Patna,6.0,Moderate,168,"PM10, PM2.5"
+2022-10-19,Patna,6.0,Moderate,165,"PM10, PM2.5"
+2022-10-20,Patna,5.0,Poor,210,"PM10, PM2.5"
+2022-10-21,Patna,4.0,Poor,252,PM2.5
+2022-10-22,Patna,6.0,Poor,254,"PM10, PM2.5"
+2022-10-23,Patna,5.0,Poor,212,"PM10, PM2.5"
+2022-10-24,Patna,6.0,Moderate,153,"PM10, PM2.5"
+2022-10-25,Patna,6.0,Moderate,172,"PM10, PM2.5"
+2022-10-26,Patna,6.0,Moderate,196,"PM10, PM2.5"
+2022-10-27,Patna,6.0,Poor,256,"PM10, PM2.5"
+2022-10-28,Patna,6.0,Poor,269,PM2.5
+2022-10-29,Patna,6.0,Poor,276,"PM10, PM2.5"
+2022-10-30,Patna,6.0,Poor,268,PM2.5
+2022-10-31,Patna,5.0,Poor,205,PM2.5
+2022-11-01,Patna,6.0,Moderate,129,"PM10, PM2.5"
+2022-11-02,Patna,6.0,Moderate,156,"PM10, PM2.5"
+2022-11-03,Patna,6.0,Moderate,171,"PM10, PM2.5"
+2022-11-04,Patna,6.0,Poor,260,"PM10, PM2.5"
+2022-11-05,Patna,6.0,Very Poor,302,"PM10, PM2.5"
+2022-11-06,Patna,6.0,Poor,274,PM2.5
+2022-11-07,Patna,6.0,Poor,225,"PM10, PM2.5"
+2022-11-08,Patna,6.0,Poor,220,"PM10, PM2.5"
+2022-11-09,Patna,6.0,Poor,247,"PM10, PM2.5"
+2022-11-10,Patna,6.0,Poor,253,PM2.5
+2022-11-11,Patna,6.0,Poor,275,PM2.5
+2022-11-12,Patna,6.0,Very Poor,306,"PM10, PM2.5"
+2022-11-13,Patna,6.0,Poor,265,"PM10, PM2.5"
+2022-11-14,Patna,6.0,Very Poor,303,"PM10, PM2.5"
+2022-11-15,Patna,6.0,Very Poor,340,"PM10, PM2.5"
+2022-11-16,Patna,6.0,Very Poor,311,"PM10, PM2.5"
+2022-11-17,Patna,6.0,Poor,284,"PM10, PM2.5"
+2022-11-18,Patna,6.0,Poor,271,PM2.5
+2022-11-19,Patna,6.0,Poor,299,"PM10, PM2.5"
+2022-11-20,Patna,6.0,Very Poor,320,PM2.5
+2022-11-21,Patna,6.0,Very Poor,327,PM2.5
+2022-11-22,Patna,6.0,Very Poor,328,PM2.5
+2022-11-23,Patna,6.0,Poor,297,PM2.5
+2022-11-24,Patna,6.0,Very Poor,302,PM2.5
+2022-11-25,Patna,6.0,Very Poor,333,PM2.5
+2022-11-26,Patna,6.0,Very Poor,341,"PM10, PM2.5"
+2022-11-27,Patna,6.0,Very Poor,351,"PM10, PM2.5"
+2022-11-28,Patna,6.0,Very Poor,364,"PM10, PM2.5"
+2022-11-29,Patna,6.0,Very Poor,348,"PM10, PM2.5"
+2022-11-30,Patna,5.0,Very Poor,395,"PM10, PM2.5"
+2022-12-01,Patna,6.0,Very Poor,362,"PM10, PM2.5"
+2022-12-02,Patna,6.0,Very Poor,347,"PM10, PM2.5"
+2022-12-03,Patna,6.0,Very Poor,372,"PM10, PM2.5"
+2022-12-04,Patna,6.0,Very Poor,378,"PM10, PM2.5"
+2022-12-05,Patna,6.0,Very Poor,348,PM2.5
+2022-12-06,Patna,6.0,Very Poor,348,"PM10, PM2.5"
+2022-12-07,Patna,6.0,Very Poor,366,"PM10, PM2.5"
+2022-12-08,Patna,6.0,Very Poor,385,"PM10, PM2.5"
+2022-12-09,Patna,6.0,Very Poor,396,"PM10, PM2.5"
+2022-12-10,Patna,6.0,Very Poor,384,"PM10, PM2.5"
+2022-12-11,Patna,6.0,Very Poor,375,"PM10, PM2.5"
+2022-12-12,Patna,6.0,Very Poor,385,"PM10, PM2.5"
+2022-12-13,Patna,6.0,Very Poor,399,"PM10, PM2.5"
+2022-12-14,Patna,6.0,Very Poor,347,"PM10, PM2.5"
+2022-12-15,Patna,6.0,Very Poor,302,"PM10, PM2.5"
+2022-12-16,Patna,6.0,Poor,271,"NO2, PM10"
+2022-12-17,Patna,6.0,Very Poor,367,"PM10, PM2.5"
+2022-12-18,Patna,6.0,Severe,402,"PM10, PM2.5"
+2022-12-19,Patna,6.0,Severe,404,"PM10, PM2.5"
+2022-12-20,Patna,6.0,Severe,408,"PM10, PM2.5"
+2022-12-21,Patna,6.0,Severe,402,"PM10, PM2.5"
+2022-12-22,Patna,6.0,Very Poor,333,"PM10, PM2.5"
+2022-12-23,Patna,6.0,Very Poor,374,"PM10, PM2.5"
+2022-12-24,Patna,6.0,Very Poor,372,"PM10, PM2.5"
+2022-12-25,Patna,6.0,Very Poor,338,"PM10, PM2.5"
+2022-12-26,Patna,6.0,Very Poor,352,"PM10, PM2.5"
+2022-12-27,Patna,5.0,Very Poor,343,"PM10, PM2.5"
+2022-12-28,Patna,6.0,Very Poor,336,"PM10, PM2.5"
+2022-12-29,Patna,6.0,Very Poor,382,"PM10, PM2.5"
+2022-12-30,Patna,6.0,Severe,424,"PM10, PM2.5"
+2022-12-31,Patna,6.0,Severe,419,PM2.5
+2023-01-01,Patna,6.0,Severe,414,PM2.5
+2023-01-02,Patna,6.0,Very Poor,343,"PM10, PM2.5"
+2023-01-03,Patna,6.0,Poor,264,PM2.5
+2023-01-04,Patna,6.0,Poor,257,PM2.5
+2023-01-05,Patna,6.0,Very Poor,313,"PM10, PM2.5"
+2023-01-06,Patna,6.0,Very Poor,329,"PM10, PM2.5"
+2023-01-07,Patna,6.0,Very Poor,363,"PM10, PM2.5"
+2023-01-08,Patna,6.0,Very Poor,366,"PM10, PM2.5"
+2023-01-09,Patna,6.0,Very Poor,373,"PM10, PM2.5"
+2023-01-10,Patna,6.0,Very Poor,393,"PM10, PM2.5"
+2023-01-11,Patna,6.0,Very Poor,363,"PM10, PM2.5"
+2023-01-12,Patna,6.0,Very Poor,357,PM2.5
+2023-01-13,Patna,6.0,Very Poor,327,PM2.5
+2023-01-14,Patna,6.0,Severe,404,PM2.5
+2023-01-15,Patna,6.0,Very Poor,357,"PM10, PM2.5"
+2023-01-16,Patna,6.0,Very Poor,347,PM2.5
+2023-01-17,Patna,6.0,Very Poor,318,PM2.5
+2023-01-18,Patna,6.0,Very Poor,350,"PM10, PM2.5"
+2023-01-19,Patna,6.0,Very Poor,362,"PM10, PM2.5"
+2023-01-20,Patna,6.0,Very Poor,394,"PM10, PM2.5"
+2023-01-21,Patna,6.0,Very Poor,354,PM2.5
+2023-01-22,Patna,6.0,Very Poor,339,PM2.5
+2023-01-23,Patna,6.0,Very Poor,366,"PM10, PM2.5"
+2023-01-24,Patna,6.0,Very Poor,348,"PM10, PM2.5"
+2023-01-25,Patna,6.0,Very Poor,390,"PM10, PM2.5"
+2023-01-26,Patna,6.0,Very Poor,333,"PM10, PM2.5"
+2023-01-27,Patna,6.0,Poor,204,PM2.5
+2023-01-28,Patna,6.0,Poor,213,PM2.5
+2023-01-29,Patna,5.0,Very Poor,304,PM2.5
+2023-01-30,Patna,5.0,Very Poor,329,PM2.5
+2023-01-31,Patna,6.0,Poor,261,"PM10, PM2.5"
+2023-02-01,Patna,6.0,Moderate,150,"PM10, PM2.5"
+2023-02-02,Patna,6.0,Poor,209,PM2.5
+2023-02-03,Patna,6.0,Poor,296,PM2.5
+2023-02-04,Patna,6.0,Very Poor,308,PM2.5
+2023-02-05,Patna,6.0,Poor,292,PM2.5
+2023-02-06,Patna,6.0,Poor,288,"PM10, PM2.5"
+2023-02-07,Patna,6.0,Poor,267,"PM10, PM2.5"
+2023-02-08,Patna,6.0,Poor,295,PM2.5
+2023-02-09,Patna,6.0,Poor,210,PM2.5
+2023-02-10,Patna,5.0,Poor,258,"PM10, PM2.5"
+2023-02-11,Patna,5.0,Poor,297,"PM10, PM2.5"
+2023-02-12,Patna,6.0,Poor,288,"PM10, PM2.5"
+2023-02-13,Patna,6.0,Moderate,184,"PM10, PM2.5"
+2023-02-14,Patna,6.0,Poor,223,"PM10, PM2.5"
+2023-02-15,Patna,6.0,Very Poor,302,"PM10, PM2.5"
+2023-02-16,Patna,6.0,Very Poor,356,PM10
+2023-02-17,Patna,5.0,Very Poor,370,PM2.5
+2023-02-18,Patna,6.0,Very Poor,351,PM2.5
+2023-02-19,Patna,6.0,Very Poor,348,"PM10, PM2.5"
+2023-02-20,Patna,6.0,Very Poor,322,"PM10, PM2.5"
+2023-02-21,Patna,5.0,Very Poor,302,"PM10, PM2.5"
+2023-02-22,Patna,6.0,Poor,295,"PM10, PM2.5"
+2023-02-23,Patna,6.0,Poor,221,PM2.5
+2023-02-24,Patna,6.0,Moderate,200,"PM10, PM2.5"
+2023-02-25,Patna,6.0,Poor,252,"PM10, PM2.5"
+2023-02-26,Patna,6.0,Poor,245,PM2.5
+2023-02-27,Patna,6.0,Poor,237,"PM10, PM2.5"
+2023-02-28,Patna,6.0,Poor,293,"PM10, PM2.5"
+2023-03-01,Patna,6.0,Poor,276,"PM10, PM2.5"
+2023-03-02,Patna,6.0,Poor,271,"PM10, PM2.5"
+2023-03-03,Patna,6.0,Poor,210,PM2.5
+2023-03-04,Patna,6.0,Poor,240,PM2.5
+2023-03-05,Patna,6.0,Poor,214,PM2.5
+2023-03-06,Patna,6.0,Moderate,186,PM2.5
+2023-03-07,Patna,6.0,Poor,214,"PM10, PM2.5"
+2023-03-08,Patna,6.0,Poor,216,PM2.5
+2023-03-09,Patna,6.0,Poor,209,PM2.5
+2023-03-10,Patna,6.0,Moderate,158,PM2.5
+2023-03-11,Patna,6.0,Poor,201,PM2.5
+2023-03-12,Patna,6.0,Poor,246,PM2.5
+2023-03-13,Patna,6.0,Poor,247,"PM10, PM2.5"
+2023-03-14,Patna,6.0,Poor,268,PM2.5
+2023-03-15,Patna,6.0,Poor,281,"PM10, PM2.5"
+2023-03-16,Patna,6.0,Poor,276,"PM10, PM2.5"
+2023-03-17,Patna,6.0,Poor,232,"PM10, PM2.5"
+2023-03-18,Patna,6.0,Poor,279,"PM10, PM2.5"
+2023-03-19,Patna,6.0,Moderate,163,"PM10, PM2.5"
+2023-03-20,Patna,6.0,Moderate,129,"PM10, PM2.5"
+2023-03-21,Patna,6.0,Moderate,117,PM2.5
+2023-03-22,Patna,6.0,Moderate,154,"O3, PM10"
+2023-03-23,Patna,6.0,Moderate,146,"PM10, PM2.5"
+2023-03-24,Patna,6.0,Moderate,180,"PM10, PM2.5"
+2023-03-25,Patna,6.0,Poor,292,PM10
+2023-03-26,Patna,6.0,Poor,203,PM2.5
+2023-03-27,Patna,6.0,Moderate,135,"NO2, PM10"
+2023-03-28,Patna,6.0,Moderate,166,"NO2, PM10"
+2023-03-29,Patna,6.0,Moderate,179,"PM10, PM2.5"
+2023-03-30,Patna,6.0,Poor,212,"PM10, PM2.5"
+2023-03-31,Patna,6.0,Moderate,199,"PM10, PM2.5"
+2023-04-01,Patna,6.0,Moderate,113,"NO2, PM2.5"
+2023-04-02,Patna,6.0,Moderate,148,PM2.5
+2023-04-03,Patna,6.0,Moderate,125,"PM10, PM2.5"
+2023-04-04,Patna,6.0,Moderate,176,"PM10, PM2.5"
+2023-04-05,Patna,6.0,Moderate,184,"PM10, PM2.5"
+2023-04-06,Patna,6.0,Poor,224,PM2.5
+2023-04-07,Patna,6.0,Moderate,193,PM2.5
+2023-04-08,Patna,6.0,Poor,216,"PM10, PM2.5"
+2023-04-09,Patna,5.0,Poor,225,"PM10, PM2.5"
+2023-04-10,Patna,5.0,Poor,277,PM10
+2023-04-11,Patna,5.0,Poor,214,"PM10, PM2.5"
+2023-04-12,Patna,5.0,Poor,251,PM2.5
+2023-04-13,Patna,5.0,Poor,243,PM2.5
+2023-04-14,Patna,6.0,Poor,260,"PM10, PM2.5"
+2023-04-15,Patna,6.0,Poor,258,"PM10, PM2.5"
+2023-04-16,Patna,6.0,Poor,273,"PM10, PM2.5"
+2023-04-17,Patna,6.0,Poor,253,"PM10, PM2.5"
+2023-04-18,Patna,6.0,Poor,264,"PM10, PM2.5"
+2023-04-19,Patna,6.0,Poor,247,"PM10, PM2.5"
+2023-04-20,Patna,6.0,Poor,259,"PM10, PM2.5"
+2023-04-21,Patna,6.0,Poor,230,"PM10, PM2.5"
+2023-04-22,Patna,6.0,Moderate,134,PM2.5
+2023-04-23,Patna,6.0,Moderate,126,"NO2, PM2.5"
+2023-04-24,Patna,6.0,Moderate,156,"NO2, PM10"
+2023-04-25,Patna,6.0,Moderate,156,PM2.5
+2023-04-26,Patna,6.0,Poor,213,PM2.5
+2023-04-27,Patna,6.0,Poor,239,"PM10, PM2.5"
+2023-04-28,Patna,6.0,Moderate,180,PM2.5
+2023-04-29,Patna,6.0,Poor,230,PM2.5
+2023-04-30,Patna,6.0,Poor,203,PM2.5
+2023-05-01,Patna,6.0,Moderate,107,"PM10, PM2.5"
+2023-05-02,Patna,6.0,Moderate,117,PM2.5
+2023-05-03,Patna,6.0,Moderate,150,PM2.5
+2023-05-04,Patna,6.0,Moderate,133,PM2.5
+2023-05-05,Patna,6.0,Moderate,135,PM2.5
+2023-05-06,Patna,6.0,Moderate,148,"NO2, PM2.5"
+2023-05-07,Patna,6.0,Poor,215,PM2.5
+2023-05-08,Patna,6.0,Poor,210,PM10
+2023-05-09,Patna,6.0,Poor,212,PM2.5
+2023-05-10,Patna,6.0,Moderate,180,"PM10, PM2.5"
+2023-05-11,Patna,5.0,Poor,248,"PM10, PM2.5"
+2023-05-12,Patna,5.0,Poor,225,"PM10, PM2.5"
+2023-05-13,Patna,5.0,Moderate,175,PM10
+2023-05-14,Patna,5.0,Moderate,170,"PM10, PM2.5"
+2023-05-15,Patna,5.0,Moderate,186,"PM10, PM2.5"
+2023-05-16,Patna,6.0,Moderate,197,PM2.5
+2023-05-17,Patna,5.0,Poor,202,PM2.5
+2023-05-18,Patna,6.0,Moderate,157,"CO, PM2.5"
+2023-05-19,Patna,6.0,Moderate,139,PM2.5
+2023-05-20,Patna,6.0,Moderate,190,PM2.5
+2023-05-21,Patna,6.0,Poor,220,PM2.5
+2023-05-22,Patna,6.0,Moderate,172,PM2.5
+2023-05-23,Patna,6.0,Moderate,148,PM2.5
+2023-05-24,Patna,6.0,Satisfactory,93,PM2.5
+2023-05-25,Patna,5.0,Moderate,135,PM2.5
+2023-05-26,Patna,5.0,Moderate,129,PM2.5
+2023-05-27,Patna,6.0,Satisfactory,79,PM2.5
+2023-05-28,Patna,6.0,Moderate,121,PM2.5
+2023-05-29,Patna,6.0,Moderate,140,PM2.5
+2023-05-30,Patna,6.0,Moderate,133,PM2.5
+2023-05-31,Patna,6.0,Moderate,193,PM2.5
+2023-06-01,Patna,6.0,Moderate,172,"NO2, PM2.5"
+2023-06-02,Patna,6.0,Moderate,170,"NO2, PM2.5"
+2023-06-03,Patna,6.0,Moderate,184,"NO2, PM2.5"
+2023-06-04,Patna,6.0,Poor,202,"NO2, PM2.5"
+2023-06-05,Patna,6.0,Poor,225,PM2.5
+2023-06-06,Patna,6.0,Poor,232,PM2.5
+2023-06-07,Patna,6.0,Moderate,196,PM2.5
+2023-06-08,Patna,6.0,Moderate,184,"NO2, PM2.5"
+2023-06-09,Patna,6.0,Moderate,200,"NO2, PM2.5"
+2023-06-10,Patna,6.0,Moderate,162,PM2.5
+2023-06-11,Patna,6.0,Moderate,141,PM2.5
+2023-06-12,Patna,6.0,Moderate,166,PM2.5
+2023-06-13,Patna,6.0,Moderate,145,PM2.5
+2023-06-14,Patna,6.0,Moderate,186,PM2.5
+2023-06-15,Patna,6.0,Poor,270,PM2.5
+2023-06-16,Patna,6.0,Poor,211,"NO2, PM2.5"
+2023-06-17,Patna,6.0,Moderate,190,"NO2, PM2.5"
+2023-06-18,Patna,6.0,Moderate,199,PM2.5
+2023-06-19,Patna,6.0,Moderate,142,PM2.5
+2023-06-20,Patna,6.0,Moderate,134,"NO2, PM2.5"
+2023-06-21,Patna,6.0,Moderate,132,PM2.5
+2023-06-22,Patna,6.0,Moderate,124,PM2.5
+2023-06-23,Patna,6.0,Moderate,131,PM2.5
+2023-06-24,Patna,6.0,Moderate,137,"PM10, PM2.5"
+2023-06-25,Patna,6.0,Moderate,135,PM2.5
+2023-06-26,Patna,6.0,Moderate,127,PM2.5
+2023-06-27,Patna,6.0,Moderate,144,PM2.5
+2023-06-28,Patna,6.0,Satisfactory,76,PM2.5
+2023-06-29,Patna,6.0,Good,48,"NO2, PM2.5"
+2023-06-30,Patna,6.0,Good,40,PM2.5
+2023-07-01,Patna,5.0,Satisfactory,68,"PM10, PM2.5"
+2023-07-02,Patna,5.0,Satisfactory,62,"NO2, PM10"
+2023-07-03,Patna,5.0,Satisfactory,52,"PM10, PM2.5"
+2023-07-04,Patna,6.0,Moderate,101,"O3, PM10"
+2023-07-05,Patna,6.0,Satisfactory,80,"O3, PM2.5"
+2023-07-06,Patna,6.0,Satisfactory,80,"O3, PM10"
+2023-07-07,Patna,6.0,Satisfactory,71,"NO2, PM2.5"
+2023-07-08,Patna,5.0,Satisfactory,62,"NO2, PM2.5"
+2023-07-09,Patna,5.0,Satisfactory,67,PM2.5
+2023-07-10,Patna,5.0,Satisfactory,74,"PM10, PM2.5"
+2023-07-11,Patna,5.0,Satisfactory,77,"PM10, PM2.5"
+2023-07-12,Patna,6.0,Satisfactory,86,PM2.5
+2023-07-13,Patna,6.0,Moderate,130,PM2.5
+2023-07-14,Patna,6.0,Satisfactory,95,PM2.5
+2023-07-15,Patna,6.0,Satisfactory,82,"O3, PM10"
+2023-07-16,Patna,6.0,Satisfactory,85,"O3, PM2.5"
+2023-07-17,Patna,6.0,Satisfactory,66,"NO2, PM10"
+2023-07-18,Patna,6.0,Satisfactory,74,"O3, PM2.5"
+2023-07-19,Patna,6.0,Satisfactory,99,PM2.5
+2023-07-20,Patna,6.0,Satisfactory,95,PM2.5
+2023-07-21,Patna,6.0,Satisfactory,83,"NO2, PM2.5"
+2023-07-22,Patna,6.0,Satisfactory,90,PM2.5
+2023-07-23,Patna,6.0,Satisfactory,70,"CO, PM2.5"
+2023-07-24,Patna,6.0,Satisfactory,83,"NO2, PM2.5"
+2023-07-25,Patna,6.0,Satisfactory,99,"NO2, PM2.5"
+2023-07-26,Patna,6.0,Satisfactory,98,"NO2, PM2.5"
+2023-07-27,Patna,6.0,Satisfactory,96,"NO2, PM2.5"
+2023-07-28,Patna,6.0,Satisfactory,95,"CO, PM2.5"
+2023-07-29,Patna,6.0,Satisfactory,90,"NO2, PM2.5"
+2023-07-30,Patna,6.0,Satisfactory,79,"NO2, PM10"
+2023-07-31,Patna,6.0,Satisfactory,91,"CO, O3"
+2023-08-01,Patna,6.0,Satisfactory,85,"PM10, PM2.5"
+2023-08-02,Patna,6.0,Satisfactory,61,PM2.5
+2023-08-03,Patna,6.0,Satisfactory,78,PM2.5
+2023-08-04,Patna,6.0,Satisfactory,71,"NO2, PM10"
+2023-08-05,Patna,6.0,Satisfactory,82,"NO2, PM10"
+2023-08-06,Patna,6.0,Satisfactory,72,"NO2, PM10"
+2023-08-07,Patna,5.0,Satisfactory,56,"CO, PM10"
+2023-08-08,Patna,6.0,Satisfactory,80,"NO2, PM10"
+2023-08-09,Patna,6.0,Satisfactory,68,"NO2, PM10"
+2023-08-10,Patna,5.0,Satisfactory,83,"NO2, PM10"
+2023-08-11,Patna,4.0,Moderate,121,NO2
+2023-08-12,Patna,6.0,Moderate,104,"CO, PM10"
+2023-08-13,Patna,4.0,Moderate,107,"CO, PM10"
+2023-08-14,Patna,5.0,Satisfactory,94,"CO, PM10"
+2023-08-15,Patna,6.0,Satisfactory,89,"PM10, PM2.5"
+2023-08-16,Patna,6.0,Satisfactory,86,"NO2, PM10"
+2023-08-17,Patna,6.0,Satisfactory,78,"NO2, PM10"
+2023-08-18,Patna,6.0,Satisfactory,89,"NO2, PM10"
+2023-08-19,Patna,5.0,Satisfactory,82,"NO2, PM10"
+2023-08-20,Patna,6.0,Satisfactory,83,"NO2, PM10"
+2023-08-21,Patna,6.0,Satisfactory,99,"NO2, PM10"
+2023-08-22,Patna,6.0,Satisfactory,78,"NO2, PM10"
+2023-08-23,Patna,5.0,Satisfactory,65,"NO2, PM10"
+2023-08-24,Patna,5.0,Satisfactory,62,"NO2, PM10"
+2023-08-25,Patna,5.0,Satisfactory,61,"CO, PM10"
+2023-08-26,Patna,6.0,Satisfactory,87,"NO2, PM10"
+2023-08-27,Patna,6.0,Moderate,140,"NO2, PM10"
+2023-08-28,Patna,6.0,Poor,209,"NO2, PM10"
+2023-08-29,Patna,6.0,Moderate,175,"NO2, PM10"
+2023-08-30,Patna,6.0,Moderate,138,"NO2, PM10"
+2023-08-31,Patna,6.0,Moderate,122,"NO2, PM10"
+2023-09-01,Patna,6.0,Moderate,130,"NO2, PM10"
+2023-09-02,Patna,6.0,Moderate,135,"NO2, PM10"
+2023-09-03,Patna,6.0,Satisfactory,87,"NO2, PM10"
+2023-09-04,Patna,5.0,Satisfactory,60,PM10
+2023-09-05,Patna,6.0,Satisfactory,57,"O3, PM10"
+2023-09-06,Patna,6.0,Satisfactory,64,"PM10, PM2.5"
+2023-09-07,Patna,6.0,Satisfactory,61,"CO, PM10"
+2023-09-08,Patna,6.0,Good,44,"O3, PM10"
+2023-09-09,Patna,6.0,Satisfactory,52,"CO, PM10"
+2023-09-10,Patna,6.0,Satisfactory,64,"O3, PM2.5"
+2023-09-11,Patna,6.0,Satisfactory,92,"PM10, PM2.5"
+2023-09-12,Patna,6.0,Moderate,110,PM2.5
+2023-09-13,Patna,6.0,Moderate,110,"PM10, PM2.5"
+2023-09-14,Patna,6.0,Satisfactory,90,PM2.5
+2023-09-15,Patna,4.0,Satisfactory,96,PM2.5
+2023-09-16,Patna,6.0,Satisfactory,90,"CO, PM2.5"
+2023-09-17,Patna,6.0,Satisfactory,92,PM2.5
+2023-09-18,Patna,6.0,Satisfactory,64,"CO, PM10"
+2023-09-19,Patna,6.0,Satisfactory,76,"CO, PM10"
+2023-09-20,Patna,6.0,Satisfactory,60,"CO, PM2.5"
+2023-09-21,Patna,5.0,Good,36,CO
+2023-09-22,Patna,6.0,Good,41,"CO, O3"
+2023-09-23,Patna,6.0,Good,38,"CO, PM10"
+2023-09-24,Patna,6.0,Good,41,"NO2, PM10"
+2023-09-25,Patna,6.0,Satisfactory,52,"CO, PM10"
+2023-09-26,Patna,5.0,Moderate,109,PM10
+2023-09-27,Patna,6.0,Moderate,144,"PM10, PM2.5"
+2023-09-28,Patna,4.0,Moderate,156,"PM10, PM2.5"
+2023-09-29,Patna,6.0,Moderate,112,"PM10, PM2.5"
+2023-09-30,Patna,6.0,Satisfactory,95,"PM10, PM2.5"
+2023-10-01,Patna,6.0,Good,44,"PM10, PM2.5"
+2023-10-02,Patna,6.0,Satisfactory,52,"CO, PM10"
+2023-10-03,Patna,6.0,Satisfactory,57,"CO, PM10"
+2023-10-04,Patna,6.0,Good,44,"CO, PM10"
+2023-10-05,Patna,4.0,Good,40,PM10
+2023-10-06,Patna,6.0,Satisfactory,55,"PM10, PM2.5"
+2023-10-07,Patna,6.0,Satisfactory,78,"PM10, PM2.5"
+2023-10-08,Patna,6.0,Moderate,110,"PM10, PM2.5"
+2023-10-09,Patna,6.0,Moderate,151,PM2.5
+2023-10-10,Patna,6.0,Moderate,129,"PM10, PM2.5"
+2023-10-11,Patna,6.0,Moderate,131,"PM10, PM2.5"
+2023-10-12,Patna,6.0,Moderate,139,"PM10, PM2.5"
+2023-10-13,Patna,5.0,Moderate,162,PM2.5
+2023-10-14,Patna,5.0,Poor,213,"PM10, PM2.5"
+2023-10-15,Patna,6.0,Poor,207,"PM10, PM2.5"
+2023-10-16,Patna,5.0,Moderate,190,"PM10, PM2.5"
+2023-10-17,Patna,6.0,Moderate,135,"PM10, PM2.5"
+2023-10-18,Patna,6.0,Moderate,115,"PM10, PM2.5"
+2023-10-19,Patna,6.0,Moderate,107,"PM10, PM2.5"
+2023-10-20,Patna,6.0,Moderate,141,"PM10, PM2.5"
+2023-10-21,Patna,6.0,Moderate,152,"PM10, PM2.5"
+2023-10-22,Patna,6.0,Moderate,152,"PM10, PM2.5"
+2023-10-23,Patna,5.0,Moderate,157,PM10
+2023-10-24,Patna,5.0,Moderate,146,PM2.5
+2023-10-25,Patna,5.0,Moderate,141,"PM10, PM2.5"
+2023-10-26,Patna,6.0,Moderate,130,"PM10, PM2.5"
+2023-10-27,Patna,6.0,Moderate,141,"PM10, PM2.5"
+2023-10-28,Patna,6.0,Moderate,194,"PM10, PM2.5"
+2023-10-29,Patna,6.0,Moderate,193,"PM10, PM2.5"
+2023-10-30,Patna,6.0,Poor,216,"PM10, PM2.5"
+2023-10-31,Patna,6.0,Poor,232,PM2.5
+2023-11-01,Patna,6.0,Poor,213,PM2.5
+2023-11-02,Patna,5.0,Moderate,176,PM2.5
+2023-11-03,Patna,6.0,Moderate,177,"PM10, PM2.5"
+2023-11-04,Patna,6.0,Poor,218,PM2.5
+2023-11-05,Patna,6.0,Poor,238,PM2.5
+2023-11-06,Patna,6.0,Poor,265,PM2.5
+2023-11-07,Patna,6.0,Very Poor,324,"PM10, PM2.5"
+2023-11-08,Patna,6.0,Very Poor,309,"PM10, PM2.5"
+2023-11-09,Patna,6.0,Very Poor,326,"PM10, PM2.5"
+2023-11-10,Patna,6.0,Very Poor,366,"PM10, PM2.5"
+2023-11-11,Patna,6.0,Very Poor,375,"PM10, PM2.5"
+2023-11-12,Patna,6.0,Very Poor,336,"PM10, PM2.5"
+2023-11-13,Patna,6.0,Very Poor,333,PM2.5
+2023-11-14,Patna,6.0,Very Poor,324,"PM10, PM2.5"
+2023-11-15,Patna,6.0,Poor,297,"PM10, PM2.5"
+2023-11-16,Patna,6.0,Poor,271,"PM10, PM2.5"
+2023-11-17,Patna,6.0,Moderate,193,"PM10, PM2.5"
+2023-11-18,Patna,6.0,Moderate,138,"PM10, PM2.5"
+2023-11-19,Patna,6.0,Moderate,129,"PM10, PM2.5"
+2023-11-20,Patna,5.0,Poor,246,"PM10, PM2.5"
+2023-11-21,Patna,5.0,Poor,289,PM2.5
+2023-11-22,Patna,5.0,Poor,270,PM2.5
+2023-11-23,Patna,6.0,Very Poor,311,"PM10, PM2.5"
+2023-11-24,Patna,6.0,Very Poor,320,"PM10, PM2.5"
+2023-11-25,Patna,6.0,Very Poor,316,"PM10, PM2.5"
+2023-11-26,Patna,6.0,Very Poor,333,"PM10, PM2.5"
+2023-11-27,Patna,6.0,Very Poor,308,"PM10, PM2.5"
+2023-11-28,Patna,5.0,Poor,230,"PM10, PM2.5"
+2023-11-29,Patna,6.0,Poor,282,"PM10, PM2.5"
+2023-11-30,Patna,6.0,Very Poor,320,"PM10, PM2.5"
+2023-12-01,Patna,4.0,Very Poor,356,"PM10, PM2.5"
+2023-12-02,Patna,6.0,Poor,246,PM2.5
+2023-12-03,Patna,5.0,Poor,262,PM2.5
+2023-12-04,Patna,6.0,Poor,272,"PM10, PM2.5"
+2023-12-05,Patna,6.0,Poor,239,PM2.5
+2023-12-06,Patna,6.0,Poor,220,PM2.5
+2023-12-07,Patna,5.0,Satisfactory,84,"PM10, PM2.5"
+2023-12-08,Patna,5.0,Satisfactory,86,"PM10, PM2.5"
+2023-12-09,Patna,5.0,Moderate,142,"PM10, PM2.5"
+2023-12-10,Patna,4.0,Poor,248,"PM10, PM2.5"
+2023-12-11,Patna,4.0,Very Poor,305,"PM10, PM2.5"
+2023-12-12,Patna,4.0,Very Poor,324,"PM10, PM2.5"
+2023-12-13,Patna,6.0,Very Poor,332,"PM10, PM2.5"
+2023-12-14,Patna,6.0,Very Poor,316,"PM10, PM2.5"
+2023-12-15,Patna,6.0,Very Poor,323,"PM10, PM2.5"
+2023-12-16,Patna,6.0,Very Poor,331,"PM10, PM2.5"
+2023-12-17,Patna,5.0,Very Poor,337,"PM10, PM2.5"
+2023-12-18,Patna,6.0,Very Poor,319,"PM10, PM2.5"
+2023-12-19,Patna,6.0,Very Poor,312,"PM10, PM2.5"
+2023-12-20,Patna,6.0,Poor,268,PM2.5
+2023-12-21,Patna,6.0,Poor,300,"PM10, PM2.5"
+2023-12-22,Patna,6.0,Very Poor,324,"PM10, PM2.5"
+2023-12-23,Patna,5.0,Poor,290,"PM10, PM2.5"
+2023-12-24,Patna,5.0,Poor,260,PM2.5
+2023-12-25,Patna,5.0,Poor,233,PM2.5
+2023-12-26,Patna,5.0,Poor,271,PM2.5
+2023-12-27,Patna,5.0,Very Poor,316,"PM10, PM2.5"
+2023-12-28,Patna,6.0,Very Poor,308,PM10
+2023-12-29,Patna,5.0,Very Poor,310,"PM10, PM2.5"
+2023-12-30,Patna,6.0,Poor,208,"PM10, PM2.5"
+2023-12-31,Patna,6.0,Moderate,153,"PM10, PM2.5"

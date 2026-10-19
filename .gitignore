@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+Indianoil.py
+2.py
+city_day.csv

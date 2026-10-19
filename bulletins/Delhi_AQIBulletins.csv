@@ -1,0 +1,3144 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2015-05-01,Delhi,,Poor,221,O3
+2015-05-02,Delhi,,Poor,238,"O3, PM2.5"
+2015-05-03,Delhi,,Poor,259,"O3, PM10"
+2015-05-04,Delhi,,Poor,289,"O3, PM10"
+2015-05-05,Delhi,,Very poor,311,"O3, PM10, PM2.5"
+2015-05-06,Delhi,,Very Poor,305,"PM10, PM2.5"
+2015-05-07,Delhi,,Poor,254,"PM10, PM2.5"
+2015-05-08,Delhi,,Poor,229,"PM10, PM2.5"
+2015-05-09,Delhi,,Poor,234,"PM10, PM2.5"
+2015-05-10,Delhi,,Poor,290,"O3, PM10, PM2.5"
+2015-05-11,Delhi,,Poor,262,"O3, PM10"
+2015-05-12,Delhi,,Poor,228,"O3, PM10, PM2.5"
+2015-05-13,Delhi,,Moderate,183,"CO, PM2.5"
+2015-05-15,Delhi,7.0,Poor,208,PM2.5
+2015-05-16,Delhi,5.0,Poor,288,"O3, PM10"
+2015-05-17,Delhi,5.0,Poor,261,"O3, PM2.5"
+2015-05-18,Delhi,6.0,Poor,269,"O3, PM10"
+2015-05-19,Delhi,5.0,Poor,227,"PM10, PM2.5"
+2015-05-20,Delhi,5.0,Poor,212,"O3, PM10"
+2015-05-21,Delhi,5.0,Moderate,147,"O3, PM10, PM2.5"
+2015-05-22,Delhi,6.0,Moderate,192,"O3, PM2.5"
+2015-05-23,Delhi,5.0,Moderate,188,"PM10, PM2.5"
+2015-05-24,Delhi,5.0,Moderate,193,"O3, PM2.5"
+2015-05-25,Delhi,5.0,Poor,214,"PM10, PM2.5"
+2015-05-26,Delhi,5.0,Very poor,305,"PM10, PM2.5"
+2015-05-27,Delhi,5.0,Very Poor,323,"O3, PM10"
+2015-05-28,Delhi,4.0,Very poor,335,"PM10, PM2.5"
+2015-05-29,Delhi,5.0,Very poor,314,"PM10, PM2.5"
+2015-05-30,Delhi,4.0,Poor,217,"PM10, PM2.5"
+2015-05-31,Delhi,1.0,Satisfactory,74,O3
+2015-06-01,Delhi,5.0,Moderate,200,"O3, PM10, PM2.5"
+2015-06-02,Delhi,5.0,Poor,253,"O3, PM10"
+2015-06-03,Delhi,6.0,Moderate,152,"PM10, PM2.5"
+2015-06-04,Delhi,6.0,Moderate,195,"O3, PM2.5"
+2015-06-06,Delhi,2.0,Satisfactory,95,PM2.5
+2015-06-07,Delhi,4.0,Moderate,188,"O3, PM2.5"
+2015-06-08,Delhi,3.0,Very poor,310,"O3, PM10"
+2015-06-10,Delhi,6.0,Moderate,151,"O3, PM10, PM2.5"
+2015-06-11,Delhi,2.0,Moderate,148,PM2.5
+2015-06-13,Delhi,5.0,Poor,208,PM2.5
+2015-06-14,Delhi,5.0,Moderate,123,"O3, PM10, PM2.5"
+2015-06-15,Delhi,6.0,Poor,251,"O3, PM2.5"
+2015-06-16,Delhi,6.0,Poor,280,"O3, PM10, PM2.5"
+2015-06-17,Delhi,7.0,Poor,281,"O3, PM10, PM2.5"
+2015-06-18,Delhi,6.0,Poor,286,"O3, PM10, PM2.5"
+2015-06-19,Delhi,6.0,Poor,262,"O3, PM10, PM2.5"
+2015-06-20,Delhi,1.0,Moderate,159,O3
+2015-06-21,Delhi,2.0,Satisfactory,88,PM2.5
+2015-06-22,Delhi,6.0,Moderate,146,"PM10, PM2.5"
+2015-06-23,Delhi,6.0,Moderate,171,PM2.5
+2015-06-24,Delhi,4.0,Poor,234,"O3, PM2.5"
+2015-06-25,Delhi,3.0,Satisfactory,96,O3
+2015-06-26,Delhi,7.0,Moderate,167,"PM10, PM2.5"
+2015-06-27,Delhi,6.0,Moderate,172,"PM10, PM2.5"
+2015-06-28,Delhi,6.0,Moderate,182,"PM10, PM2.5"
+2015-07-01,Delhi,6.0,Moderate,153,"O3, PM10, PM2.5"
+2015-07-02,Delhi,6.0,Poor,219,"O3, PM10, PM2.5"
+2015-07-03,Delhi,6.0,Moderate,179,"O3, PM10, PM2.5"
+2015-07-04,Delhi,1.0,Moderate,176,PM2.5
+2015-07-05,Delhi,3.0,Very Poor,303,PM2.5
+2015-07-06,Delhi,7.0,Poor,225,"PM10, PM2.5"
+2015-07-07,Delhi,7.0,Moderate,145,"PM10, PM2.5"
+2015-07-08,Delhi,6.0,Moderate,160,"PM10, PM2.5"
+2015-07-09,Delhi,6.0,Moderate,153,"O3, PM10, PM2.5"
+2015-07-10,Delhi,5.0,Moderate,112,"CO, PM10, PM2.5"
+2015-07-11,Delhi,4.0,Satisfactory,56,"CO, NO2, PM2.5"
+2015-07-12,Delhi,3.0,Satisfactory,67,"CO, PM2.5"
+2015-07-13,Delhi,3.0,Satisfactory,63,"CO, O3, PM10"
+2015-07-14,Delhi,4.0,Satisfactory,82,PM2.5
+2015-07-15,Delhi,5.0,Moderate,195,"PM10, PM2.5"
+2015-07-16,Delhi,4.0,Poor,247,PM10
+2015-07-17,Delhi,5.0,Moderate,180,"PM10, PM2.5"
+2015-07-18,Delhi,4.0,Moderate,187,PM10
+2015-07-19,Delhi,6.0,Moderate,151,"NO2, PM10, PM2.5"
+2015-07-20,Delhi,4.0,Moderate,155,"NO2, O3, PM2.5"
+2015-07-21,Delhi,5.0,Moderate,132,"NO2, PM10, PM2.5"
+2015-07-22,Delhi,5.0,Moderate,124,"NO2, PM10"
+2015-07-23,Delhi,4.0,Moderate,178,"CO, PM10"
+2015-07-24,Delhi,5.0,Satisfactory,99,PM10
+2015-07-25,Delhi,5.0,Moderate,104,PM10
+2015-07-26,Delhi,3.0,Satisfactory,82,"PM10, PM2.5"
+2015-07-27,Delhi,4.0,Satisfactory,53,CO
+2015-07-28,Delhi,4.0,Satisfactory,70,NO2
+2015-07-29,Delhi,6.0,Satisfactory,73,PM10
+2015-07-30,Delhi,3.0,Satisfactory,60,PM2.5
+2015-07-31,Delhi,5.0,Satisfactory,99,"CO, PM10"
+2015-08-01,Delhi,5.0,Moderate,130,"PM10, PM2.5"
+2015-08-02,Delhi,5.0,Moderate,122,"PM10, PM2.5"
+2015-08-03,Delhi,6.0,Moderate,128,"PM10, PM2.5"
+2015-08-04,Delhi,4.0,Moderate,153,"PM10, PM2.5"
+2015-08-05,Delhi,5.0,Moderate,134,"PM10, PM2.5"
+2015-08-06,Delhi,5.0,Moderate,149,"PM10, PM2.5"
+2015-08-07,Delhi,5.0,Moderate,148,"O3, PM2.5"
+2015-08-08,Delhi,5.0,Moderate,155,"PM10, PM2.5"
+2015-08-09,Delhi,4.0,Moderate,167,"PM10, PM2.5"
+2015-08-10,Delhi,4.0,Moderate,142,PM2.5
+2015-08-11,Delhi,4.0,Poor,246,"O3, PM2.5"
+2015-08-12,Delhi,4.0,Moderate,101,"PM10, PM2.5"
+2015-08-13,Delhi,4.0,Moderate,179,"O3, PM2.5"
+2015-08-14,Delhi,5.0,Moderate,175,"PM10, PM2.5"
+2015-08-15,Delhi,5.0,Moderate,130,"PM10, PM2.5"
+2015-08-16,Delhi,5.0,Satisfactory,96,PM2.5
+2015-08-17,Delhi,5.0,Moderate,105,"PM10, PM2.5"
+2015-08-18,Delhi,6.0,Moderate,147,"PM10, PM2.5"
+2015-08-19,Delhi,5.0,Satisfactory,62,"NO2, PM10"
+2015-08-20,Delhi,5.0,Moderate,144,"PM10, PM2.5"
+2015-08-21,Delhi,5.0,Moderate,174,"PM10, PM2.5"
+2015-08-22,Delhi,5.0,Moderate,128,"PM10, PM2.5"
+2015-08-23,Delhi,3.0,Moderate,106,"PM10, PM2.5"
+2015-08-24,Delhi,4.0,Satisfactory,99,"PM10, PM2.5"
+2015-08-25,Delhi,6.0,Moderate,143,"PM10, PM2.5"
+2015-08-26,Delhi,4.0,Moderate,190,"PM10, PM2.5"
+2015-08-27,Delhi,6.0,Moderate,173,"PM10, PM2.5"
+2015-08-29,Delhi,4.0,Poor,212,"PM10, PM2.5"
+2015-08-30,Delhi,4.0,Moderate,185,"PM10, PM2.5"
+2015-08-31,Delhi,4.0,Moderate,190,"PM10, PM2.5"
+2015-09-01,Delhi,2.0,Satisfactory,99,PM2.5
+2015-09-02,Delhi,5.0,Poor,250,"PM10, PM2.5"
+2015-09-03,Delhi,4.0,Poor,246,"PM10, PM2.5"
+2015-09-04,Delhi,3.0,Poor,296,"PM10, PM2.5"
+2015-09-05,Delhi,1.0,Moderate,152,O3
+2015-09-06,Delhi,2.0,Moderate,175,"O3, PM2.5"
+2015-09-07,Delhi,4.0,Moderate,171,"O3, PM10"
+2015-09-08,Delhi,6.0,Moderate,189,"O3, PM2.5"
+2015-09-09,Delhi,4.0,Poor,222,"O3, PM10"
+2015-09-10,Delhi,5.0,Moderate,200,"O3, PM10"
+2015-09-11,Delhi,6.0,Poor,222,"O3, PM10"
+2015-09-12,Delhi,4.0,Poor,217,"O3, PM10"
+2015-09-13,Delhi,1.0,Poor,218,PM2.5
+2015-09-14,Delhi,6.0,Very Poor,302,"O3, PM2.5"
+2015-09-15,Delhi,5.0,Poor,274,"O3, PM2.5"
+2015-09-16,Delhi,5.0,Poor,248,"O3, PM2.5"
+2015-09-17,Delhi,6.0,Poor,293,"O3, PM2.5"
+2015-09-18,Delhi,5.0,Moderate,166,"PM10, PM2.5"
+2015-09-19,Delhi,5.0,Moderate,133,"CO, PM2.5"
+2015-09-20,Delhi,2.0,Moderate,110,PM2.5
+2015-09-21,Delhi,6.0,Moderate,144,"O3, PM2.5"
+2015-09-22,Delhi,6.0,Satisfactory,97,"NO2, PM2.5"
+2015-09-23,Delhi,6.0,Satisfactory,98,"O3, PM2.5"
+2015-09-24,Delhi,1.0,Satisfactory,85,O3
+2015-09-25,Delhi,6.0,Moderate,189,"PM10, PM2.5"
+2015-09-26,Delhi,6.0,Moderate,193,"O3, PM2.5"
+2015-09-27,Delhi,5.0,Poor,227,"PM10, PM2.5"
+2015-09-28,Delhi,2.0,Poor,206,PM2.5
+2015-09-29,Delhi,6.0,Poor,237,"O3, PM2.5"
+2015-09-30,Delhi,6.0,Moderate,175,"NO2, O3"
+2015-10-01,Delhi,4.0,Poor,251,"PM10, PM2.5"
+2015-10-02,Delhi,4.0,Poor,282,"PM10, PM2.5"
+2015-10-03,Delhi,1.0,Moderate,194,O3
+2015-10-04,Delhi,1.0,Poor,201,PM2.5
+2015-10-05,Delhi,1.0,Poor,211,PM2.5
+2015-10-06,Delhi,4.0,Poor,276,"O3, PM2.5"
+2015-10-07,Delhi,4.0,Poor,267,"PM10, PM2.5"
+2015-10-08,Delhi,3.0,Very Poor,337,"PM10, PM2.5"
+2015-10-09,Delhi,5.0,Poor,254,"PM10, PM2.5"
+2015-10-10,Delhi,1.0,Satisfactory,81,PM2.5
+2015-10-11,Delhi,3.0,Poor,221,"PM10, PM2.5"
+2015-10-12,Delhi,5.0,Poor,224,"PM10, PM2.5"
+2015-10-13,Delhi,5.0,Poor,236,"PM10, PM2.5"
+2015-10-14,Delhi,5.0,Poor,207,"O3, PM2.5"
+2015-10-15,Delhi,5.0,Poor,272,"O3, PM10"
+2015-10-16,Delhi,5.0,Very Poor,310,"O3, PM2.5"
+2015-10-17,Delhi,1.0,Moderate,168,PM2.5
+2015-10-18,Delhi,1.0,Very Poor,304,O3
+2015-10-19,Delhi,4.0,Very Poor,323,"PM10, PM2.5"
+2015-10-20,Delhi,3.0,Very Poor,331,"PM10, PM2.5"
+2015-10-21,Delhi,5.0,Very Poor,318,"O3, PM2.5"
+2015-10-23,Delhi,5.0,Poor,292,"PM10, PM2.5"
+2015-10-24,Delhi,2.0,Very Poor,376,"O3, PM10"
+2015-10-25,Delhi,3.0,Very Poor,310,"O3, PM10"
+2015-10-26,Delhi,5.0,Poor,211,"O3, PM2.5"
+2015-10-27,Delhi,4.0,Poor,270,"PM10, PM2.5"
+2015-10-28,Delhi,4.0,Poor,267,"PM10, PM2.5"
+2015-10-29,Delhi,6.0,Poor,254,"O3, PM2.5"
+2015-10-31,Delhi,2.0,Very Poor,394,PM2.5
+2015-11-01,Delhi,2.0,Severe,405,PM2.5
+2015-11-02,Delhi,6.0,Very Poor,377,"PM10, PM2.5"
+2015-11-03,Delhi,6.0,Very Poor,373,"PM10, PM2.5"
+2015-11-04,Delhi,6.0,Severe,421,PM2.5
+2015-11-05,Delhi,6.0,Very Poor,323,PM2.5
+2015-11-06,Delhi,6.0,Poor,272,"PM10, PM2.5"
+2015-11-07,Delhi,6.0,Severe,435,"PM10, PM2.5"
+2015-11-08,Delhi,4.0,Very Poor,389,PM2.5
+2015-11-09,Delhi,6.0,Very Poor,323,"PM10, PM2.5"
+2015-11-10,Delhi,5.0,Very Poor,353,"PM10, PM2.5"
+2015-11-11,Delhi,7.0,Very Poor,343,"PM10, PM2.5"
+2015-11-12,Delhi,7.0,Very Poor,360,"PM10, PM2.5"
+2015-11-13,Delhi,6.0,Very Poor,388,PM2.5
+2015-11-14,Delhi,6.0,Very Poor,377,"PM10, PM2.5"
+2015-11-15,Delhi,6.0,Very Poor,356,"PM10, PM2.5"
+2015-11-16,Delhi,5.0,Very Poor,337,"PM10, PM2.5"
+2015-11-17,Delhi,6.0,Poor,263,"PM10, PM2.5"
+2015-11-18,Delhi,6.0,Very Poor,322,"PM10, PM2.5"
+2015-11-19,Delhi,7.0,Very Poor,371,"PM10, PM2.5"
+2015-11-21,Delhi,6.0,Severe,402,"PM10, PM2.5"
+2015-11-22,Delhi,5.0,Severe,410,"PM10, PM2.5"
+2015-11-23,Delhi,5.0,Severe,420,"PM10, PM2.5"
+2015-11-24,Delhi,3.0,Very Poor,348,PM2.5
+2015-11-25,Delhi,6.0,Very Poor,314,"PM10, PM2.5"
+2015-11-26,Delhi,7.0,Very Poor,331,"PM10, PM2.5"
+2015-11-27,Delhi,6.0,Very Poor,317,"PM10, PM2.5"
+2015-11-28,Delhi,7.0,Very Poor,342,"PM10, PM2.5"
+2015-11-29,Delhi,1.0,Very Poor,303,PM2.5
+2015-11-30,Delhi,6.0,Severe,408,"PM10, PM2.5"
+2015-12-01,Delhi,7.0,Very Poor,356,"PM10, PM2.5"
+2015-12-02,Delhi,7.0,Very Poor,332,"PM10, PM2.5"
+2015-12-03,Delhi,7.0,Very Poor,331,"PM10, PM2.5"
+2015-12-04,Delhi,7.0,Very Poor,321,"PM10, PM2.5"
+2015-12-05,Delhi,6.0,Very Poor,364,"PM10, PM2.5"
+2015-12-06,Delhi,1.0,Poor,271,PM2.5
+2015-12-07,Delhi,5.0,Very Poor,390,"PM10, PM2.5"
+2015-12-08,Delhi,6.0,Very Poor,383,"PM10, PM2.5"
+2015-12-09,Delhi,7.0,Very Poor,382,"PM10, PM2.5"
+2015-12-10,Delhi,7.0,Very Poor,350,"PM10, PM2.5"
+2015-12-11,Delhi,6.0,Very Poor,352,"PM10, PM2.5"
+2015-12-12,Delhi,7.0,Very Poor,323,"PM10, PM2.5"
+2015-12-13,Delhi,6.0,Poor,281,"PM10, PM2.5"
+2015-12-14,Delhi,2.0,Poor,206,PM2.5
+2015-12-15,Delhi,3.0,Poor,208,PM2.5
+2015-12-16,Delhi,3.0,Poor,254,PM2.5
+2015-12-17,Delhi,3.0,Poor,300,PM2.5
+2015-12-18,Delhi,3.0,Poor,293,PM2.5
+2015-12-19,Delhi,3.0,Poor,257,PM2.5
+2015-12-20,Delhi,1.0,Very Poor,330,PM2.5
+2015-12-21,Delhi,3.0,Poor,281,PM2.5
+2015-12-22,Delhi,3.0,Very Poor,316,PM2.5
+2015-12-23,Delhi,6.0,Very Poor,374,"PM10, PM2.5"
+2015-12-24,Delhi,3.0,Moderate,178,PM2.5
+2015-12-25,Delhi,6.0,Moderate,166,"O3, PM2.5"
+2015-12-26,Delhi,3.0,Moderate,140,PM2.5
+2015-12-27,Delhi,4.0,Very Poor,327,PM2.5
+2015-12-28,Delhi,7.0,Poor,271,"PM10, PM2.5"
+2015-12-29,Delhi,7.0,Poor,269,"PM10, PM2.5"
+2015-12-30,Delhi,6.0,Very Poor,330,"PM10, PM2.5"
+2015-12-31,Delhi,6.0,Very Poor,386,"PM10, PM2.5"
+2016-01-01,Delhi,7.0,Very Poor,391,"PM10, PM2.5"
+2016-01-02,Delhi,7.0,Very Poor,384,"PM10, PM2.5"
+2016-01-03,Delhi,7.0,Very Poor,381,"PM10, PM2.5"
+2016-01-04,Delhi,5.0,Severe,429,"PM10, PM2.5"
+2016-01-05,Delhi,5.0,Severe,434,"PM10, PM2.5"
+2016-01-06,Delhi,3.0,Very Poor,356,PM2.5
+2016-01-07,Delhi,6.0,Severe,402,"PM10, PM2.5"
+2016-01-08,Delhi,5.0,Very Poor,399,PM2.5
+2016-01-09,Delhi,5.0,Very Poor,337,"PM10, PM2.5"
+2016-01-10,Delhi,5.0,Very Poor,312,"PM10, PM2.5"
+2016-01-11,Delhi,6.0,Very Poor,348,"PM10, PM2.5"
+2016-01-12,Delhi,5.0,Very Poor,339,"PM10, PM2.5"
+2016-01-13,Delhi,6.0,Very Poor,332,PM2.5
+2016-01-14,Delhi,6.0,Very Poor,345,PM2.5
+2016-01-15,Delhi,6.0,Poor,292,PM2.5
+2016-01-16,Delhi,6.0,Poor,285,PM2.5
+2016-01-17,Delhi,6.0,Very Poor,305,PM2.5
+2016-01-18,Delhi,6.0,Very Poor,344,"PM10, PM2.5"
+2016-01-19,Delhi,6.0,Very Poor,346,"PM10, PM2.5"
+2016-01-20,Delhi,6.0,Very Poor,397,"PM10, PM2.5"
+2016-01-21,Delhi,4.0,Very Poor,356,PM2.5
+2016-01-22,Delhi,2.0,Very Poor,334,PM2.5
+2016-01-23,Delhi,4.0,Very Poor,398,PM2.5
+2016-01-24,Delhi,4.0,Severe,430,PM2.5
+2016-01-25,Delhi,5.0,Very Poor,380,PM2.5
+2016-01-26,Delhi,4.0,Severe,417,PM2.5
+2016-01-27,Delhi,6.0,Very Poor,379,"PM10, PM2.5"
+2016-01-28,Delhi,3.0,Very Poor,384,"PM10, PM2.5"
+2016-01-29,Delhi,4.0,Very Poor,399,"PM10, PM2.5"
+2016-01-30,Delhi,4.0,Severe,417,PM2.5
+2016-01-31,Delhi,1.0,Severe,407,PM2.5
+2016-02-01,Delhi,4.0,Poor,270,PM2.5
+2016-02-02,Delhi,4.0,Poor,268,"PM10, PM2.5"
+2016-02-03,Delhi,4.0,Poor,284,"PM10, PM2.5"
+2016-02-04,Delhi,2.0,Poor,274,"PM10, PM2.5"
+2016-02-05,Delhi,4.0,Very Poor,337,"PM10, PM2.5"
+2016-02-06,Delhi,4.0,Very Poor,362,"PM10, PM2.5"
+2016-02-07,Delhi,4.0,Very Poor,337,PM2.5
+2016-02-08,Delhi,4.0,Very Poor,301,PM2.5
+2016-02-09,Delhi,4.0,Very Poor,313,PM2.5
+2016-02-10,Delhi,5.0,Very Poor,362,PM2.5
+2016-02-11,Delhi,5.0,Very Poor,313,PM2.5
+2016-02-12,Delhi,4.0,Very Poor,361,"CO, PM10"
+2016-02-13,Delhi,3.0,Very Poor,306,PM10
+2016-02-14,Delhi,3.0,Poor,230,"O3, PM2.5"
+2016-02-15,Delhi,3.0,Poor,245,"O3, PM2.5"
+2016-02-16,Delhi,4.0,Poor,269,"O3, PM2.5"
+2016-02-17,Delhi,3.0,Poor,265,"O3, PM10"
+2016-02-18,Delhi,3.0,Poor,285,PM2.5
+2016-02-19,Delhi,5.0,Very Poor,372,PM2.5
+2016-02-20,Delhi,5.0,Very Poor,322,PM2.5
+2016-02-21,Delhi,3.0,Moderate,186,"PM10, PM2.5"
+2016-02-22,Delhi,3.0,Poor,230,"O3, PM2.5"
+2016-02-23,Delhi,4.0,Poor,217,"O3, PM2.5"
+2016-02-24,Delhi,3.0,Very Poor,305,"PM10, PM2.5"
+2016-02-25,Delhi,5.0,Poor,285,"PM10, PM2.5"
+2016-02-26,Delhi,4.0,Poor,277,"O3, PM2.5"
+2016-02-27,Delhi,4.0,Very Poor,317,"PM10, PM2.5"
+2016-02-28,Delhi,4.0,Very Poor,306,"O3, PM2.5"
+2016-02-29,Delhi,4.0,Very Poor,301,"O3, PM2.5"
+2016-03-01,Delhi,3.0,Very Poor,352,PM2.5
+2016-03-02,Delhi,3.0,Very Poor,334,PM2.5
+2016-03-03,Delhi,3.0,Very Poor,315,"O3, PM2.5"
+2016-03-04,Delhi,3.0,Poor,280,"O3, PM2.5"
+2016-03-05,Delhi,3.0,Moderate,155,PM10
+2016-03-06,Delhi,3.0,Poor,209,"O3, PM2.5"
+2016-03-07,Delhi,2.0,Poor,236,"O3, PM10"
+2016-03-08,Delhi,4.0,Moderate,189,"O3, PM2.5"
+2016-03-10,Delhi,4.0,Poor,222,"PM10, PM2.5"
+2016-03-12,Delhi,1.0,Moderate,108,PM2.5
+2016-03-15,Delhi,4.0,Poor,220,"O3, PM2.5"
+2016-03-16,Delhi,2.0,Poor,228,PM2.5
+2016-03-17,Delhi,4.0,Poor,225,"O3, PM2.5"
+2016-03-18,Delhi,5.0,Moderate,197,"O3, PM2.5"
+2016-03-19,Delhi,4.0,Poor,250,"PM10, PM2.5"
+2016-03-20,Delhi,3.0,Poor,264,"O3, PM2.5"
+2016-03-21,Delhi,5.0,Moderate,189,"PM10, PM2.5"
+2016-03-22,Delhi,5.0,Poor,206,"PM10, PM2.5"
+2016-03-23,Delhi,2.0,Poor,212,"O3, PM2.5"
+2016-03-24,Delhi,2.0,Very Poor,308,O3
+2016-03-25,Delhi,2.0,Poor,300,O3
+2016-03-26,Delhi,2.0,Moderate,179,"PM10, PM2.5"
+2016-03-27,Delhi,2.0,Moderate,179,"O3, PM10"
+2016-03-28,Delhi,4.0,Poor,251,"O3, PM2.5"
+2016-03-29,Delhi,2.0,Poor,285,O3
+2016-03-30,Delhi,2.0,Poor,260,PM2.5
+2016-03-31,Delhi,5.0,Poor,269,"PM10, PM2.5"
+2016-04-01,Delhi,5.0,Poor,269,"PM10, PM2.5"
+2016-04-02,Delhi,1.0,Poor,270,PM2.5
+2016-04-03,Delhi,1.0,Very Poor,314,O3
+2016-04-04,Delhi,2.0,Poor,287,PM2.5
+2016-04-05,Delhi,2.0,Poor,251,PM2.5
+2016-04-06,Delhi,2.0,Poor,241,PM2.5
+2016-04-07,Delhi,3.0,Poor,280,"PM10, PM2.5"
+2016-04-08,Delhi,3.0,Poor,206,"PM10, PM2.5"
+2016-04-09,Delhi,3.0,Poor,296,PM2.5
+2016-04-10,Delhi,3.0,Poor,253,"O3, PM2.5"
+2016-04-11,Delhi,4.0,Poor,256,"PM10, PM2.5"
+2016-04-12,Delhi,6.0,Poor,213,"PM10, PM2.5"
+2016-04-13,Delhi,5.0,Poor,240,"PM10, PM2.5"
+2016-04-14,Delhi,6.0,Poor,209,"PM10, PM2.5"
+2016-04-15,Delhi,5.0,Poor,291,"PM10, PM2.5"
+2016-04-16,Delhi,3.0,Poor,269,PM2.5
+2016-04-17,Delhi,1.0,Poor,233,PM2.5
+2016-04-18,Delhi,7.0,Poor,255,"PM10, PM2.5"
+2016-04-19,Delhi,7.0,Poor,291,"PM10, PM2.5"
+2016-04-20,Delhi,7.0,Poor,293,"PM10, PM2.5"
+2016-04-21,Delhi,7.0,Poor,270,"PM10, PM2.5"
+2016-04-22,Delhi,5.0,Poor,272,"PM10, PM2.5"
+2016-04-23,Delhi,2.0,Poor,262,"O3, PM2.5"
+2016-04-24,Delhi,5.0,Poor,270,"PM10, PM2.5"
+2016-04-25,Delhi,5.0,Poor,265,"O3, PM2.5"
+2016-04-26,Delhi,2.0,Poor,276,O3
+2016-04-27,Delhi,6.0,Very Poor,321,"PM10, PM2.5"
+2016-04-28,Delhi,7.0,Very Poor,332,"PM10, PM2.5"
+2016-04-29,Delhi,7.0,Very Poor,314,"O3, PM2.5"
+2016-04-30,Delhi,1.0,Very Poor,316,PM2.5
+2016-05-01,Delhi,3.0,Poor,275,PM2.5
+2016-05-02,Delhi,3.0,Poor,260,PM2.5
+2016-05-03,Delhi,3.0,Poor,268,PM2.5
+2016-05-04,Delhi,6.0,Poor,300,"PM10, PM2.5"
+2016-05-05,Delhi,5.0,Poor,241,"O3, PM2.5"
+2016-05-06,Delhi,5.0,Moderate,192,"PM10, PM2.5"
+2016-05-07,Delhi,7.0,Poor,261,"O3, PM2.5"
+2016-05-08,Delhi,7.0,Poor,256,"O3, PM2.5"
+2016-05-09,Delhi,4.0,Poor,203,"O3, PM10"
+2016-05-10,Delhi,1.0,Moderate,186,O3
+2016-05-11,Delhi,5.0,Moderate,164,"PM10, PM2.5"
+2016-05-12,Delhi,5.0,Poor,202,"O3, PM10"
+2016-05-13,Delhi,6.0,Poor,258,"O3, PM2.5"
+2016-05-14,Delhi,5.0,Very Poor,322,"O3, PM2.5"
+2016-05-15,Delhi,2.0,Very Poor,306,"O3, PM2.5"
+2016-05-16,Delhi,5.0,Poor,273,"O3, PM2.5"
+2016-05-17,Delhi,5.0,Poor,277,"O3, PM2.5"
+2016-05-18,Delhi,4.0,Poor,276,"O3, PM2.5"
+2016-05-19,Delhi,4.0,Poor,245,"PM10, PM2.5"
+2016-05-20,Delhi,4.0,Moderate,191,"PM10, PM2.5"
+2016-05-21,Delhi,5.0,Poor,256,"PM10, PM2.5"
+2016-05-22,Delhi,4.0,Moderate,129,"NO2, PM10"
+2016-05-23,Delhi,3.0,Poor,225,"PM10, PM2.5"
+2016-05-24,Delhi,4.0,Moderate,130,"PM10, PM2.5"
+2016-05-25,Delhi,4.0,Poor,251,"PM10, PM2.5"
+2016-05-26,Delhi,4.0,Poor,255,"PM10, PM2.5"
+2016-05-27,Delhi,5.0,Very Poor,314,"O3, PM2.5"
+2016-05-28,Delhi,5.0,Very Poor,361,"PM10, PM2.5"
+2016-05-29,Delhi,1.0,Very Poor,333,PM2.5
+2016-05-30,Delhi,4.0,Moderate,186,"PM10, PM2.5"
+2016-05-31,Delhi,6.0,Poor,232,"PM10, PM2.5"
+2016-06-01,Delhi,6.0,Poor,229,"PM10, PM2.5"
+2016-06-02,Delhi,6.0,Poor,258,"PM10, PM2.5"
+2016-06-03,Delhi,6.0,Very Poor,301,"PM10, PM2.5"
+2016-06-04,Delhi,5.0,Poor,287,"PM10, PM2.5"
+2016-06-05,Delhi,5.0,Poor,239,"PM10, PM2.5"
+2016-06-07,Delhi,6.0,Poor,218,"PM10, PM2.5"
+2016-06-08,Delhi,6.0,Moderate,197,"O3, PM2.5"
+2016-06-09,Delhi,4.0,Moderate,200,"PM10, PM2.5"
+2016-06-10,Delhi,5.0,Poor,232,"PM10, PM2.5"
+2016-06-11,Delhi,6.0,Poor,233,"PM10, PM2.5"
+2016-06-12,Delhi,6.0,Poor,234,"PM10, PM2.5"
+2016-06-13,Delhi,6.0,Poor,289,"PM10, PM2.5"
+2016-06-14,Delhi,5.0,Moderate,191,"PM10, PM2.5"
+2016-06-15,Delhi,4.0,Very Poor,315,"PM10, PM2.5"
+2016-06-16,Delhi,7.0,Moderate,200,"PM10, PM2.5"
+2016-06-17,Delhi,7.0,Moderate,168,"O3, PM2.5"
+2016-06-18,Delhi,7.0,Moderate,197,"PM10, PM2.5"
+2016-06-19,Delhi,7.0,Moderate,185,"PM10, PM2.5"
+2016-06-20,Delhi,5.0,Moderate,140,"PM10, PM2.5"
+2016-06-21,Delhi,5.0,Moderate,148,"PM10, PM2.5"
+2016-06-22,Delhi,6.0,Moderate,154,"PM10, PM2.5"
+2016-06-23,Delhi,7.0,Poor,203,"PM10, PM2.5"
+2016-06-24,Delhi,5.0,Poor,249,"PM10, PM2.5"
+2016-06-25,Delhi,4.0,Poor,243,PM10
+2016-06-26,Delhi,3.0,Moderate,119,PM10
+2016-06-27,Delhi,3.0,Moderate,124,PM10
+2016-06-28,Delhi,6.0,Moderate,164,"O3, PM2.5"
+2016-06-29,Delhi,6.0,Moderate,145,"PM10, PM2.5"
+2016-06-30,Delhi,7.0,Moderate,179,"O3, PM2.5"
+2016-07-01,Delhi,5.0,Moderate,144,"PM10, PM2.5"
+2016-07-02,Delhi,6.0,Moderate,167,"CO, PM2.5"
+2016-07-03,Delhi,7.0,Moderate,149,"O3, PM2.5"
+2016-07-05,Delhi,6.0,Moderate,171,"PM10, PM2.5"
+2016-07-06,Delhi,5.0,Poor,210,"PM10, PM2.5"
+2016-07-07,Delhi,6.0,Moderate,185,"PM10, PM2.5"
+2016-07-08,Delhi,5.0,Poor,234,"PM10, PM2.5"
+2016-07-09,Delhi,5.0,Moderate,113,"O3, PM2.5"
+2016-07-10,Delhi,6.0,Moderate,130,"PM10, PM2.5"
+2016-07-11,Delhi,6.0,Moderate,165,"O3, PM2.5"
+2016-07-12,Delhi,5.0,Satisfactory,88,"PM10, PM2.5"
+2016-07-13,Delhi,1.0,Moderate,158,PM2.5
+2016-07-14,Delhi,3.0,Poor,244,"O3, PM2.5"
+2016-07-15,Delhi,4.0,Moderate,111,"PM10, PM2.5"
+2016-07-16,Delhi,5.0,Satisfactory,94,"O3, PM10"
+2016-07-17,Delhi,2.0,Poor,211,PM2.5
+2016-07-18,Delhi,5.0,Satisfactory,92,"CO, PM2.5"
+2016-07-19,Delhi,5.0,Moderate,175,"O3, PM2.5"
+2016-07-20,Delhi,7.0,Moderate,192,"PM10, PM2.5"
+2016-07-26,Delhi,5.0,Moderate,138,"PM10, PM2.5"
+2016-07-27,Delhi,3.0,Satisfactory,72,"CO, PM10"
+2016-07-28,Delhi,4.0,Satisfactory,100,"PM10, PM2.5"
+2016-07-29,Delhi,4.0,Moderate,105,PM2.5
+2016-07-30,Delhi,5.0,Moderate,103,"O3, PM2.5"
+2016-07-31,Delhi,5.0,Satisfactory,90,"PM10, PM2.5"
+2016-08-01,Delhi,5.0,Moderate,105,"PM10, PM2.5"
+2016-08-02,Delhi,5.0,Satisfactory,80,"PM10, PM2.5"
+2016-08-03,Delhi,4.0,Moderate,116,"PM10, PM2.5"
+2016-08-05,Delhi,4.0,Satisfactory,94,"PM10, PM2.5"
+2016-08-06,Delhi,5.0,Satisfactory,94,"PM10, PM2.5"
+2016-08-07,Delhi,6.0,Moderate,102,"PM10, PM2.5"
+2016-08-08,Delhi,6.0,Satisfactory,98,"PM10, PM2.5"
+2016-08-09,Delhi,6.0,Satisfactory,92,"PM10, PM2.5"
+2016-08-10,Delhi,6.0,Satisfactory,86,"CO, PM2.5"
+2016-08-11,Delhi,6.0,Satisfactory,83,"CO, PM2.5"
+2016-08-12,Delhi,4.0,Moderate,105,"CO, PM2.5"
+2016-08-13,Delhi,6.0,Moderate,113,"PM10, PM2.5"
+2016-08-14,Delhi,5.0,Moderate,122,"CO, PM2.5"
+2016-08-15,Delhi,5.0,Moderate,140,"PM10, PM2.5"
+2016-08-16,Delhi,2.0,Moderate,105,PM2.5
+2016-08-17,Delhi,6.0,Moderate,171,"PM10, PM2.5"
+2016-08-18,Delhi,6.0,Moderate,157,"PM10, PM2.5"
+2016-08-19,Delhi,5.0,Moderate,175,"PM10, PM2.5"
+2016-08-20,Delhi,5.0,Moderate,126,"PM10, PM2.5"
+2016-08-21,Delhi,6.0,Satisfactory,90,"PM10, PM2.5"
+2016-08-22,Delhi,6.0,Satisfactory,81,"PM10, PM2.5"
+2016-08-23,Delhi,6.0,Satisfactory,94,"PM10, PM2.5"
+2016-08-24,Delhi,5.0,Satisfactory,81,"PM10, PM2.5"
+2016-08-25,Delhi,3.0,Satisfactory,65,PM2.5
+2016-08-26,Delhi,6.0,Satisfactory,95,"O3, PM2.5"
+2016-08-27,Delhi,3.0,Satisfactory,75,"CO, PM2.5"
+2016-08-28,Delhi,2.0,Satisfactory,92,PM2.5
+2016-08-29,Delhi,4.0,Moderate,141,"PM10, PM2.5"
+2016-08-30,Delhi,5.0,Satisfactory,79,"PM10, PM2.5"
+2016-08-31,Delhi,5.0,Satisfactory,78,"CO, PM2.5"
+2016-09-01,Delhi,4.0,Satisfactory,69,"CO, PM2.5"
+2016-09-02,Delhi,4.0,Moderate,159,"PM10, PM2.5"
+2016-09-03,Delhi,4.0,Poor,232,"PM10, PM2.5"
+2016-09-04,Delhi,5.0,Moderate,175,"PM10, PM2.5"
+2016-09-05,Delhi,5.0,Moderate,158,"O3, PM2.5"
+2016-09-06,Delhi,4.0,Moderate,168,"PM10, PM2.5"
+2016-09-07,Delhi,5.0,Moderate,156,"PM10, PM2.5"
+2016-09-08,Delhi,5.0,Moderate,164,"PM10, PM2.5"
+2016-09-09,Delhi,5.0,Poor,214,"PM10, PM2.5"
+2016-09-10,Delhi,6.0,Moderate,151,"PM10, PM2.5"
+2016-09-11,Delhi,6.0,Moderate,130,"PM10, PM2.5"
+2016-09-12,Delhi,6.0,Moderate,136,"PM10, PM2.5"
+2016-09-13,Delhi,4.0,Moderate,176,"PM10, PM2.5"
+2016-09-14,Delhi,4.0,Moderate,103,"PM10, PM2.5"
+2016-09-15,Delhi,5.0,Moderate,181,"PM10, PM2.5"
+2016-09-16,Delhi,6.0,Moderate,166,"PM10, PM2.5"
+2016-09-17,Delhi,5.0,Moderate,176,"PM10, PM2.5"
+2016-09-18,Delhi,6.0,Moderate,183,"PM10, PM2.5"
+2016-09-19,Delhi,6.0,Moderate,193,"O3, PM2.5"
+2016-09-20,Delhi,4.0,Poor,213,"O3, PM2.5"
+2016-09-21,Delhi,5.0,Poor,210,"PM10, PM2.5"
+2016-09-22,Delhi,4.0,Moderate,127,"CO, PM10"
+2016-09-23,Delhi,4.0,Moderate,108,"PM10, PM2.5"
+2016-09-24,Delhi,5.0,Moderate,120,"NO2, PM2.5"
+2016-09-25,Delhi,6.0,Moderate,118,"O3, PM2.5"
+2016-09-26,Delhi,6.0,Moderate,155,"PM10, PM2.5"
+2016-09-27,Delhi,6.0,Moderate,174,"PM10, PM2.5"
+2016-09-28,Delhi,3.0,Moderate,188,PM2.5
+2016-09-29,Delhi,6.0,Poor,230,"PM10, PM2.5"
+2016-09-30,Delhi,4.0,Moderate,160,"O3, PM2.5"
+2016-10-01,Delhi,7.0,Poor,246,"PM10, PM2.5"
+2016-10-02,Delhi,7.0,Moderate,182,"PM10, PM2.5"
+2016-10-03,Delhi,7.0,Moderate,199,"PM10, PM2.5"
+2016-10-04,Delhi,6.0,Poor,293,"PM10, PM2.5"
+2016-10-05,Delhi,5.0,Moderate,126,PM2.5
+2016-10-06,Delhi,7.0,Poor,216,"PM10, PM2.5"
+2016-10-07,Delhi,6.0,Poor,252,"PM10, PM2.5"
+2016-10-08,Delhi,2.0,Poor,252,PM2.5
+2016-10-09,Delhi,1.0,Poor,234,PM2.5
+2016-10-10,Delhi,2.0,Moderate,192,PM2.5
+2016-10-11,Delhi,6.0,Poor,283,"PM10, PM2.5"
+2016-10-12,Delhi,6.0,Poor,223,"O3, PM2.5"
+2016-10-13,Delhi,6.0,Poor,214,"PM10, PM2.5"
+2016-10-14,Delhi,6.0,Poor,225,"PM10, PM2.5"
+2016-10-15,Delhi,7.0,Poor,276,"PM10, PM2.5"
+2016-10-16,Delhi,7.0,Poor,262,"PM10, PM2.5"
+2016-10-17,Delhi,2.0,Poor,251,PM2.5
+2016-10-18,Delhi,7.0,Poor,285,"PM10, PM2.5"
+2016-10-19,Delhi,7.0,Poor,246,"NO2, PM2.5"
+2016-10-20,Delhi,7.0,Poor,262,"PM10, PM2.5"
+2016-10-21,Delhi,5.0,Poor,264,"PM10, PM2.5"
+2016-10-22,Delhi,6.0,Poor,259,"PM10, PM2.5"
+2016-10-23,Delhi,7.0,Very Poor,318,"PM10, PM2.5"
+2016-10-24,Delhi,7.0,Very Poor,306,"PM10, PM2.5"
+2016-10-25,Delhi,7.0,Poor,210,"PM10, PM2.5"
+2016-10-26,Delhi,7.0,Poor,291,"PM10, PM2.5"
+2016-10-27,Delhi,7.0,Very Poor,355,"O3, PM2.5"
+2016-10-28,Delhi,7.0,Very Poor,397,"PM10, PM2.5"
+2016-10-29,Delhi,7.0,Severe,404,"PM10, PM2.5"
+2016-10-30,Delhi,7.0,Severe,431,PM2.5
+2016-10-31,Delhi,7.0,Severe,445,"PM10, PM2.5"
+2016-11-01,Delhi,6.0,Very Poor,389,"PM10, PM2.5"
+2016-11-02,Delhi,6.0,Severe,432,"PM10, PM2.5"
+2016-11-03,Delhi,7.0,Severe,432,"PM10, PM2.5"
+2016-11-04,Delhi,7.0,Very Poor,372,"PM10, PM2.5"
+2016-11-05,Delhi,6.0,Severe,485,"PM10, PM2.5"
+2016-11-06,Delhi,5.0,Severe,497,"PM10, PM2.5"
+2016-11-07,Delhi,6.0,Severe,423,"NO2, PM2.5"
+2016-11-08,Delhi,5.0,Severe,432,"PM10, PM2.5"
+2016-11-09,Delhi,6.0,Severe,424,"PM10, PM2.5"
+2016-11-10,Delhi,7.0,Severe,408,"PM10, PM2.5"
+2016-11-11,Delhi,7.0,Severe,420,"PM10, PM2.5"
+2016-11-12,Delhi,6.0,Very Poor,387,"PM10, PM2.5"
+2016-11-13,Delhi,6.0,Very Poor,349,"PM10, PM2.5"
+2016-11-14,Delhi,2.0,Very Poor,311,PM2.5
+2016-11-15,Delhi,6.0,Very Poor,372,"PM10, PM2.5"
+2016-11-16,Delhi,2.0,Very Poor,332,PM2.5
+2016-11-17,Delhi,5.0,Very Poor,374,"PM10, PM2.5"
+2016-11-18,Delhi,8.0,Very Poor,358,"PM10, PM2.5"
+2016-11-19,Delhi,8.0,Very Poor,360,"PM10, PM2.5"
+2016-11-20,Delhi,8.0,Very Poor,380,"PM10, PM2.5"
+2016-11-21,Delhi,7.0,Very Poor,379,"PM10, PM2.5"
+2016-11-22,Delhi,8.0,Very Poor,332,"PM10, PM2.5"
+2016-11-23,Delhi,9.0,Very Poor,321,"PM10, PM2.5"
+2016-11-24,Delhi,9.0,Very Poor,395,"PM10, PM2.5"
+2016-11-25,Delhi,9.0,Very Poor,307,"PM10, PM2.5"
+2016-11-26,Delhi,7.0,Poor,253,"PM10, PM2.5"
+2016-11-27,Delhi,8.0,Poor,291,"PM10, PM2.5"
+2016-11-28,Delhi,8.0,Poor,229,"PM10, PM2.5"
+2016-11-29,Delhi,8.0,Very Poor,368,"PM10, PM2.5"
+2016-11-30,Delhi,9.0,Severe,410,"PM10, PM2.5"
+2016-12-01,Delhi,9.0,Severe,403,"PM10, PM2.5"
+2016-12-02,Delhi,7.0,Very Poor,378,"PM10, PM2.5"
+2016-12-03,Delhi,6.0,Very Poor,363,PM2.5
+2016-12-04,Delhi,8.0,Very Poor,337,"NO2, PM2.5"
+2016-12-05,Delhi,8.0,Very Poor,366,PM2.5
+2016-12-06,Delhi,8.0,Very Poor,389,"PM10, PM2.5"
+2016-12-07,Delhi,5.0,Severe,407,PM2.5
+2016-12-08,Delhi,8.0,Very Poor,399,PM2.5
+2016-12-09,Delhi,9.0,Severe,402,"PM10, PM2.5"
+2016-12-10,Delhi,9.0,Very Poor,380,PM2.5
+2016-12-11,Delhi,9.0,Very Poor,361,PM2.5
+2016-12-12,Delhi,10.0,Very Poor,364,"PM10, PM2.5"
+2016-12-13,Delhi,10.0,Very Poor,340,"PM10, PM2.5"
+2016-12-14,Delhi,10.0,Very Poor,308,"PM10, PM2.5"
+2016-12-15,Delhi,10.0,Very Poor,311,"PM10, PM2.5"
+2016-12-16,Delhi,10.0,Very Poor,343,"PM10, PM2.5"
+2016-12-17,Delhi,10.0,Very Poor,368,"PM10, PM2.5"
+2016-12-18,Delhi,10.0,Very Poor,369,"PM10, PM2.5"
+2016-12-19,Delhi,10.0,Very Poor,394,"PM10, PM2.5"
+2016-12-20,Delhi,6.0,Very Poor,340,PM2.5
+2016-12-21,Delhi,5.0,Poor,295,PM2.5
+2016-12-22,Delhi,10.0,Very Poor,322,"PM10, PM2.5"
+2016-12-23,Delhi,10.0,Severe,415,"PM10, PM2.5"
+2016-12-24,Delhi,8.0,Severe,427,"PM10, PM2.5"
+2016-12-25,Delhi,10.0,Very Poor,373,"PM10, PM2.5"
+2016-12-26,Delhi,10.0,Very Poor,314,"PM10, PM2.5"
+2016-12-27,Delhi,8.0,Very Poor,329,"PM10, PM2.5"
+2016-12-28,Delhi,8.0,Very Poor,385,"PM10, PM2.5"
+2016-12-29,Delhi,9.0,Severe,402,"PM10, PM2.5"
+2016-12-30,Delhi,7.0,Very Poor,345,"CO, PM2.5"
+2016-12-31,Delhi,7.0,Very Poor,372,"PM10, PM2.5"
+2017-01-01,Delhi,8.0,Very Poor,344,"PM10, PM2.5"
+2017-01-02,Delhi,8.0,Very Poor,344,"PM10, PM2.5"
+2017-01-03,Delhi,9.0,Very Poor,331,"PM10, PM2.5"
+2017-01-04,Delhi,9.0,Very Poor,366,"PM10, PM2.5"
+2017-01-05,Delhi,9.0,Very Poor,305,"PM10, PM2.5"
+2017-01-06,Delhi,9.0,Very Poor,354,PM2.5
+2017-01-07,Delhi,8.0,Poor,282,PM2.5
+2017-01-08,Delhi,9.0,Poor,274,"PM10, PM2.5"
+2017-01-09,Delhi,9.0,Very Poor,314,"PM10, PM2.5"
+2017-01-10,Delhi,9.0,Poor,257,"PM10, PM2.5"
+2017-01-11,Delhi,9.0,Poor,293,"PM10, PM2.5"
+2017-01-12,Delhi,10.0,Very Poor,331,"PM10, PM2.5"
+2017-01-13,Delhi,9.0,Very Poor,336,"PM10, PM2.5"
+2017-01-14,Delhi,6.0,Very Poor,385,PM2.5
+2017-01-15,Delhi,5.0,Very Poor,317,PM2.5
+2017-01-16,Delhi,10.0,Very Poor,360,"PM10, PM2.5"
+2017-01-17,Delhi,10.0,Poor,252,PM2.5
+2017-01-18,Delhi,10.0,Very Poor,326,PM2.5
+2017-01-19,Delhi,10.0,Very Poor,302,PM2.5
+2017-01-20,Delhi,10.0,Poor,229,PM2.5
+2017-01-21,Delhi,6.0,Poor,286,PM2.5
+2017-01-22,Delhi,6.0,Very Poor,365,PM2.5
+2017-01-23,Delhi,5.0,Very Poor,308,PM2.5
+2017-01-24,Delhi,8.0,Very Poor,331,"PM10, PM2.5"
+2017-01-25,Delhi,9.0,Very Poor,375,"PM10, PM2.5"
+2017-01-26,Delhi,10.0,Very Poor,317,PM2.5
+2017-01-27,Delhi,6.0,Moderate,110,"PM10, PM2.5"
+2017-01-28,Delhi,6.0,Moderate,188,"PM10, PM2.5"
+2017-01-29,Delhi,9.0,Poor,215,PM2.5
+2017-01-30,Delhi,10.0,Poor,294,"PM10, PM2.5"
+2017-01-31,Delhi,9.0,Very Poor,341,PM2.5
+2017-02-01,Delhi,9.0,Poor,273,PM2.5
+2017-02-02,Delhi,10.0,Very Poor,338,"PM10, PM2.5"
+2017-02-03,Delhi,10.0,Very Poor,330,"PM10, PM2.5"
+2017-02-04,Delhi,10.0,Very Poor,344,"PM10, PM2.5"
+2017-02-05,Delhi,9.0,Poor,298,PM2.5
+2017-02-06,Delhi,8.0,Very Poor,349,"PM10, PM2.5"
+2017-02-07,Delhi,10.0,Moderate,162,"PM10, PM2.5"
+2017-02-08,Delhi,10.0,Poor,268,"PM10, PM2.5"
+2017-02-09,Delhi,10.0,Poor,276,"PM10, PM2.5"
+2017-02-10,Delhi,10.0,Poor,245,"PM10, PM2.5"
+2017-02-11,Delhi,8.0,Poor,251,"PM10, PM2.5"
+2017-02-12,Delhi,6.0,Poor,275,PM2.5
+2017-02-13,Delhi,10.0,Poor,275,"PM10, PM2.5"
+2017-02-14,Delhi,9.0,Poor,300,"PM10, PM2.5"
+2017-02-15,Delhi,9.0,Poor,297,"PM10, PM2.5"
+2017-02-16,Delhi,10.0,Poor,288,"PM10, PM2.5"
+2017-02-17,Delhi,8.0,Poor,280,"PM10, PM2.5"
+2017-02-18,Delhi,9.0,Poor,245,"PM10, PM2.5"
+2017-02-19,Delhi,9.0,Poor,257,"PM10, PM2.5"
+2017-02-20,Delhi,5.0,Poor,260,PM2.5
+2017-02-21,Delhi,10.0,Poor,259,"PM10, PM2.5"
+2017-02-22,Delhi,8.0,Poor,245,"PM10, PM2.5"
+2017-02-23,Delhi,4.0,Moderate,182,PM2.5
+2017-02-24,Delhi,6.0,Poor,205,PM2.5
+2017-02-25,Delhi,6.0,Poor,207,PM2.5
+2017-02-26,Delhi,6.0,Poor,256,PM2.5
+2017-02-27,Delhi,10.0,Poor,233,"NO2, PM2.5"
+2017-02-28,Delhi,7.0,Poor,278,"O3, PM2.5"
+2017-03-01,Delhi,9.0,Poor,292,"PM10, PM2.5"
+2017-03-02,Delhi,9.0,Poor,259,"PM10, PM2.5"
+2017-03-03,Delhi,10.0,Moderate,150,"PM10, PM2.5"
+2017-03-04,Delhi,10.0,Moderate,179,"PM10, PM2.5"
+2017-03-05,Delhi,8.0,Poor,203,"PM10, PM2.5"
+2017-03-06,Delhi,8.0,Moderate,200,"PM10, PM2.5"
+2017-03-07,Delhi,9.0,Poor,228,"PM10, PM2.5"
+2017-03-08,Delhi,9.0,Poor,203,"PM10, PM2.5"
+2017-03-09,Delhi,8.0,Moderate,162,"PM10, PM2.5"
+2017-03-10,Delhi,9.0,Moderate,125,"NO2, PM2.5"
+2017-03-11,Delhi,6.0,Moderate,117,"NO2, O3"
+2017-03-12,Delhi,6.0,Moderate,129,"NO2, PM2.5"
+2017-03-13,Delhi,7.0,Moderate,180,"PM10, PM2.5"
+2017-03-14,Delhi,7.0,Moderate,191,"PM10, PM2.5"
+2017-03-15,Delhi,3.0,Poor,227,PM2.5
+2017-03-16,Delhi,7.0,Poor,239,"PM10, PM2.5"
+2017-03-17,Delhi,7.0,Poor,251,"PM10, PM2.5"
+2017-03-18,Delhi,8.0,Poor,202,"PM10, PM2.5"
+2017-03-19,Delhi,7.0,Poor,265,"PM10, PM2.5"
+2017-03-20,Delhi,7.0,Poor,271,"PM10, PM2.5"
+2017-03-21,Delhi,7.0,Poor,272,"PM10, PM2.5"
+2017-03-22,Delhi,7.0,Poor,258,"PM10, PM2.5"
+2017-03-23,Delhi,7.0,Poor,273,"PM10, PM2.5"
+2017-03-24,Delhi,8.0,Poor,256,"PM10, PM2.5"
+2017-03-25,Delhi,8.0,Poor,210,"PM10, PM2.5"
+2017-03-26,Delhi,9.0,Moderate,189,"PM10, PM2.5"
+2017-03-27,Delhi,8.0,Moderate,186,"PM10, PM2.5"
+2017-03-28,Delhi,7.0,Poor,228,"PM10, PM2.5"
+2017-03-29,Delhi,7.0,Poor,264,"PM10, PM2.5"
+2017-03-30,Delhi,3.0,Moderate,153,PM2.5
+2017-03-31,Delhi,6.0,Moderate,179,"PM10, PM2.5"
+2017-04-01,Delhi,7.0,Poor,240,"PM10, PM2.5"
+2017-04-02,Delhi,7.0,Moderate,187,"PM10, PM2.5"
+2017-04-03,Delhi,8.0,Moderate,162,"PM10, PM2.5"
+2017-04-04,Delhi,7.0,Moderate,191,"PM10, PM2.5"
+2017-04-05,Delhi,6.0,Moderate,139,"PM10, PM2.5"
+2017-04-06,Delhi,6.0,Moderate,132,"PM10, PM2.5"
+2017-04-07,Delhi,6.0,Very Poor,383,"PM10, PM2.5"
+2017-04-08,Delhi,7.0,Poor,295,"PM10, PM2.5"
+2017-04-09,Delhi,8.0,Moderate,155,"PM10, PM2.5"
+2017-04-10,Delhi,8.0,Moderate,164,"PM10, PM2.5"
+2017-04-11,Delhi,8.0,Moderate,182,"PM10, PM2.5"
+2017-04-12,Delhi,5.0,Moderate,187,"O3, PM2.5"
+2017-04-13,Delhi,4.0,Poor,285,PM2.5
+2017-04-14,Delhi,10.0,Very Poor,304,"PM10, PM2.5"
+2017-04-15,Delhi,10.0,Very Poor,322,"PM10, PM2.5"
+2017-04-16,Delhi,8.0,Very Poor,310,"PM10, PM2.5"
+2017-04-17,Delhi,3.0,Poor,249,PM2.5
+2017-04-18,Delhi,7.0,Very Poor,313,"PM10, PM2.5"
+2017-04-19,Delhi,9.0,Poor,277,"PM10, PM2.5"
+2017-04-20,Delhi,8.0,Poor,238,"PM10, PM2.5"
+2017-04-21,Delhi,9.0,Poor,253,"PM10, PM2.5"
+2017-04-22,Delhi,6.0,Poor,245,"PM10, PM2.5"
+2017-04-23,Delhi,6.0,Moderate,190,"PM10, PM2.5"
+2017-04-24,Delhi,7.0,Moderate,179,"PM10, PM2.5"
+2017-04-25,Delhi,8.0,Poor,207,"O3, PM2.5"
+2017-04-26,Delhi,7.0,Moderate,170,"PM10, PM2.5"
+2017-04-27,Delhi,9.0,Moderate,185,"PM10, PM2.5"
+2017-04-28,Delhi,8.0,Poor,217,"PM10, PM2.5"
+2017-04-29,Delhi,8.0,Poor,231,"PM10, PM2.5"
+2017-04-30,Delhi,8.0,Poor,205,"PM10, PM2.5"
+2017-05-01,Delhi,7.0,Moderate,179,"PM10, PM2.5"
+2017-05-02,Delhi,7.0,Poor,269,"PM10, PM2.5"
+2017-05-03,Delhi,5.0,Poor,295,PM2.5
+2017-05-04,Delhi,8.0,Poor,243,"PM10, PM2.5"
+2017-05-05,Delhi,7.0,Very Poor,325,"PM10, PM2.5"
+2017-05-06,Delhi,7.0,Very Poor,301,"PM10, PM2.5"
+2017-05-07,Delhi,5.0,Very Poor,319,"PM10, PM2.5"
+2017-05-08,Delhi,6.0,Very Poor,302,"PM10, PM2.5"
+2017-05-09,Delhi,8.0,Poor,277,"PM10, PM2.5"
+2017-05-10,Delhi,8.0,Moderate,191,"PM10, PM2.5"
+2017-05-11,Delhi,7.0,Poor,235,"PM10, PM2.5"
+2017-05-12,Delhi,7.0,Very Poor,368,"PM10, PM2.5"
+2017-05-13,Delhi,7.0,Very Poor,334,"PM10, PM2.5"
+2017-05-14,Delhi,7.0,Poor,293,"PM10, PM2.5"
+2017-05-15,Delhi,8.0,Poor,258,"PM10, PM2.5"
+2017-05-16,Delhi,7.0,Poor,283,"PM10, PM2.5"
+2017-05-17,Delhi,6.0,Moderate,187,"PM10, PM2.5"
+2017-05-18,Delhi,5.0,Poor,235,PM2.5
+2017-05-19,Delhi,7.0,Poor,258,"O3, PM2.5"
+2017-05-20,Delhi,7.0,Poor,253,"PM10, PM2.5"
+2017-05-21,Delhi,8.0,Very Poor,343,"PM10, PM2.5"
+2017-05-22,Delhi,6.0,Poor,247,"PM10, PM2.5"
+2017-05-23,Delhi,7.0,Poor,223,"PM10, PM2.5"
+2017-05-24,Delhi,8.0,Poor,223,"PM10, PM2.5"
+2017-05-25,Delhi,7.0,Poor,215,"PM10, PM2.5"
+2017-05-26,Delhi,9.0,Poor,259,"PM10, PM2.5"
+2017-05-27,Delhi,10.0,Poor,210,"PM10, PM2.5"
+2017-05-28,Delhi,9.0,Moderate,149,"PM10, PM2.5"
+2017-05-29,Delhi,9.0,Moderate,126,"PM10, PM2.5"
+2017-05-30,Delhi,8.0,Moderate,180,"PM10, PM2.5"
+2017-05-31,Delhi,10.0,Moderate,132,"CO, PM2.5"
+2017-06-01,Delhi,7.0,Poor,230,"PM10, PM2.5"
+2017-06-02,Delhi,10.0,Poor,237,"PM10, PM2.5"
+2017-06-03,Delhi,9.0,Poor,240,"PM10, PM2.5"
+2017-06-04,Delhi,8.0,Poor,264,"PM10, PM2.5"
+2017-06-05,Delhi,9.0,Poor,224,"PM10, PM2.5"
+2017-06-06,Delhi,6.0,Poor,240,"PM10, PM2.5"
+2017-06-07,Delhi,8.0,Moderate,163,"PM10, PM2.5"
+2017-06-08,Delhi,8.0,Moderate,110,"PM10, PM2.5"
+2017-06-09,Delhi,8.0,Moderate,171,"O3, PM2.5"
+2017-06-10,Delhi,6.0,Poor,218,"PM10, PM2.5"
+2017-06-11,Delhi,8.0,Moderate,135,"O3, PM2.5"
+2017-06-12,Delhi,9.0,Moderate,155,"O3, PM2.5"
+2017-06-13,Delhi,8.0,Moderate,169,"PM10, PM2.5"
+2017-06-14,Delhi,9.0,Poor,211,"PM10, PM2.5"
+2017-06-15,Delhi,6.0,Poor,270,"PM10, PM2.5"
+2017-06-16,Delhi,10.0,Moderate,176,"PM10, PM2.5"
+2017-06-17,Delhi,10.0,Moderate,104,"PM10, PM2.5"
+2017-06-19,Delhi,5.0,Moderate,185,"CO, PM2.5"
+2017-06-20,Delhi,8.0,Moderate,112,"PM10, PM2.5"
+2017-06-21,Delhi,9.0,Moderate,105,"PM10, PM2.5"
+2017-06-22,Delhi,7.0,Moderate,150,"PM10, PM2.5"
+2017-06-23,Delhi,9.0,Moderate,174,"PM10, PM2.5"
+2017-06-24,Delhi,10.0,Moderate,196,"PM10, PM2.5"
+2017-06-25,Delhi,9.0,Poor,215,"PM10, PM2.5"
+2017-06-26,Delhi,10.0,Moderate,166,"PM10, PM2.5"
+2017-06-27,Delhi,9.0,Moderate,137,"PM10, PM2.5"
+2017-06-28,Delhi,10.0,Moderate,114,"CO, PM2.5"
+2017-06-29,Delhi,9.0,Satisfactory,89,"PM10, PM2.5"
+2017-06-30,Delhi,10.0,Satisfactory,81,"CO, PM2.5"
+2017-07-01,Delhi,9.0,Moderate,108,"PM10, PM2.5"
+2017-07-02,Delhi,9.0,Satisfactory,81,"PM10, PM2.5"
+2017-07-03,Delhi,10.0,Moderate,105,"PM10, PM2.5"
+2017-07-04,Delhi,8.0,Moderate,158,"PM10, PM2.5"
+2017-07-05,Delhi,7.0,Moderate,185,"CO, PM2.5"
+2017-07-06,Delhi,8.0,Moderate,167,"PM10, PM2.5"
+2017-07-07,Delhi,9.0,Moderate,144,"CO, PM2.5"
+2017-07-08,Delhi,10.0,Moderate,116,"PM10, PM2.5"
+2017-07-09,Delhi,6.0,Moderate,155,"CO, PM2.5"
+2017-07-10,Delhi,6.0,Moderate,115,PM2.5
+2017-07-11,Delhi,10.0,Moderate,104,"PM10, PM2.5"
+2017-07-12,Delhi,10.0,Satisfactory,67,"NO2, PM2.5"
+2017-07-13,Delhi,9.0,Satisfactory,77,"NO2, PM2.5"
+2017-07-14,Delhi,8.0,Satisfactory,76,"O3, SO2"
+2017-07-15,Delhi,7.0,Satisfactory,88,"PM10, PM2.5"
+2017-07-16,Delhi,8.0,Moderate,103,"PM10, PM2.5"
+2017-07-17,Delhi,10.0,Satisfactory,99,"CO, PM2.5"
+2017-07-18,Delhi,9.0,Moderate,105,"O3, PM2.5"
+2017-07-19,Delhi,8.0,Moderate,149,"PM10, PM2.5"
+2017-07-20,Delhi,6.0,Satisfactory,85,"NO2, PM2.5"
+2017-07-21,Delhi,8.0,Satisfactory,76,"NO2, PM2.5"
+2017-07-22,Delhi,7.0,Satisfactory,60,"PM10, PM2.5"
+2017-07-23,Delhi,7.0,Satisfactory,67,"PM10, PM2.5"
+2017-07-24,Delhi,8.0,Satisfactory,60,"PM10, PM2.5"
+2017-07-25,Delhi,9.0,Satisfactory,70,"PM10, PM2.5"
+2017-07-26,Delhi,9.0,Satisfactory,69,"PM10, PM2.5"
+2017-07-27,Delhi,7.0,Satisfactory,95,"PM10, PM2.5"
+2017-07-28,Delhi,9.0,Satisfactory,79,"PM10, PM2.5"
+2017-07-29,Delhi,8.0,Satisfactory,97,"NO2, PM2.5"
+2017-07-30,Delhi,3.0,Good,43,"NO2, PM2.5"
+2017-07-31,Delhi,3.0,Good,47,"NO2, PM2.5"
+2017-08-01,Delhi,9.0,Satisfactory,61,"PM10, PM2.5"
+2017-08-02,Delhi,10.0,Satisfactory,92,"PM10, PM2.5"
+2017-08-03,Delhi,5.0,Satisfactory,81,PM2.5
+2017-08-04,Delhi,9.0,Moderate,136,"PM10, PM2.5"
+2017-08-05,Delhi,5.0,Moderate,166,PM2.5
+2017-08-06,Delhi,5.0,Moderate,182,PM2.5
+2017-08-07,Delhi,4.0,Moderate,156,PM2.5
+2017-08-08,Delhi,9.0,Satisfactory,85,"O3, PM2.5"
+2017-08-09,Delhi,5.0,Moderate,125,"NO2, PM2.5"
+2017-08-10,Delhi,8.0,Moderate,175,"NO2, PM2.5"
+2017-08-11,Delhi,8.0,Moderate,106,"NO2, PM2.5"
+2017-08-12,Delhi,4.0,Satisfactory,66,"NO2, PM2.5"
+2017-08-13,Delhi,3.0,Satisfactory,73,PM2.5
+2017-08-14,Delhi,3.0,Satisfactory,81,PM2.5
+2017-08-15,Delhi,5.0,Satisfactory,95,"NO2, PM2.5"
+2017-08-16,Delhi,6.0,Satisfactory,93,"NO2, PM2.5"
+2017-08-17,Delhi,8.0,Moderate,116,"PM10, PM2.5"
+2017-08-18,Delhi,5.0,Moderate,116,"NO2, PM2.5"
+2017-08-19,Delhi,4.0,Satisfactory,84,PM2.5
+2017-08-20,Delhi,3.0,Satisfactory,62,PM2.5
+2017-08-21,Delhi,2.0,Satisfactory,70,PM2.5
+2017-08-22,Delhi,2.0,Satisfactory,80,PM2.5
+2017-08-23,Delhi,6.0,Satisfactory,88,"CO, PM2.5"
+2017-08-24,Delhi,3.0,Moderate,103,"O3, PM2.5"
+2017-08-25,Delhi,5.0,Moderate,146,PM2.5
+2017-08-26,Delhi,8.0,Moderate,114,"PM10, PM2.5"
+2017-08-27,Delhi,8.0,Moderate,121,"PM10, PM2.5"
+2017-08-28,Delhi,8.0,Satisfactory,79,"CO, PM2.5"
+2017-08-29,Delhi,9.0,Satisfactory,78,"CO, PM2.5"
+2017-08-30,Delhi,7.0,Satisfactory,76,"CO, PM2.5"
+2017-08-31,Delhi,8.0,Satisfactory,84,"CO, PM2.5"
+2017-09-01,Delhi,8.0,Satisfactory,66,"CO, PM2.5"
+2017-09-02,Delhi,8.0,Satisfactory,61,"CO, PM2.5"
+2017-09-03,Delhi,8.0,Satisfactory,71,"PM10, PM2.5"
+2017-09-04,Delhi,9.0,Moderate,115,"PM10, PM2.5"
+2017-09-05,Delhi,9.0,Satisfactory,93,"PM10, PM2.5"
+2017-09-06,Delhi,9.0,Satisfactory,95,"PM10, PM2.5"
+2017-09-07,Delhi,8.0,Satisfactory,91,"PM10, PM2.5"
+2017-09-08,Delhi,8.0,Moderate,163,"PM10, PM2.5"
+2017-09-09,Delhi,4.0,Moderate,130,PM2.5
+2017-09-10,Delhi,4.0,Moderate,173,PM2.5
+2017-09-11,Delhi,16.0,Moderate,170,"NO2, PM2.5"
+2017-09-12,Delhi,9.0,Moderate,127,"PM10, PM2.5"
+2017-09-13,Delhi,9.0,Moderate,156,"PM10, PM2.5"
+2017-09-14,Delhi,10.0,Moderate,191,"O3, PM2.5"
+2017-09-15,Delhi,10.0,Moderate,174,"PM10, PM2.5"
+2017-09-16,Delhi,12.0,Moderate,133,"NO2, PM2.5"
+2017-09-17,Delhi,12.0,Moderate,124,"NO2, PM2.5"
+2017-09-18,Delhi,7.0,Moderate,131,"NO2, PM2.5"
+2017-09-19,Delhi,11.0,Moderate,170,PM2.5
+2017-09-20,Delhi,17.0,Moderate,191,"O3, PM2.5"
+2017-09-21,Delhi,7.0,Moderate,195,PM2.5
+2017-09-22,Delhi,10.0,Satisfactory,72,"CO, PM2.5"
+2017-09-23,Delhi,8.0,Satisfactory,72,"CO, PM2.5"
+2017-09-24,Delhi,14.0,Satisfactory,87,"CO, PM2.5"
+2017-09-25,Delhi,16.0,Moderate,117,"PM10, PM2.5"
+2017-09-26,Delhi,17.0,Moderate,164,"PM10, PM2.5"
+2017-09-27,Delhi,14.0,Poor,211,"PM10, PM2.5"
+2017-09-28,Delhi,16.0,Poor,205,"PM10, PM2.5"
+2017-09-29,Delhi,16.0,Poor,213,"PM10, PM2.5"
+2017-09-30,Delhi,17.0,Moderate,198,"PM10, PM2.5"
+2017-10-01,Delhi,11.0,Moderate,196,"PM10, PM2.5"
+2017-10-02,Delhi,8.0,Moderate,169,"PM10, PM2.5"
+2017-10-03,Delhi,17.0,Moderate,159,"O3, PM2.5"
+2017-10-04,Delhi,17.0,Poor,219,"PM10, PM2.5"
+2017-10-05,Delhi,16.0,Poor,212,"PM10, PM2.5"
+2017-10-06,Delhi,15.0,Moderate,182,"PM10, PM2.5"
+2017-10-07,Delhi,11.0,Moderate,195,"PM10, PM2.5"
+2017-10-08,Delhi,16.0,Poor,247,"PM10, PM2.5"
+2017-10-09,Delhi,16.0,Poor,277,"PM10, PM2.5"
+2017-10-10,Delhi,15.0,Poor,254,"PM10, PM2.5"
+2017-10-11,Delhi,14.0,Poor,279,"PM10, PM2.5"
+2017-10-12,Delhi,15.0,Poor,268,"PM10, PM2.5"
+2017-10-13,Delhi,16.0,Poor,285,"PM10, PM2.5"
+2017-10-15,Delhi,15.0,Poor,289,"PM10, PM2.5"
+2017-10-16,Delhi,15.0,Poor,290,"PM10, PM2.5"
+2017-10-17,Delhi,12.0,Very Poor,306,"PM10, PM2.5"
+2017-10-18,Delhi,14.0,Very Poor,302,"PM10, PM2.5"
+2017-10-19,Delhi,16.0,Very Poor,319,"PM10, PM2.5"
+2017-10-20,Delhi,14.0,Severe,403,"PM10, PM2.5"
+2017-10-21,Delhi,16.0,Very Poor,389,"PM10, PM2.5"
+2017-10-22,Delhi,15.0,Very Poor,329,"PM10, PM2.5"
+2017-10-23,Delhi,16.0,Very Poor,306,"PM10, PM2.5"
+2017-10-24,Delhi,16.0,Very Poor,309,"PM10, PM2.5"
+2017-10-25,Delhi,15.0,Very Poor,344,"PM10, PM2.5"
+2017-10-26,Delhi,15.0,Very Poor,321,"PM10, PM2.5"
+2017-10-27,Delhi,16.0,Very Poor,329,PM2.5
+2017-10-28,Delhi,15.0,Very Poor,346,"PM10, PM2.5"
+2017-10-29,Delhi,12.0,Very Poor,338,"PM10, PM2.5"
+2017-10-30,Delhi,16.0,Very Poor,328,"PM10, PM2.5"
+2017-10-31,Delhi,15.0,Very Poor,351,"PM10, PM2.5"
+2017-11-01,Delhi,16.0,Very Poor,355,PM2.5
+2017-11-02,Delhi,17.0,Very Poor,311,"PM10, PM2.5"
+2017-11-03,Delhi,14.0,Very Poor,324,PM2.5
+2017-11-04,Delhi,16.0,Very Poor,351,PM2.5
+2017-11-05,Delhi,10.0,Very Poor,368,"PM10, PM2.5"
+2017-11-06,Delhi,16.0,Very Poor,354,"PM10, PM2.5"
+2017-11-07,Delhi,15.0,Severe,448,"PM10, PM2.5"
+2017-11-08,Delhi,16.0,Severe,478,"PM10, PM2.5"
+2017-11-09,Delhi,15.0,Severe,486,"PM10, PM2.5"
+2017-11-10,Delhi,14.0,Severe,468,PM2.5
+2017-11-11,Delhi,15.0,Severe,403,"CO, PM2.5"
+2017-11-12,Delhi,15.0,Severe,460,"CO, PM2.5"
+2017-11-13,Delhi,15.0,Severe,460,PM2.5
+2017-11-14,Delhi,13.0,Very Poor,308,"CO, PM2.5"
+2017-11-15,Delhi,17.0,Very Poor,361,PM2.5
+2017-11-16,Delhi,17.0,Very Poor,363,PM2.5
+2017-11-17,Delhi,16.0,Very Poor,310,PM2.5
+2017-11-18,Delhi,13.0,Poor,298,PM2.5
+2017-11-19,Delhi,16.0,Poor,292,PM2.5
+2017-11-20,Delhi,17.0,Very Poor,326,PM2.5
+2017-11-21,Delhi,16.0,Very Poor,324,PM2.5
+2017-11-22,Delhi,13.0,Very Poor,320,PM2.5
+2017-11-23,Delhi,17.0,Poor,288,"NO2, PM2.5"
+2017-11-24,Delhi,17.0,Very Poor,335,PM2.5
+2017-11-25,Delhi,17.0,Very Poor,322,"NO2, PM2.5"
+2017-11-26,Delhi,12.0,Very Poor,352,PM2.5
+2017-11-27,Delhi,17.0,Very Poor,362,"PM10, PM2.5"
+2017-11-28,Delhi,15.0,Very Poor,307,"CO, PM2.5"
+2017-11-29,Delhi,13.0,Very Poor,334,PM2.5
+2017-11-30,Delhi,14.0,Very Poor,360,PM2.5
+2017-12-01,Delhi,15.0,Very Poor,343,"PM10, PM2.5"
+2017-12-02,Delhi,13.0,Very Poor,331,"PM10, PM2.5"
+2017-12-03,Delhi,13.0,Very Poor,351,"PM10, PM2.5"
+2017-12-04,Delhi,14.0,Very Poor,390,PM2.5
+2017-12-05,Delhi,12.0,Very Poor,378,PM2.5
+2017-12-06,Delhi,10.0,Poor,282,PM2.5
+2017-12-07,Delhi,13.0,Moderate,194,"PM10, PM2.5"
+2017-12-08,Delhi,15.0,Poor,217,"PM10, PM2.5"
+2017-12-09,Delhi,16.0,Very Poor,305,"PM10, PM2.5"
+2017-12-10,Delhi,8.0,Very Poor,377,"PM10, PM2.5"
+2017-12-11,Delhi,14.0,Very Poor,361,"PM10, PM2.5"
+2017-12-12,Delhi,14.0,Poor,219,PM2.5
+2017-12-13,Delhi,14.0,Poor,270,PM2.5
+2017-12-14,Delhi,9.0,Poor,265,PM2.5
+2017-12-15,Delhi,14.0,Poor,272,"CO, PM2.5"
+2017-12-16,Delhi,11.0,Poor,218,"PM10, PM2.5"
+2017-12-17,Delhi,11.0,Moderate,198,"PM10, PM2.5"
+2017-12-18,Delhi,16.0,Poor,234,"PM10, PM2.5"
+2017-12-19,Delhi,14.0,Poor,300,"PM10, PM2.5"
+2017-12-20,Delhi,16.0,Very Poor,359,PM2.5
+2017-12-21,Delhi,8.0,Severe,469,"PM10, PM2.5"
+2017-12-22,Delhi,13.0,Very Poor,336,PM2.5
+2017-12-23,Delhi,17.0,Poor,228,PM2.5
+2017-12-24,Delhi,16.0,Very Poor,305,"PM10, PM2.5"
+2017-12-25,Delhi,16.0,Very Poor,372,"NO2, PM2.5"
+2017-12-26,Delhi,15.0,Very Poor,335,"NO2, PM2.5"
+2017-12-27,Delhi,16.0,Very Poor,363,"PM10, PM2.5"
+2017-12-28,Delhi,16.0,Very Poor,378,PM2.5
+2017-12-29,Delhi,14.0,Very Poor,364,PM2.5
+2017-12-30,Delhi,16.0,Very Poor,395,"PM10, PM2.5"
+2017-12-31,Delhi,11.0,Very Poor,398,"PM10, PM2.5"
+2018-01-01,Delhi,15.0,Very Poor,400,PM2.5
+2018-01-02,Delhi,16.0,Severe,408,"PM10, PM2.5"
+2018-01-03,Delhi,11.0,Very Poor,398,PM2.5
+2018-01-04,Delhi,15.0,Very Poor,362,"PM10, PM2.5"
+2018-01-05,Delhi,16.0,Very Poor,388,PM2.5
+2018-01-06,Delhi,16.0,Severe,404,PM2.5
+2018-01-07,Delhi,15.0,Very Poor,354,PM2.5
+2018-01-08,Delhi,15.0,Poor,289,"PM10, PM2.5"
+2018-01-09,Delhi,17.0,Very Poor,357,PM2.5
+2018-01-10,Delhi,17.0,Very Poor,350,"PM10, PM2.5"
+2018-01-11,Delhi,16.0,Very Poor,308,"PM10, PM2.5"
+2018-01-12,Delhi,16.0,Poor,297,"NO2, PM2.5"
+2018-01-13,Delhi,17.0,Very Poor,357,"PM10, PM2.5"
+2018-01-14,Delhi,16.0,Very Poor,318,"PM10, PM2.5"
+2018-01-15,Delhi,16.0,Very Poor,330,"PM10, PM2.5"
+2018-01-16,Delhi,15.0,Poor,256,"PM10, PM2.5"
+2018-01-17,Delhi,16.0,Very Poor,347,"PM10, PM2.5"
+2018-01-18,Delhi,16.0,Very Poor,395,"PM10, PM2.5"
+2018-01-19,Delhi,16.0,Severe,403,"PM10, PM2.5"
+2018-01-20,Delhi,15.0,Very Poor,323,"PM10, PM2.5"
+2018-01-21,Delhi,11.0,Poor,274,"PM10, PM2.5"
+2018-01-22,Delhi,15.0,Very Poor,342,"PM10, PM2.5"
+2018-01-23,Delhi,16.0,Very Poor,312,"NO2, PM2.5"
+2018-01-24,Delhi,15.0,Poor,265,"PM10, PM2.5"
+2018-01-25,Delhi,5.0,Poor,257,PM2.5
+2018-01-26,Delhi,4.0,Poor,255,PM2.5
+2018-01-27,Delhi,16.0,Poor,285,"PM10, PM2.5"
+2018-01-28,Delhi,16.0,Very Poor,301,PM2.5
+2018-01-29,Delhi,16.0,Very Poor,307,PM2.5
+2018-01-30,Delhi,16.0,Poor,277,PM2.5
+2018-01-31,Delhi,17.0,Poor,244,PM2.5
+2018-02-01,Delhi,17.0,Poor,273,"PM10, PM2.5"
+2018-02-02,Delhi,16.0,Poor,261,"PM10, PM2.5"
+2018-02-03,Delhi,16.0,Poor,214,PM2.5
+2018-02-04,Delhi,16.0,Poor,234,PM2.5
+2018-02-05,Delhi,15.0,Poor,259,"PM10, PM2.5"
+2018-02-06,Delhi,17.0,Poor,261,"PM10, PM2.5"
+2018-02-07,Delhi,17.0,Poor,236,PM2.5
+2018-02-08,Delhi,17.0,Poor,288,PM2.5
+2018-02-09,Delhi,16.0,Very Poor,315,"PM10, PM2.5"
+2018-02-10,Delhi,16.0,Very Poor,320,"PM10, PM2.5"
+2018-02-11,Delhi,9.0,Very Poor,310,"PM10, PM2.5"
+2018-02-12,Delhi,16.0,Moderate,154,"OZONE, PM2.5"
+2018-02-13,Delhi,16.0,Moderate,165,"OZONE, PM2.5"
+2018-02-14,Delhi,16.0,Moderate,167,"OZONE, PM2.5"
+2018-02-15,Delhi,16.0,Moderate,166,"OZONE, PM2.5"
+2018-02-16,Delhi,15.0,Poor,213,PM2.5
+2018-02-17,Delhi,16.0,Poor,231,PM2.5
+2018-02-18,Delhi,16.0,Poor,238,"PM10, PM2.5"
+2018-02-19,Delhi,16.0,Poor,271,"PM10, PM2.5"
+2018-02-20,Delhi,15.0,Poor,279,"PM10, PM2.5"
+2018-02-21,Delhi,16.0,Poor,290,"PM10, PM2.5"
+2018-02-22,Delhi,16.0,Poor,275,"PM10, PM2.5"
+2018-02-23,Delhi,15.0,Poor,287,"PM10, PM2.5"
+2018-02-24,Delhi,16.0,Very Poor,300,"PM10, PM2.5"
+2018-02-25,Delhi,15.0,Poor,250,"PM10, PM2.5"
+2018-02-26,Delhi,16.0,Moderate,140,"OZONE, PM10, PM2.5"
+2018-02-27,Delhi,16.0,Moderate,141,"PM10, PM2.5"
+2018-02-28,Delhi,16.0,Poor,259,"PM10, PM2.5"
+2018-03-01,Delhi,17.0,Poor,243,"PM10, PM2.5"
+2018-03-02,Delhi,17.0,Poor,245,"PM10, PM2.5"
+2018-03-03,Delhi,17.0,Moderate,188,PM2.5
+2018-03-04,Delhi,17.0,Moderate,165,"PM10, PM2.5"
+2018-03-05,Delhi,17.0,Moderate,159,"PM10, PM2.5"
+2018-03-06,Delhi,17.0,Moderate,153,"OZONE, PM10, PM2.5"
+2018-03-07,Delhi,17.0,Moderate,166,"PM10, PM2.5"
+2018-03-08,Delhi,17.0,Poor,226,"PM10, PM2.5"
+2018-03-09,Delhi,17.0,Poor,266,"PM10, PM2.5"
+2018-03-10,Delhi,17.0,Moderate,157,"PM10, PM2.5"
+2018-03-11,Delhi,17.0,Moderate,154,"PM10, PM2.5"
+2018-03-12,Delhi,16.0,Moderate,192,PM2.5
+2018-03-13,Delhi,16.0,Moderate,197,PM2.5
+2018-03-14,Delhi,16.0,Poor,231,"PM10, PM2.5"
+2018-03-15,Delhi,16.0,Poor,260,"PM10, PM2.5"
+2018-03-16,Delhi,10.0,Poor,244,"OZONE, PM10, PM2.5"
+2018-03-17,Delhi,10.0,Moderate,175,"OZONE, PM2.5"
+2018-03-18,Delhi,13.0,Moderate,169,"PM10, PM2.5"
+2018-03-19,Delhi,15.0,Moderate,153,"PM10, PM2.5"
+2018-03-20,Delhi,15.0,Moderate,197,"OZONE, PM2.5"
+2018-03-21,Delhi,31.0,Poor,290,"PM10, PM2.5"
+2018-03-22,Delhi,32.0,Moderate,178,"PM10, PM2.5"
+2018-03-23,Delhi,29.0,Moderate,150,"OZONE, PM10, PM2.5"
+2018-03-24,Delhi,32.0,Moderate,176,"PM10, PM2.5"
+2018-03-25,Delhi,29.0,Moderate,197,PM2.5
+2018-03-26,Delhi,31.0,Moderate,185,"PM10, PM2.5"
+2018-03-27,Delhi,32.0,Poor,231,"PM10, PM2.5"
+2018-03-28,Delhi,31.0,Poor,257,PM10
+2018-03-29,Delhi,30.0,Poor,214,"PM10, PM2.5"
+2018-03-30,Delhi,31.0,Poor,218,"PM10, PM2.5"
+2018-03-31,Delhi,29.0,Poor,258,PM10
+2018-04-01,Delhi,29.0,Moderate,195,"OZONE, PM10, PM2.5"
+2018-04-02,Delhi,31.0,Poor,212,PM10
+2018-04-03,Delhi,13.0,Poor,207,"PM10, PM2.5"
+2018-04-04,Delhi,12.0,Poor,203,"PM10, PM2.5"
+2018-04-05,Delhi,13.0,Poor,290,"PM10, PM2.5"
+2018-04-06,Delhi,13.0,Poor,208,"PM10, PM2.5"
+2018-04-07,Delhi,31.0,Moderate,137,"OZONE, PM10, PM2.5"
+2018-04-08,Delhi,28.0,Moderate,139,"OZONE, PM10"
+2018-04-09,Delhi,21.0,Moderate,118,PM10
+2018-04-10,Delhi,20.0,Poor,230,"OZONE, PM10, PM2.5"
+2018-04-11,Delhi,10.0,Moderate,141,"PM10, PM2.5"
+2018-04-12,Delhi,11.0,Satisfactory,99,"CO, PM10, PM2.5"
+2018-04-13,Delhi,30.0,Moderate,186,"NO2, PM10, PM2.5"
+2018-04-14,Delhi,23.0,Poor,217,"NO2, PM10, PM2.5"
+2018-04-15,Delhi,12.0,Poor,224,"NO2, PM10, PM2.5"
+2018-04-16,Delhi,6.0,Poor,285,"NO2, PM10, PM2.5"
+2018-04-17,Delhi,20.0,Poor,244,PM10
+2018-04-18,Delhi,24.0,Poor,228,PM10
+2018-04-19,Delhi,8.0,Poor,244,"NO2, PM10, PM2.5"
+2018-04-20,Delhi,24.0,Poor,246,PM10
+2018-04-21,Delhi,11.0,Very Poor,356,"PM10, PM2.5"
+2018-04-22,Delhi,10.0,Poor,211,"PM10, PM2.5"
+2018-04-23,Delhi,10.0,Moderate,160,"PM10, PM2.5"
+2018-04-24,Delhi,22.0,Poor,254,"OZONE, PM10, PM2.5"
+2018-04-25,Delhi,25.0,Poor,262,"PM10, PM2.5"
+2018-04-26,Delhi,29.0,Very Poor,312,PM10
+2018-04-27,Delhi,24.0,Very Poor,306,PM10
+2018-04-28,Delhi,25.0,Very Poor,301,PM10
+2018-04-29,Delhi,24.0,Poor,247,PM10
+2018-04-30,Delhi,23.0,Poor,206,"PM10, PM2.5"
+2018-05-01,Delhi,22.0,Moderate,178,"NO2, OZONE, PM10"
+2018-05-02,Delhi,29.0,Moderate,153,"NO2, OZONE, PM10"
+2018-05-03,Delhi,28.0,Moderate,156,"PM10, PM2.5"
+2018-05-04,Delhi,29.0,Moderate,135,"CO, OZONE, PM10"
+2018-05-05,Delhi,30.0,Moderate,169,"OZONE, PM10"
+2018-05-06,Delhi,28.0,Poor,269,PM10
+2018-05-07,Delhi,29.0,Poor,205,"PM10, PM2.5"
+2018-05-08,Delhi,31.0,Poor,208,"PM10, PM2.5"
+2018-05-09,Delhi,26.0,Moderate,157,"OZONE, PM10, PM2.5"
+2018-05-10,Delhi,27.0,Moderate,190,"OZONE, PM2.5"
+2018-05-11,Delhi,19.0,Poor,256,"PM10, PM2.5"
+2018-05-12,Delhi,27.0,Very Poor,303,PM10
+2018-05-13,Delhi,10.0,Poor,215,"PM10, PM2.5"
+2018-05-14,Delhi,9.0,Moderate,125,"PM10, PM2.5"
+2018-05-15,Delhi,26.0,Moderate,157,"OZONE, PM10, PM2.5"
+2018-05-16,Delhi,30.0,Moderate,183,"PM10, PM2.5"
+2018-05-17,Delhi,14.0,Poor,243,"PM10, PM2.5"
+2018-05-18,Delhi,7.0,Poor,225,"PM10, PM2.5"
+2018-05-19,Delhi,5.0,Poor,242,"PM10, PM2.5"
+2018-05-20,Delhi,5.0,Moderate,199,"PM10, PM2.5"
+2018-05-21,Delhi,5.0,Moderate,183,"NO2, PM10, PM2.5"
+2018-05-22,Delhi,26.0,Poor,212,PM10
+2018-05-23,Delhi,15.0,Very Poor,302,PM10
+2018-05-24,Delhi,17.0,Poor,252,PM10
+2018-05-25,Delhi,17.0,Poor,252,"PM10, PM2.5"
+2018-05-26,Delhi,6.0,Poor,236,"OZONE, PM10, PM2.5"
+2018-05-27,Delhi,16.0,Poor,277,PM10
+2018-05-28,Delhi,19.0,Poor,276,"PM10, PM2.5"
+2018-05-29,Delhi,24.0,Poor,285,PM10
+2018-05-30,Delhi,18.0,Poor,281,PM10
+2018-05-31,Delhi,18.0,Poor,203,"PM10, PM2.5"
+2018-06-01,Delhi,21.0,Moderate,198,PM10
+2018-06-02,Delhi,19.0,Moderate,174,"OZONE, PM10, PM2.5"
+2018-06-03,Delhi,4.0,Moderate,174,"PM10, PM2.5"
+2018-06-04,Delhi,12.0,Moderate,181,"PM10, PM2.5"
+2018-06-05,Delhi,15.0,Moderate,171,"PM10, PM2.5"
+2018-06-06,Delhi,21.0,Moderate,136,PM10
+2018-06-07,Delhi,22.0,Moderate,147,"OZONE, PM10, PM2.5"
+2018-06-08,Delhi,20.0,Moderate,179,"PM10, PM2.5"
+2018-06-09,Delhi,6.0,Moderate,132,"PM10, PM2.5"
+2018-06-10,Delhi,23.0,Moderate,158,"OZONE, PM10, PM2.5"
+2018-06-11,Delhi,23.0,Moderate,177,"OZONE, PM10, PM2.5"
+2018-06-12,Delhi,20.0,Poor,296,PM10
+2018-06-13,Delhi,5.0,Severe,445,"PM10, PM2.5"
+2018-06-14,Delhi,10.0,Severe,431,"PM10, PM2.5"
+2018-06-15,Delhi,12.0,Severe,447,PM10
+2018-06-16,Delhi,18.0,Very Poor,369,PM10
+2018-06-17,Delhi,7.0,Poor,289,"PM10, PM2.5"
+2018-06-18,Delhi,13.0,Moderate,171,"OZONE, PM10, PM2.5"
+2018-06-19,Delhi,11.0,Moderate,121,"PM10, PM2.5"
+2018-06-20,Delhi,12.0,Moderate,160,"PM10, PM2.5"
+2018-06-21,Delhi,6.0,Poor,237,"PM10, PM2.5"
+2018-06-22,Delhi,30.0,Poor,236,PM10
+2018-06-23,Delhi,29.0,Poor,218,"OZONE, PM10"
+2018-06-24,Delhi,23.0,Moderate,183,PM10
+2018-06-25,Delhi,24.0,Moderate,192,"PM10, PM2.5"
+2018-06-26,Delhi,19.0,Moderate,110,"PM10, PM2.5"
+2018-06-27,Delhi,26.0,Satisfactory,93,"PM10, PM2.5"
+2018-06-28,Delhi,27.0,Satisfactory,76,"OZONE, PM10, PM2.5"
+2018-06-29,Delhi,19.0,Satisfactory,72,PM10
+2018-06-30,Delhi,28.0,Satisfactory,96,"PM10, PM2.5"
+2018-07-01,Delhi,29.0,Satisfactory,92,"PM10, PM2.5"
+2018-07-02,Delhi,22.0,Moderate,106,"PM10, PM2.5"
+2018-07-03,Delhi,22.0,Moderate,114,"OZONE, PM10, PM2.5"
+2018-07-04,Delhi,28.0,Moderate,137,"OZONE, PM10"
+2018-07-05,Delhi,28.0,Moderate,123,"CO, PM10, PM2.5"
+2018-07-06,Delhi,27.0,Moderate,146,"PM10, PM2.5"
+2018-07-07,Delhi,29.0,Moderate,150,"PM10, PM2.5"
+2018-07-08,Delhi,27.0,Moderate,179,"OZONE, PM10, PM2.5"
+2018-07-09,Delhi,32.0,Moderate,157,"OZONE, PM10, PM2.5"
+2018-07-10,Delhi,31.0,Moderate,134,"OZONE, PM10"
+2018-07-11,Delhi,34.0,Moderate,106,"OZONE, PM10"
+2018-07-12,Delhi,31.0,Moderate,143,OZONE
+2018-07-13,Delhi,25.0,Satisfactory,99,"CO, PM10"
+2018-07-14,Delhi,31.0,Satisfactory,76,"CO, PM10, PM2.5"
+2018-07-15,Delhi,31.0,Satisfactory,76,"CO, PM10, PM2.5"
+2018-07-16,Delhi,31.0,Satisfactory,87,"OZONE, PM10, PM2.5"
+2018-07-17,Delhi,26.0,Satisfactory,91,"PM10, PM2.5"
+2018-07-18,Delhi,32.0,Moderate,106,"OZONE, PM10"
+2018-07-19,Delhi,27.0,Satisfactory,88,"PM10, PM2.5"
+2018-07-20,Delhi,27.0,Satisfactory,80,"PM10, PM2.5"
+2018-07-21,Delhi,34.0,Moderate,111,"PM10, PM2.5"
+2018-07-22,Delhi,16.0,Satisfactory,61,"CO, NO2, PM2.5"
+2018-07-23,Delhi,33.0,Satisfactory,67,"CO, PM10, PM2.5"
+2018-07-24,Delhi,31.0,Satisfactory,90,"OZONE, PM10, PM2.5"
+2018-07-25,Delhi,32.0,Satisfactory,78,"PM10, PM2.5"
+2018-07-26,Delhi,32.0,Satisfactory,74,"CO, PM10, PM2.5"
+2018-07-27,Delhi,29.0,Satisfactory,54,"CO, PM2.5"
+2018-07-28,Delhi,30.0,Satisfactory,57,"PM10, PM2.5"
+2018-07-29,Delhi,27.0,Satisfactory,90,"PM10, PM2.5"
+2018-07-30,Delhi,27.0,Moderate,115,PM10
+2018-07-31,Delhi,30.0,Moderate,132,PM10
+2018-08-01,Delhi,31.0,Moderate,153,"PM10, PM2.5"
+2018-08-02,Delhi,33.0,Poor,235,"PM10, PM2.5"
+2018-08-03,Delhi,12.0,Poor,213,"PM10, PM2.5"
+2018-08-04,Delhi,34.0,Poor,216,PM10
+2018-08-05,Delhi,33.0,Poor,241,PM10
+2018-08-06,Delhi,10.0,Moderate,133,"CO, PM10, PM2.5"
+2018-08-07,Delhi,34.0,Moderate,113,"OZONE, PM10, PM2.5"
+2018-08-08,Delhi,33.0,Satisfactory,86,"OZONE, PM10"
+2018-08-09,Delhi,26.0,Satisfactory,88,PM10
+2018-08-10,Delhi,34.0,Moderate,102,PM10
+2018-08-11,Delhi,32.0,Satisfactory,96,"PM10, PM2.5"
+2018-08-12,Delhi,30.0,Satisfactory,83,PM10
+2018-08-13,Delhi,26.0,Satisfactory,94,PM10
+2018-08-14,Delhi,28.0,Moderate,116,"OZONE, PM10, PM2.5"
+2018-08-15,Delhi,31.0,Moderate,117,"PM10, PM2.5"
+2018-08-16,Delhi,31.0,Satisfactory,85,"CO, PM10, PM2.5"
+2018-08-17,Delhi,32.0,Satisfactory,83,"PM10, PM2.5"
+2018-08-18,Delhi,33.0,Satisfactory,79,PM10
+2018-08-19,Delhi,23.0,Satisfactory,89,"PM10, PM2.5"
+2018-08-20,Delhi,19.0,Moderate,136,PM2.5
+2018-08-21,Delhi,34.0,Satisfactory,87,"CO, PM10, PM2.5"
+2018-08-22,Delhi,24.0,Satisfactory,78,PM10
+2018-08-23,Delhi,33.0,Satisfactory,69,"CO, PM10, PM2.5"
+2018-08-24,Delhi,34.0,Satisfactory,80,"PM10, PM2.5"
+2018-08-25,Delhi,33.0,Satisfactory,89,"PM10, PM2.5"
+2018-08-26,Delhi,32.0,Satisfactory,78,PM10
+2018-08-27,Delhi,23.0,Satisfactory,62,"OZONE, PM10, PM2.5"
+2018-08-28,Delhi,32.0,Satisfactory,71,"PM10, PM2.5"
+2018-08-29,Delhi,29.0,Satisfactory,68,"CO, PM10, PM2.5"
+2018-08-30,Delhi,34.0,Satisfactory,78,"NO2, PM10"
+2018-08-31,Delhi,36.0,Moderate,127,"PM10, PM2.5"
+2018-09-01,Delhi,33.0,Moderate,114,"PM10, PM2.5"
+2018-09-02,Delhi,31.0,Moderate,106,"PM10, PM2.5"
+2018-09-03,Delhi,29.0,Satisfactory,73,"NO2, PM10, PM2.5"
+2018-09-04,Delhi,31.0,Moderate,112,"NO2, PM2.5"
+2018-09-05,Delhi,33.0,Satisfactory,90,"NO2, PM10, PM2.5"
+2018-09-06,Delhi,32.0,Moderate,137,"PM10, PM2.5"
+2018-09-07,Delhi,32.0,Satisfactory,91,"NO2, OZONE, PM2.5"
+2018-09-08,Delhi,30.0,Satisfactory,86,"NO2, PM10, PM2.5"
+2018-09-09,Delhi,29.0,Satisfactory,61,"CO, NO2, PM2.5"
+2018-09-10,Delhi,27.0,Satisfactory,84,"CO, OZONE, PM2.5"
+2018-09-11,Delhi,31.0,Satisfactory,79,"NO2, PM10, PM2.5"
+2018-09-12,Delhi,34.0,Satisfactory,90,PM10
+2018-09-13,Delhi,35.0,Moderate,103,PM10
+2018-09-14,Delhi,32.0,Moderate,102,PM10
+2018-09-15,Delhi,35.0,Moderate,118,PM10
+2018-09-16,Delhi,34.0,Moderate,121,PM10
+2018-09-17,Delhi,28.0,Moderate,135,"PM10, PM2.5"
+2018-09-18,Delhi,33.0,Moderate,150,"OZONE, PM10, PM2.5"
+2018-09-19,Delhi,33.0,Moderate,154,"OZONE, PM10"
+2018-09-20,Delhi,30.0,Moderate,164,"OZONE, PM10, PM2.5"
+2018-09-21,Delhi,33.0,Moderate,143,"PM10, PM2.5"
+2018-09-22,Delhi,32.0,Satisfactory,54,"CO, PM10, PM2.5"
+2018-09-23,Delhi,32.0,Satisfactory,62,"OZONE, PM10, PM2.5"
+2018-09-24,Delhi,31.0,Satisfactory,52,"CO, PM10, PM2.5"
+2018-09-25,Delhi,31.0,Satisfactory,55,"CO, PM10, PM2.5"
+2018-09-26,Delhi,31.0,Satisfactory,88,"PM10, PM2.5"
+2018-09-27,Delhi,32.0,Moderate,151,"PM10, PM2.5"
+2018-09-28,Delhi,33.0,Moderate,197,"PM10, PM2.5"
+2018-09-29,Delhi,7.0,Poor,219,"PM10, PM2.5"
+2018-09-30,Delhi,27.0,Moderate,158,"PM10, PM2.5"
+2018-10-01,Delhi,25.0,Moderate,148,"OZONE, PM10, PM2.5"
+2018-10-02,Delhi,26.0,Moderate,200,"PM10, PM2.5"
+2018-10-03,Delhi,29.0,Moderate,143,"PM10, PM2.5"
+2018-10-04,Delhi,35.0,Poor,201,"PM10, PM2.5"
+2018-10-05,Delhi,34.0,Poor,256,"PM10, PM2.5"
+2018-10-06,Delhi,35.0,Poor,209,"PM10, PM2.5"
+2018-10-07,Delhi,35.0,Moderate,181,"PM10, PM2.5"
+2018-10-08,Delhi,34.0,Poor,246,"PM10, PM2.5"
+2018-10-09,Delhi,34.0,Poor,251,"PM10, PM2.5"
+2018-10-10,Delhi,34.0,Poor,241,"PM10, PM2.5"
+2018-10-11,Delhi,32.0,Poor,202,"PM10, PM2.5"
+2018-10-12,Delhi,26.0,Moderate,154,"OZONE, PM10"
+2018-10-13,Delhi,29.0,Poor,262,"PM10, PM2.5"
+2018-10-14,Delhi,30.0,Poor,204,"PM10, PM2.5"
+2018-10-15,Delhi,31.0,Poor,246,"PM10, PM2.5"
+2018-10-16,Delhi,32.0,Poor,291,PM10
+2018-10-17,Delhi,30.0,Very Poor,313,"PM10, PM2.5"
+2018-10-18,Delhi,34.0,Poor,297,"PM10, PM2.5"
+2018-10-19,Delhi,32.0,Poor,276,PM10
+2018-10-20,Delhi,32.0,Very Poor,326,"PM10, PM2.5"
+2018-10-21,Delhi,32.0,Poor,292,"PM10, PM2.5"
+2018-10-22,Delhi,33.0,Poor,272,"PM10, PM2.5"
+2018-10-23,Delhi,29.0,Poor,254,"PM10, PM2.5"
+2018-10-24,Delhi,33.0,Very Poor,328,"PM10, PM2.5"
+2018-10-25,Delhi,32.0,Very Poor,331,"PM10, PM2.5"
+2018-10-26,Delhi,34.0,Very Poor,361,"PM10, PM2.5"
+2018-10-27,Delhi,32.0,Very Poor,350,"PM10, PM2.5"
+2018-10-28,Delhi,32.0,Very Poor,366,"PM10, PM2.5"
+2018-10-29,Delhi,33.0,Very Poor,367,"PM10, PM2.5"
+2018-10-30,Delhi,35.0,Severe,401,"PM10, PM2.5"
+2018-10-31,Delhi,34.0,Very Poor,358,"PM10, PM2.5"
+2018-11-01,Delhi,28.0,Very Poor,393,"PM10, PM2.5"
+2018-11-02,Delhi,33.0,Very Poor,370,"PM10, PM2.5"
+2018-11-03,Delhi,35.0,Very Poor,340,"PM10, PM2.5"
+2018-11-04,Delhi,30.0,Moderate,171,"OZONE, PM10, PM2.5"
+2018-11-05,Delhi,26.0,Severe,426,PM2.5
+2018-11-06,Delhi,34.0,Very Poor,338,"PM10, PM2.5"
+2018-11-07,Delhi,36.0,Poor,281,"PM10, PM2.5"
+2018-11-08,Delhi,32.0,Very Poor,390,PM2.5
+2018-11-09,Delhi,33.0,Severe,423,PM2.5
+2018-11-10,Delhi,35.0,Severe,401,PM2.5
+2018-11-11,Delhi,35.0,Severe,405,PM2.5
+2018-11-12,Delhi,33.0,Very Poor,399,"PM10, PM2.5"
+2018-11-13,Delhi,35.0,Severe,409,"PM10, PM2.5"
+2018-11-14,Delhi,35.0,Very Poor,312,PM2.5
+2018-11-15,Delhi,36.0,Poor,217,PM2.5
+2018-11-16,Delhi,37.0,Poor,285,PM2.5
+2018-11-17,Delhi,33.0,Poor,267,PM2.5
+2018-11-18,Delhi,34.0,Very Poor,311,"PM10, PM2.5"
+2018-11-19,Delhi,36.0,Very Poor,330,"PM10, PM2.5"
+2018-11-20,Delhi,29.0,Very Poor,373,"PM10, PM2.5"
+2018-11-21,Delhi,36.0,Very Poor,373,PM2.5
+2018-11-22,Delhi,36.0,Poor,273,"PM10, PM2.5"
+2018-11-23,Delhi,36.0,Very Poor,337,"PM10, PM2.5"
+2018-11-24,Delhi,37.0,Poor,249,PM2.5
+2018-11-25,Delhi,29.0,Poor,262,"PM10, PM2.5"
+2018-11-26,Delhi,36.0,Very Poor,336,"PM10, PM2.5"
+2018-11-27,Delhi,34.0,Very Poor,352,"PM10, PM2.5"
+2018-11-28,Delhi,37.0,Very Poor,316,"PM10, PM2.5"
+2018-11-29,Delhi,34.0,Very Poor,358,PM2.5
+2018-11-30,Delhi,29.0,Very Poor,352,PM2.5
+2018-12-01,Delhi,33.0,Very Poor,306,"PM10, PM2.5"
+2018-12-02,Delhi,30.0,Poor,294,"PM10, PM2.5"
+2018-12-03,Delhi,25.0,Very Poor,328,"PM10, PM2.5"
+2018-12-04,Delhi,36.0,Very Poor,356,"PM10, PM2.5"
+2018-12-05,Delhi,34.0,Very Poor,331,"PM10, PM2.5"
+2018-12-06,Delhi,32.0,Very Poor,349,"PM10, PM2.5"
+2018-12-07,Delhi,36.0,Very Poor,348,"PM10, PM2.5"
+2018-12-08,Delhi,30.0,Very Poor,347,"PM10, PM2.5"
+2018-12-09,Delhi,29.0,Very Poor,374,"PM10, PM2.5"
+2018-12-10,Delhi,30.0,Severe,403,"PM10, PM2.5"
+2018-12-11,Delhi,34.0,Severe,413,"PM10, PM2.5"
+2018-12-12,Delhi,36.0,Very Poor,392,PM2.5
+2018-12-13,Delhi,34.0,Moderate,194,PM2.5
+2018-12-14,Delhi,35.0,Poor,249,"PM10, PM2.5"
+2018-12-15,Delhi,37.0,Poor,261,PM2.5
+2018-12-16,Delhi,31.0,Poor,282,PM2.5
+2018-12-17,Delhi,31.0,Very Poor,337,PM2.5
+2018-12-18,Delhi,36.0,Very Poor,353,PM2.5
+2018-12-19,Delhi,33.0,Very Poor,347,PM2.5
+2018-12-20,Delhi,37.0,Very Poor,394,"PM10, PM2.5"
+2018-12-21,Delhi,36.0,Very Poor,386,PM2.5
+2018-12-22,Delhi,37.0,Severe,421,PM2.5
+2018-12-23,Delhi,37.0,Severe,450,PM2.5
+2018-12-24,Delhi,34.0,Severe,448,"PM10, PM2.5"
+2018-12-25,Delhi,35.0,Severe,409,PM2.5
+2018-12-26,Delhi,36.0,Very Poor,384,PM2.5
+2018-12-27,Delhi,36.0,Very Poor,399,PM2.5
+2018-12-28,Delhi,35.0,Very Poor,392,PM2.5
+2018-12-29,Delhi,36.0,Very Poor,385,PM2.5
+2018-12-30,Delhi,37.0,Severe,415,PM2.5
+2018-12-31,Delhi,35.0,Severe,420,PM2.5
+2019-01-01,Delhi,35.0,Very Poor,393,"PM10, PM2.5"
+2019-01-02,Delhi,30.0,Severe,430,PM2.5
+2019-01-03,Delhi,35.0,Severe,444,"PM10, PM2.5"
+2019-01-04,Delhi,35.0,Very Poor,386,PM2.5
+2019-01-05,Delhi,34.0,Severe,407,PM2.5
+2019-01-06,Delhi,33.0,Very Poor,336,PM2.5
+2019-01-07,Delhi,32.0,Very Poor,333,PM2.5
+2019-01-08,Delhi,33.0,Very Poor,320,PM2.5
+2019-01-09,Delhi,34.0,Poor,288,PM2.5
+2019-01-10,Delhi,34.0,Poor,292,"PM10, PM2.5"
+2019-01-11,Delhi,36.0,Very Poor,371,"PM10, PM2.5"
+2019-01-12,Delhi,34.0,Severe,423,"PM10, PM2.5"
+2019-01-13,Delhi,26.0,Severe,414,PM2.5
+2019-01-14,Delhi,33.0,Poor,247,"PM10, PM2.5"
+2019-01-15,Delhi,36.0,Poor,237,"PM10, PM2.5"
+2019-01-16,Delhi,33.0,Very Poor,371,"PM10, PM2.5"
+2019-01-17,Delhi,34.0,Severe,440,PM2.5
+2019-01-18,Delhi,29.0,Very Poor,397,PM2.5
+2019-01-19,Delhi,34.0,Very Poor,378,PM2.5
+2019-01-20,Delhi,37.0,Severe,404,PM2.5
+2019-01-21,Delhi,35.0,Very Poor,346,"PM10, PM2.5"
+2019-01-22,Delhi,34.0,Moderate,104,"CO, PM2.5"
+2019-01-23,Delhi,29.0,Poor,212,PM2.5
+2019-01-24,Delhi,34.0,Very Poor,311,PM2.5
+2019-01-25,Delhi,32.0,Moderate,151,"OZONE, PM2.5"
+2019-01-26,Delhi,35.0,Poor,233,PM2.5
+2019-01-27,Delhi,32.0,Poor,262,PM2.5
+2019-01-28,Delhi,29.0,Poor,267,PM2.5
+2019-01-29,Delhi,34.0,Poor,276,PM2.5
+2019-01-30,Delhi,35.0,Very Poor,327,PM2.5
+2019-01-31,Delhi,35.0,Very Poor,359,"PM10, PM2.5"
+2019-02-01,Delhi,36.0,Very Poor,306,PM2.5
+2019-02-02,Delhi,35.0,Very Poor,332,PM2.5
+2019-02-03,Delhi,35.0,Poor,289,PM2.5
+2019-02-04,Delhi,35.0,Poor,288,PM2.5
+2019-02-05,Delhi,33.0,Very Poor,382,PM2.5
+2019-02-06,Delhi,29.0,Very Poor,352,PM2.5
+2019-02-07,Delhi,35.0,Moderate,176,PM2.5
+2019-02-08,Delhi,34.0,Moderate,144,"PM10, PM2.5"
+2019-02-09,Delhi,34.0,Moderate,158,"PM10, PM2.5"
+2019-02-10,Delhi,29.0,Poor,276,"PM10, PM2.5"
+2019-02-11,Delhi,36.0,Very Poor,309,"PM10, PM2.5"
+2019-02-12,Delhi,35.0,Very Poor,342,"PM10, PM2.5"
+2019-02-13,Delhi,29.0,Very Poor,367,"PM10, PM2.5"
+2019-02-14,Delhi,34.0,Very Poor,340,PM2.5
+2019-02-15,Delhi,34.0,Poor,245,PM2.5
+2019-02-16,Delhi,34.0,Poor,276,PM2.5
+2019-02-17,Delhi,35.0,Poor,222,"PM10, PM2.5"
+2019-02-18,Delhi,27.0,Poor,255,"PM10, PM2.5"
+2019-02-19,Delhi,30.0,Poor,221,PM2.5
+2019-02-20,Delhi,30.0,Poor,271,PM2.5
+2019-02-21,Delhi,29.0,Moderate,144,"PM10, PM2.5"
+2019-02-22,Delhi,36.0,Moderate,186,"PM10, PM2.5"
+2019-02-23,Delhi,35.0,Moderate,113,"PM10, PM2.5"
+2019-02-24,Delhi,29.0,Moderate,190,PM2.5
+2019-02-25,Delhi,35.0,Poor,217,"PM10, PM2.5"
+2019-02-26,Delhi,12.0,Moderate,116,"PM10, PM2.5"
+2019-02-27,Delhi,36.0,Satisfactory,100,"OZONE, PM10, PM2.5"
+2019-02-28,Delhi,13.0,Moderate,170,"PM10, PM2.5"
+2019-03-01,Delhi,22.0,Poor,225,PM2.5
+2019-03-02,Delhi,28.0,Poor,217,PM2.5
+2019-03-03,Delhi,31.0,Moderate,117,PM2.5
+2019-03-04,Delhi,28.0,Poor,234,"PM10, PM2.5"
+2019-03-05,Delhi,25.0,Moderate,140,"PM10, PM2.5"
+2019-03-06,Delhi,24.0,Moderate,186,"PM10, PM2.5"
+2019-03-07,Delhi,33.0,Poor,217,"PM10, PM2.5"
+2019-03-08,Delhi,34.0,Moderate,197,"PM10, PM2.5"
+2019-03-09,Delhi,29.0,Moderate,187,"PM10, PM2.5"
+2019-03-10,Delhi,30.0,Moderate,160,"OZONE, PM10, PM2.5"
+2019-03-11,Delhi,31.0,Moderate,187,"PM10, PM2.5"
+2019-03-12,Delhi,36.0,Moderate,134,"PM10, PM2.5"
+2019-03-13,Delhi,36.0,Moderate,178,"PM10, PM2.5"
+2019-03-14,Delhi,36.0,Poor,266,"PM10, PM2.5"
+2019-03-15,Delhi,36.0,Moderate,154,"PM10, PM2.5"
+2019-03-16,Delhi,35.0,Moderate,139,"OZONE, PM2.5"
+2019-03-17,Delhi,35.0,Moderate,192,"PM10, PM2.5"
+2019-03-18,Delhi,36.0,Moderate,196,"PM10, PM2.5"
+2019-03-19,Delhi,34.0,Poor,216,"PM10, PM2.5"
+2019-03-20,Delhi,35.0,Poor,208,"PM10, PM2.5"
+2019-03-21,Delhi,27.0,Poor,242,"PM10, PM2.5"
+2019-03-22,Delhi,27.0,Moderate,114,"PM10, PM2.5"
+2019-03-23,Delhi,33.0,Moderate,132,"PM10, PM2.5"
+2019-03-24,Delhi,35.0,Moderate,121,"PM10, PM2.5"
+2019-03-25,Delhi,34.0,Moderate,139,"PM10, PM2.5"
+2019-03-26,Delhi,35.0,Moderate,159,"PM10, PM2.5"
+2019-03-27,Delhi,36.0,Moderate,171,"PM10, PM2.5"
+2019-03-28,Delhi,34.0,Poor,234,"PM10, PM2.5"
+2019-03-29,Delhi,31.0,Poor,232,"PM10, PM2.5"
+2019-03-30,Delhi,35.0,Poor,233,"PM10, PM2.5"
+2019-03-31,Delhi,35.0,Moderate,182,"PM10, PM2.5"
+2019-04-01,Delhi,34.0,Moderate,151,"PM10, PM2.5"
+2019-04-02,Delhi,35.0,Moderate,198,"OZONE, PM10, PM2.5"
+2019-04-03,Delhi,34.0,Moderate,187,"OZONE, PM10, PM2.5"
+2019-04-04,Delhi,33.0,Poor,254,"PM10, PM2.5"
+2019-04-05,Delhi,36.0,Poor,264,"PM10, PM2.5"
+2019-04-06,Delhi,34.0,Poor,266,"PM10, PM2.5"
+2019-04-07,Delhi,35.0,Very Poor,302,PM10
+2019-04-08,Delhi,34.0,Poor,264,"PM10, PM2.5"
+2019-04-09,Delhi,34.0,Poor,204,"OZONE, PM10, PM2.5"
+2019-04-10,Delhi,31.0,Poor,238,PM10
+2019-04-11,Delhi,34.0,Moderate,183,"PM10, PM2.5"
+2019-04-12,Delhi,30.0,Poor,212,"OZONE, PM10, PM2.5"
+2019-04-13,Delhi,28.0,Moderate,170,"PM10, PM2.5"
+2019-04-14,Delhi,29.0,Moderate,137,"PM10, PM2.5"
+2019-04-15,Delhi,33.0,Moderate,168,"PM10, PM2.5"
+2019-04-16,Delhi,35.0,Moderate,180,"PM10, PM2.5"
+2019-04-17,Delhi,30.0,Satisfactory,84,"OZONE, PM10"
+2019-04-18,Delhi,28.0,Moderate,114,OZONE
+2019-04-19,Delhi,32.0,Moderate,157,"OZONE, PM10, PM2.5"
+2019-04-20,Delhi,35.0,Moderate,198,"OZONE, PM10, PM2.5"
+2019-04-21,Delhi,33.0,Poor,203,"PM10, PM2.5"
+2019-04-22,Delhi,33.0,Poor,236,"PM10, PM2.5"
+2019-04-23,Delhi,30.0,Poor,247,PM10
+2019-04-24,Delhi,34.0,Poor,221,"OZONE, PM10, PM2.5"
+2019-04-25,Delhi,29.0,Poor,251,"PM10, PM2.5"
+2019-04-26,Delhi,31.0,Poor,215,"PM10, PM2.5"
+2019-04-27,Delhi,31.0,Poor,256,PM10
+2019-04-28,Delhi,31.0,Poor,264,"PM10, PM2.5"
+2019-04-29,Delhi,29.0,Poor,248,"PM10, PM2.5"
+2019-04-30,Delhi,26.0,Poor,250,"PM10, PM2.5"
+2019-05-01,Delhi,33.0,Poor,295,PM10
+2019-05-02,Delhi,31.0,Poor,257,"PM10, PM2.5"
+2019-05-03,Delhi,34.0,Moderate,183,"NO2, OZONE, PM2.5"
+2019-05-04,Delhi,35.0,Moderate,182,"NO2, PM10, PM2.5"
+2019-05-05,Delhi,13.0,Poor,227,"OZONE, PM10, PM2.5"
+2019-05-06,Delhi,13.0,Poor,249,"PM10, PM2.5"
+2019-05-07,Delhi,33.0,Poor,294,PM10
+2019-05-08,Delhi,33.0,Very Poor,357,PM10
+2019-05-09,Delhi,32.0,Very Poor,347,PM10
+2019-05-10,Delhi,35.0,Poor,277,"PM10, PM2.5"
+2019-05-11,Delhi,35.0,Poor,251,"PM10, PM2.5"
+2019-05-12,Delhi,35.0,Very Poor,334,"PM10, PM2.5"
+2019-05-13,Delhi,34.0,Very Poor,322,"PM10, PM2.5"
+2019-05-14,Delhi,35.0,Moderate,153,"OZONE, PM10, PM2.5"
+2019-05-15,Delhi,36.0,Moderate,186,"PM10, PM2.5"
+2019-05-16,Delhi,33.0,Moderate,187,"PM10, PM2.5"
+2019-05-17,Delhi,36.0,Poor,265,"PM10, PM2.5"
+2019-05-18,Delhi,33.0,Moderate,105,"OZONE, PM10, PM2.5"
+2019-05-19,Delhi,34.0,Moderate,185,"OZONE, PM2.5"
+2019-05-20,Delhi,33.0,Poor,206,"PM10, PM2.5"
+2019-05-21,Delhi,34.0,Moderate,190,"OZONE, PM10, PM2.5"
+2019-05-22,Delhi,34.0,Moderate,158,"PM10, PM2.5"
+2019-05-23,Delhi,35.0,Poor,223,PM10
+2019-05-24,Delhi,36.0,Moderate,123,"PM10, PM2.5"
+2019-05-25,Delhi,36.0,Moderate,121,"OZONE, PM10, PM2.5"
+2019-05-26,Delhi,35.0,Moderate,142,"OZONE, PM10"
+2019-05-27,Delhi,33.0,Moderate,160,"OZONE, PM10, PM2.5"
+2019-05-28,Delhi,34.0,Moderate,177,"OZONE, PM10, PM2.5"
+2019-05-29,Delhi,32.0,Moderate,185,"OZONE, PM10, PM2.5"
+2019-05-30,Delhi,31.0,Poor,218,"NO2, PM10, PM2.5"
+2019-05-31,Delhi,33.0,Poor,280,PM10
+2019-06-01,Delhi,35.0,Poor,264,"PM10, PM2.5"
+2019-06-02,Delhi,35.0,Poor,201,"OZONE, PM10, PM2.5"
+2019-06-03,Delhi,35.0,Poor,261,PM10
+2019-06-04,Delhi,33.0,Moderate,169,"OZONE, PM10, PM2.5"
+2019-06-05,Delhi,35.0,Moderate,192,"OZONE, PM2.5"
+2019-06-06,Delhi,35.0,Poor,206,"OZONE, PM10, PM2.5"
+2019-06-07,Delhi,34.0,Moderate,173,"OZONE, PM10"
+2019-06-08,Delhi,34.0,Moderate,181,"OZONE, PM10"
+2019-06-09,Delhi,33.0,Poor,239,"PM10, PM2.5"
+2019-06-10,Delhi,25.0,Poor,207,"PM10, PM2.5"
+2019-06-11,Delhi,9.0,Poor,300,"PM10, PM2.5"
+2019-06-12,Delhi,30.0,Poor,219,"OZONE, PM10, PM2.5"
+2019-06-13,Delhi,35.0,Moderate,175,"PM10, PM2.5"
+2019-06-14,Delhi,35.0,Moderate,171,"OZONE, PM10, PM2.5"
+2019-06-15,Delhi,34.0,Poor,224,"PM10, PM2.5"
+2019-06-16,Delhi,35.0,Moderate,178,PM10
+2019-06-17,Delhi,34.0,Moderate,123,"PM10, PM2.5"
+2019-06-18,Delhi,33.0,Satisfactory,97,"OZONE, PM10, PM2.5"
+2019-06-19,Delhi,33.0,Moderate,199,"OZONE, PM10, PM2.5"
+2019-06-20,Delhi,33.0,Moderate,141,"OZONE, PM10"
+2019-06-21,Delhi,35.0,Moderate,177,"OZONE, PM10, PM2.5"
+2019-06-22,Delhi,34.0,Moderate,189,"OZONE, PM10"
+2019-06-23,Delhi,32.0,Moderate,148,"OZONE, PM10, PM2.5"
+2019-06-24,Delhi,31.0,Moderate,109,"OZONE, PM10, PM2.5"
+2019-06-25,Delhi,36.0,Moderate,133,"OZONE, PM2.5"
+2019-06-26,Delhi,34.0,Moderate,162,"PM10, PM2.5"
+2019-06-27,Delhi,36.0,Moderate,184,"OZONE, PM10, PM2.5"
+2019-06-28,Delhi,37.0,Moderate,191,"PM10, PM2.5"
+2019-06-29,Delhi,35.0,Poor,231,PM10
+2019-06-30,Delhi,34.0,Poor,237,"PM10, PM2.5"
+2019-07-01,Delhi,12.0,Moderate,183,"OZONE, PM10, PM2.5"
+2019-07-02,Delhi,13.0,Poor,218,"OZONE, PM10, PM2.5"
+2019-07-03,Delhi,35.0,Moderate,136,"OZONE, PM10, PM2.5"
+2019-07-04,Delhi,35.0,Moderate,103,"OZONE, PM10, PM2.5"
+2019-07-05,Delhi,28.0,Moderate,106,"PM10, PM2.5"
+2019-07-06,Delhi,34.0,Satisfactory,88,"OZONE, PM10"
+2019-07-07,Delhi,34.0,Satisfactory,91,"OZONE, PM10, PM2.5"
+2019-07-08,Delhi,28.0,Moderate,127,"OZONE, PM10"
+2019-07-09,Delhi,35.0,Moderate,126,"OZONE, PM10"
+2019-07-10,Delhi,36.0,Moderate,148,PM10
+2019-07-11,Delhi,34.0,Very Poor,317,PM10
+2019-07-12,Delhi,37.0,Poor,272,PM10
+2019-07-13,Delhi,34.0,Poor,275,PM10
+2019-07-14,Delhi,37.0,Poor,235,PM10
+2019-07-15,Delhi,34.0,Moderate,168,"PM10, PM2.5"
+2019-07-16,Delhi,35.0,Satisfactory,93,"CO, PM10, PM2.5"
+2019-07-17,Delhi,35.0,Satisfactory,73,"CO, OZONE, PM10"
+2019-07-18,Delhi,35.0,Satisfactory,85,"CO, OZONE, PM2.5"
+2019-07-19,Delhi,35.0,Moderate,145,"OZONE, PM10"
+2019-07-20,Delhi,32.0,Moderate,124,"PM10, PM2.5"
+2019-07-21,Delhi,32.0,Moderate,108,"PM10, PM2.5"
+2019-07-22,Delhi,30.0,Moderate,112,"PM10, PM2.5"
+2019-07-23,Delhi,34.0,Moderate,148,"PM10, PM2.5"
+2019-07-24,Delhi,36.0,Moderate,164,"PM10, PM2.5"
+2019-07-25,Delhi,30.0,Satisfactory,78,"PM10, PM2.5"
+2019-07-26,Delhi,35.0,Satisfactory,81,"CO, NO2, PM10"
+2019-07-27,Delhi,33.0,Satisfactory,61,"CO, OZONE, PM10"
+2019-07-28,Delhi,33.0,Satisfactory,64,"CO, OZONE, PM10"
+2019-07-29,Delhi,33.0,Satisfactory,65,"CO, OZONE, PM10"
+2019-07-30,Delhi,34.0,Satisfactory,80,PM10
+2019-07-31,Delhi,37.0,Satisfactory,80,"CO, PM10, PM2.5"
+2019-08-01,Delhi,36.0,Satisfactory,89,"OZONE, PM10, PM2.5"
+2019-08-02,Delhi,37.0,Satisfactory,84,"CO, PM10"
+2019-08-03,Delhi,36.0,Satisfactory,89,"OZONE, PM10, PM2.5"
+2019-08-04,Delhi,37.0,Satisfactory,87,"PM10, PM2.5"
+2019-08-05,Delhi,33.0,Moderate,105,"PM10, PM2.5"
+2019-08-06,Delhi,36.0,Satisfactory,76,"CO, PM10, PM2.5"
+2019-08-07,Delhi,31.0,Satisfactory,75,"CO, PM10"
+2019-08-08,Delhi,34.0,Satisfactory,79,"OZONE, PM10"
+2019-08-09,Delhi,28.0,Satisfactory,75,"PM10, PM2.5"
+2019-08-10,Delhi,34.0,Satisfactory,59,"CO, OZONE, PM10"
+2019-08-11,Delhi,35.0,Satisfactory,68,"CO, NO2, PM10"
+2019-08-12,Delhi,32.0,Satisfactory,57,"CO, NO2"
+2019-08-13,Delhi,29.0,Satisfactory,69,"CO, PM10"
+2019-08-14,Delhi,33.0,Satisfactory,63,"CO, OZONE, PM10"
+2019-08-15,Delhi,36.0,Satisfactory,75,"CO, PM10, PM2.5"
+2019-08-16,Delhi,34.0,Satisfactory,53,"CO, NO2"
+2019-08-17,Delhi,32.0,Good,49,"CO, NO2"
+2019-08-18,Delhi,34.0,Good,49,"CO, NO2"
+2019-08-19,Delhi,34.0,Satisfactory,81,"CO, PM10, PM2.5"
+2019-08-20,Delhi,34.0,Satisfactory,97,"PM10, PM2.5"
+2019-08-21,Delhi,35.0,Moderate,109,"PM10, PM2.5"
+2019-08-22,Delhi,36.0,Moderate,123,"NO2, PM10, PM2.5"
+2019-08-23,Delhi,33.0,Moderate,129,"NO2, PM10"
+2019-08-24,Delhi,33.0,Moderate,147,"PM10, PM2.5"
+2019-08-25,Delhi,35.0,Satisfactory,91,"NO2, PM10, PM2.5"
+2019-08-26,Delhi,33.0,Satisfactory,66,"CO, NO2, PM10"
+2019-08-27,Delhi,10.0,Moderate,117,"OZONE, PM10, PM2.5"
+2019-08-28,Delhi,32.0,Moderate,105,"PM10, PM2.5"
+2019-08-29,Delhi,34.0,Satisfactory,91,"OZONE, PM10"
+2019-08-30,Delhi,36.0,Moderate,101,"OZONE, PM10, PM2.5"
+2019-08-31,Delhi,32.0,Moderate,114,"PM10, PM2.5"
+2019-09-01,Delhi,32.0,Moderate,108,"PM10, PM2.5"
+2019-09-02,Delhi,34.0,Satisfactory,96,"OZONE, PM10"
+2019-09-03,Delhi,32.0,Moderate,141,"PM10, PM2.5"
+2019-09-04,Delhi,33.0,Moderate,173,"PM10, PM2.5"
+2019-09-05,Delhi,32.0,Satisfactory,95,"PM10, PM2.5"
+2019-09-06,Delhi,36.0,Satisfactory,90,PM10
+2019-09-07,Delhi,33.0,Satisfactory,82,"NO2, PM10, PM2.5"
+2019-09-08,Delhi,36.0,Satisfactory,77,"NO2, OZONE, PM10"
+2019-09-09,Delhi,34.0,Moderate,108,"PM10, PM2.5"
+2019-09-10,Delhi,37.0,Moderate,137,"OZONE, PM10, PM2.5"
+2019-09-11,Delhi,35.0,Moderate,168,"OZONE, PM10, PM2.5"
+2019-09-12,Delhi,36.0,Moderate,151,"PM10, PM2.5"
+2019-09-13,Delhi,34.0,Satisfactory,86,"NO2, PM10"
+2019-09-14,Delhi,34.0,Satisfactory,72,PM10
+2019-09-15,Delhi,32.0,Satisfactory,72,"NO2, PM10, PM2.5"
+2019-09-16,Delhi,31.0,Moderate,105,"OZONE, PM10, PM2.5"
+2019-09-17,Delhi,34.0,Moderate,135,"OZONE, PM10, PM2.5"
+2019-09-18,Delhi,31.0,Moderate,110,"OZONE, PM10"
+2019-09-19,Delhi,32.0,Satisfactory,66,PM10
+2019-09-20,Delhi,34.0,Satisfactory,90,"OZONE, PM10, PM2.5"
+2019-09-21,Delhi,34.0,Moderate,114,"OZONE, PM10"
+2019-09-22,Delhi,12.0,Satisfactory,67,"CO, NO2, PM10"
+2019-09-23,Delhi,29.0,Satisfactory,83,"NO2, OZONE, PM10"
+2019-09-24,Delhi,35.0,Satisfactory,94,"OZONE, PM10"
+2019-09-25,Delhi,34.0,Satisfactory,90,"OZONE, PM10"
+2019-09-26,Delhi,33.0,Satisfactory,74,"OZONE, PM10"
+2019-09-27,Delhi,33.0,Satisfactory,63,"CO, NO2, PM10"
+2019-09-28,Delhi,35.0,Satisfactory,67,PM10
+2019-09-29,Delhi,33.0,Satisfactory,60,"CO, NO2, PM10"
+2019-09-30,Delhi,36.0,Satisfactory,68,"CO, OZONE, PM10"
+2019-10-01,Delhi,35.0,Satisfactory,93,PM10
+2019-10-02,Delhi,12.0,Satisfactory,90,"CO, OZONE, PM10"
+2019-10-03,Delhi,33.0,Moderate,136,"OZONE, PM10"
+2019-10-04,Delhi,31.0,Satisfactory,100,PM10
+2019-10-05,Delhi,36.0,Satisfactory,98,"CO, PM10"
+2019-10-06,Delhi,36.0,Moderate,127,"OZONE, PM10"
+2019-10-07,Delhi,36.0,Moderate,130,"PM10, PM2.5"
+2019-10-08,Delhi,36.0,Moderate,112,"OZONE, PM10, PM2.5"
+2019-10-09,Delhi,35.0,Moderate,173,"OZONE, PM10"
+2019-10-10,Delhi,33.0,Poor,211,"PM10, PM2.5"
+2019-10-11,Delhi,26.0,Poor,216,"PM10, PM2.5"
+2019-10-12,Delhi,36.0,Poor,222,"PM10, PM2.5"
+2019-10-13,Delhi,36.0,Poor,270,PM2.5
+2019-10-14,Delhi,36.0,Poor,252,"PM10, PM2.5"
+2019-10-15,Delhi,36.0,Poor,270,"PM10, PM2.5"
+2019-10-16,Delhi,34.0,Very Poor,304,"PM10, PM2.5"
+2019-10-17,Delhi,35.0,Poor,284,PM2.5
+2019-10-18,Delhi,31.0,Poor,248,"PM10, PM2.5"
+2019-10-19,Delhi,33.0,Moderate,161,"OZONE, PM10"
+2019-10-20,Delhi,33.0,Poor,238,"PM10, PM2.5"
+2019-10-21,Delhi,33.0,Poor,249,"PM10, PM2.5"
+2019-10-22,Delhi,35.0,Poor,207,"PM10, PM2.5"
+2019-10-23,Delhi,32.0,Poor,242,"PM10, PM2.5"
+2019-10-24,Delhi,35.0,Very Poor,311,"PM10, PM2.5"
+2019-10-25,Delhi,33.0,Poor,284,"PM10, PM2.5"
+2019-10-26,Delhi,33.0,Poor,287,"PM10, PM2.5"
+2019-10-27,Delhi,36.0,Very Poor,337,"PM10, PM2.5"
+2019-10-28,Delhi,36.0,Very Poor,368,"PM10, PM2.5"
+2019-10-29,Delhi,34.0,Very Poor,400,"PM10, PM2.5"
+2019-10-30,Delhi,35.0,Severe,419,PM2.5
+2019-10-31,Delhi,34.0,Severe,410,PM2.5
+2019-11-01,Delhi,32.0,Severe,484,PM2.5
+2019-11-02,Delhi,35.0,Very Poor,399,"PM10, PM2.5"
+2019-11-03,Delhi,32.0,Severe,494,PM2.5
+2019-11-04,Delhi,34.0,Severe,407,PM2.5
+2019-11-05,Delhi,36.0,Very Poor,324,PM2.5
+2019-11-06,Delhi,35.0,Poor,214,"PM10, PM2.5"
+2019-11-07,Delhi,33.0,Very Poor,309,PM2.5
+2019-11-08,Delhi,35.0,Very Poor,330,PM2.5
+2019-11-09,Delhi,36.0,Poor,283,PM2.5
+2019-11-10,Delhi,33.0,Very Poor,321,PM2.5
+2019-11-11,Delhi,32.0,Very Poor,360,PM2.5
+2019-11-12,Delhi,35.0,Severe,425,PM2.5
+2019-11-13,Delhi,33.0,Severe,456,PM2.5
+2019-11-14,Delhi,34.0,Severe,463,PM2.5
+2019-11-15,Delhi,28.0,Severe,458,PM2.5
+2019-11-16,Delhi,35.0,Very Poor,357,PM2.5
+2019-11-17,Delhi,34.0,Poor,215,PM2.5
+2019-11-18,Delhi,33.0,Poor,214,PM2.5
+2019-11-19,Delhi,33.0,Poor,242,PM2.5
+2019-11-20,Delhi,31.0,Very Poor,301,PM2.5
+2019-11-21,Delhi,35.0,Very Poor,366,"PM10, PM2.5"
+2019-11-22,Delhi,35.0,Very Poor,360,PM2.5
+2019-11-23,Delhi,33.0,Very Poor,312,PM2.5
+2019-11-24,Delhi,32.0,Poor,234,PM2.5
+2019-11-25,Delhi,36.0,Poor,252,PM2.5
+2019-11-26,Delhi,32.0,Poor,270,PM2.5
+2019-11-27,Delhi,31.0,Moderate,134,"NO2, PM10, PM2.5"
+2019-11-28,Delhi,32.0,Moderate,106,"NO2, PM2.5"
+2019-11-29,Delhi,33.0,Satisfactory,84,"NO2, PM10, PM2.5"
+2019-11-30,Delhi,35.0,Moderate,193,PM2.5
+2019-12-01,Delhi,35.0,Poor,250,PM2.5
+2019-12-02,Delhi,34.0,Poor,279,PM2.5
+2019-12-03,Delhi,33.0,Poor,282,PM2.5
+2019-12-04,Delhi,35.0,Poor,296,PM2.5
+2019-12-05,Delhi,35.0,Very Poor,382,PM2.5
+2019-12-06,Delhi,35.0,Severe,404,PM2.5
+2019-12-07,Delhi,32.0,Very Poor,371,PM2.5
+2019-12-08,Delhi,31.0,Very Poor,391,PM2.5
+2019-12-09,Delhi,31.0,Very Poor,343,PM2.5
+2019-12-10,Delhi,35.0,Very Poor,369,PM2.5
+2019-12-11,Delhi,34.0,Severe,408,PM2.5
+2019-12-12,Delhi,35.0,Severe,430,PM2.5
+2019-12-13,Delhi,30.0,Poor,240,PM2.5
+2019-12-14,Delhi,31.0,Moderate,163,PM2.5
+2019-12-15,Delhi,34.0,Poor,213,PM2.5
+2019-12-16,Delhi,33.0,Moderate,186,PM2.5
+2019-12-17,Delhi,34.0,Moderate,168,PM2.5
+2019-12-18,Delhi,30.0,Poor,292,PM2.5
+2019-12-19,Delhi,35.0,Very Poor,362,PM2.5
+2019-12-20,Delhi,35.0,Severe,432,PM2.5
+2019-12-21,Delhi,34.0,Severe,418,PM2.5
+2019-12-22,Delhi,33.0,Very Poor,322,PM2.5
+2019-12-23,Delhi,31.0,Very Poor,327,PM2.5
+2019-12-24,Delhi,33.0,Very Poor,383,"PM10, PM2.5"
+2019-12-25,Delhi,34.0,Very Poor,350,PM2.5
+2019-12-26,Delhi,35.0,Very Poor,349,PM2.5
+2019-12-27,Delhi,33.0,Very Poor,373,PM2.5
+2019-12-28,Delhi,33.0,Severe,409,PM2.5
+2019-12-29,Delhi,34.0,Severe,431,"PM10, PM2.5"
+2019-12-30,Delhi,31.0,Severe,446,PM2.5
+2019-12-31,Delhi,33.0,Very Poor,387,PM2.5
+2020-01-01,Delhi,32.0,Severe,437,PM2.5
+2020-01-02,Delhi,32.0,Severe,417,PM2.5
+2020-01-03,Delhi,35.0,Very Poor,352,PM2.5
+2020-01-04,Delhi,33.0,Very Poor,334,PM2.5
+2020-01-05,Delhi,33.0,Very Poor,330,PM2.5
+2020-01-06,Delhi,31.0,Very Poor,325,PM2.5
+2020-01-07,Delhi,31.0,Poor,254,PM2.5
+2020-01-08,Delhi,33.0,Poor,266,PM2.5
+2020-01-09,Delhi,34.0,Poor,203,PM2.5
+2020-01-10,Delhi,34.0,Poor,255,PM2.5
+2020-01-11,Delhi,32.0,Poor,288,PM2.5
+2020-01-12,Delhi,27.0,Very Poor,348,PM2.5
+2020-01-13,Delhi,35.0,Very Poor,366,PM2.5
+2020-01-14,Delhi,35.0,Poor,283,PM2.5
+2020-01-15,Delhi,34.0,Poor,218,PM2.5
+2020-01-16,Delhi,33.0,Poor,281,PM2.5
+2020-01-17,Delhi,30.0,Poor,265,PM2.5
+2020-01-18,Delhi,34.0,Poor,243,PM2.5
+2020-01-19,Delhi,33.0,Poor,277,PM2.5
+2020-01-20,Delhi,34.0,Poor,269,PM2.5
+2020-01-21,Delhi,34.0,Very Poor,364,PM2.5
+2020-01-22,Delhi,35.0,Very Poor,370,PM2.5
+2020-01-23,Delhi,34.0,Poor,211,PM2.5
+2020-01-24,Delhi,32.0,Moderate,151,PM2.5
+2020-01-25,Delhi,31.0,Poor,250,PM2.5
+2020-01-26,Delhi,35.0,Very Poor,325,PM2.5
+2020-01-27,Delhi,34.0,Very Poor,345,PM2.5
+2020-01-28,Delhi,35.0,Poor,243,PM2.5
+2020-01-29,Delhi,33.0,Moderate,194,PM2.5
+2020-01-30,Delhi,33.0,Poor,202,"PM10, PM2.5"
+2020-01-31,Delhi,35.0,Moderate,190,PM2.5
+2020-02-01,Delhi,36.0,Poor,232,PM2.5
+2020-02-02,Delhi,34.0,Poor,244,PM2.5
+2020-02-03,Delhi,33.0,Poor,270,"PM10, PM2.5"
+2020-02-04,Delhi,35.0,Very Poor,310,"PM10, PM2.5"
+2020-02-05,Delhi,35.0,Very Poor,312,PM2.5
+2020-02-06,Delhi,35.0,Poor,231,PM2.5
+2020-02-07,Delhi,34.0,Poor,295,PM2.5
+2020-02-08,Delhi,34.0,Poor,289,PM2.5
+2020-02-09,Delhi,34.0,Poor,285,PM2.5
+2020-02-10,Delhi,33.0,Very Poor,309,"PM10, PM2.5"
+2020-02-11,Delhi,34.0,Very Poor,323,PM2.5
+2020-02-12,Delhi,34.0,Very Poor,320,PM2.5
+2020-02-13,Delhi,35.0,Poor,241,PM2.5
+2020-02-14,Delhi,36.0,Moderate,173,"PM10, PM2.5"
+2020-02-15,Delhi,33.0,Moderate,167,PM2.5
+2020-02-16,Delhi,35.0,Poor,247,PM2.5
+2020-02-17,Delhi,33.0,Poor,293,"PM10, PM2.5"
+2020-02-18,Delhi,35.0,Poor,252,"PM10, PM2.5"
+2020-02-19,Delhi,34.0,Poor,272,"PM10, PM2.5"
+2020-02-20,Delhi,36.0,Poor,230,"PM10, PM2.5"
+2020-02-21,Delhi,34.0,Moderate,144,PM2.5
+2020-02-22,Delhi,30.0,Satisfactory,100,"NO2, O3, PM10"
+2020-02-23,Delhi,32.0,Poor,225,PM2.5
+2020-02-24,Delhi,31.0,Moderate,142,"O3, PM10, PM2.5"
+2020-02-25,Delhi,32.0,Poor,249,PM2.5
+2020-02-26,Delhi,35.0,Poor,274,"PM10, PM2.5"
+2020-02-27,Delhi,33.0,Poor,233,PM2.5
+2020-02-28,Delhi,33.0,Moderate,198,PM2.5
+2020-02-29,Delhi,33.0,Moderate,135,PM2.5
+2020-03-01,Delhi,32.0,Satisfactory,90,"CO, O3, PM10"
+2020-03-02,Delhi,33.0,Poor,205,"PM10, PM2.5"
+2020-03-03,Delhi,32.0,Poor,205,"PM10, PM2.5"
+2020-03-04,Delhi,32.0,Moderate,195,"PM10, PM2.5"
+2020-03-05,Delhi,32.0,Satisfactory,79,"O3, PM10, PM2.5"
+2020-03-06,Delhi,33.0,Satisfactory,64,"NO2, O3, PM10"
+2020-03-07,Delhi,33.0,Satisfactory,67,"CO, NO2, O3"
+2020-03-08,Delhi,34.0,Moderate,164,PM2.5
+2020-03-09,Delhi,34.0,Moderate,123,"O3, PM10, PM2.5"
+2020-03-10,Delhi,35.0,Moderate,188,"PM10, PM2.5"
+2020-03-11,Delhi,32.0,Moderate,116,"O3, PM10, PM2.5"
+2020-03-12,Delhi,36.0,Moderate,127,"PM10, PM2.5"
+2020-03-13,Delhi,36.0,Moderate,173,"PM10, PM2.5"
+2020-03-14,Delhi,34.0,Moderate,108,"O3, PM10, PM2.5"
+2020-03-15,Delhi,34.0,Moderate,131,"NO2, O3, PM2.5"
+2020-03-16,Delhi,29.0,Moderate,139,"O3, PM10, PM2.5"
+2020-03-17,Delhi,32.0,Moderate,157,"O3, PM10, PM2.5"
+2020-03-18,Delhi,32.0,Moderate,151,"O3, PM10, PM2.5"
+2020-03-19,Delhi,32.0,Moderate,186,"PM10, PM2.5"
+2020-03-20,Delhi,31.0,Moderate,192,"O3, PM10, PM2.5"
+2020-03-21,Delhi,34.0,Moderate,186,"PM10, PM2.5"
+2020-03-22,Delhi,34.0,Moderate,191,PM2.5
+2020-03-23,Delhi,34.0,Moderate,124,"O3, PM2.5"
+2020-03-24,Delhi,34.0,Moderate,122,PM2.5
+2020-03-25,Delhi,29.0,Satisfactory,77,"O3, PM10, PM2.5"
+2020-03-26,Delhi,27.0,Satisfactory,92,"O3, PM2.5"
+2020-03-27,Delhi,32.0,Satisfactory,69,"O3, PM2.5"
+2020-03-28,Delhi,27.0,Good,45,"CO, NO2, O3"
+2020-03-29,Delhi,28.0,Satisfactory,62,"NO2, PM10, PM2.5"
+2020-03-30,Delhi,31.0,Satisfactory,71,"O3, PM2.5"
+2020-03-31,Delhi,31.0,Satisfactory,76,"O3, PM10, PM2.5"
+2020-04-01,Delhi,31.0,Satisfactory,73,"CO, PM10, PM2.5"
+2020-04-02,Delhi,30.0,Satisfactory,69,"NO2, PM10, PM2.5"
+2020-04-03,Delhi,31.0,Satisfactory,79,"O3, PM10, PM2.5"
+2020-04-04,Delhi,31.0,Satisfactory,87,"O3, PM10, PM2.5"
+2020-04-05,Delhi,30.0,Moderate,102,"O3, PM2.5"
+2020-04-06,Delhi,32.0,Moderate,142,PM2.5
+2020-04-07,Delhi,29.0,Satisfactory,90,"NO2, PM10"
+2020-04-08,Delhi,31.0,Satisfactory,83,"O3, PM10"
+2020-04-09,Delhi,33.0,Satisfactory,86,"O3, PM10, PM2.5"
+2020-04-10,Delhi,32.0,Moderate,118,"O3, PM2.5"
+2020-04-11,Delhi,22.0,Moderate,124,"O3, PM2.5"
+2020-04-12,Delhi,32.0,Satisfactory,94,"O3, PM10, PM2.5"
+2020-04-13,Delhi,32.0,Moderate,126,"PM10, PM2.5"
+2020-04-14,Delhi,31.0,Moderate,130,"O3, PM10, PM2.5"
+2020-04-15,Delhi,27.0,Moderate,155,"CO, PM10"
+2020-04-16,Delhi,28.0,Moderate,180,"PM10, PM2.5"
+2020-04-17,Delhi,29.0,Moderate,105,"O3, PM10"
+2020-04-18,Delhi,31.0,Satisfactory,98,"CO, O3, PM2.5"
+2020-04-19,Delhi,27.0,Satisfactory,85,"O3, PM10, PM2.5"
+2020-04-20,Delhi,28.0,Moderate,119,PM2.5
+2020-04-21,Delhi,28.0,Satisfactory,87,"NO2, O3, PM10"
+2020-04-22,Delhi,30.0,Moderate,131,"O3, PM2.5"
+2020-04-23,Delhi,34.0,Moderate,122,"PM10, PM2.5"
+2020-04-24,Delhi,32.0,Moderate,139,"O3, PM2.5"
+2020-04-25,Delhi,30.0,Satisfactory,98,"O3, PM10"
+2020-04-26,Delhi,31.0,Moderate,120,"O3, PM10"
+2020-04-27,Delhi,32.0,Satisfactory,89,O3
+2020-04-28,Delhi,30.0,Satisfactory,100,O3
+2020-04-29,Delhi,28.0,Moderate,125,O3
+2020-04-30,Delhi,28.0,Moderate,138,O3
+2020-05-01,Delhi,31.0,Moderate,146,"O3, PM2.5"
+2020-05-02,Delhi,31.0,Moderate,112,O3
+2020-05-03,Delhi,29.0,Satisfactory,93,"O3, PM10"
+2020-05-04,Delhi,26.0,Satisfactory,94,"O3, PM10"
+2020-05-05,Delhi,28.0,Moderate,119,"O3, PM10"
+2020-05-06,Delhi,30.0,Moderate,139,"O3, PM10"
+2020-05-07,Delhi,29.0,Moderate,127,"O3, PM10"
+2020-05-08,Delhi,28.0,Moderate,134,O3
+2020-05-09,Delhi,31.0,Moderate,144,O3
+2020-05-10,Delhi,30.0,Moderate,121,"O3, PM10, PM2.5"
+2020-05-11,Delhi,29.0,Moderate,116,O3
+2020-05-12,Delhi,32.0,Moderate,125,O3
+2020-05-13,Delhi,29.0,Moderate,150,"O3, PM2.5"
+2020-05-14,Delhi,33.0,Moderate,149,"O3, PM2.5"
+2020-05-15,Delhi,30.0,Moderate,123,O3
+2020-05-16,Delhi,32.0,Moderate,179,"O3, PM2.5"
+2020-05-17,Delhi,33.0,Moderate,200,"O3, PM2.5"
+2020-05-18,Delhi,33.0,Poor,206,"O3, PM2.5"
+2020-05-19,Delhi,32.0,Poor,212,"O3, PM10, PM2.5"
+2020-05-20,Delhi,30.0,Moderate,166,"O3, PM10, PM2.5"
+2020-05-21,Delhi,32.0,Moderate,147,"O3, PM10, PM2.5"
+2020-05-22,Delhi,30.0,Moderate,199,PM10
+2020-05-23,Delhi,29.0,Moderate,181,PM10
+2020-05-24,Delhi,32.0,Moderate,172,"PM10, PM2.5"
+2020-05-25,Delhi,33.0,Moderate,153,"O3, PM10, PM2.5"
+2020-05-26,Delhi,29.0,Moderate,154,"PM10, PM2.5"
+2020-05-27,Delhi,35.0,Moderate,156,"O3, PM10"
+2020-05-28,Delhi,35.0,Moderate,188,"O3, PM10"
+2020-05-29,Delhi,33.0,Moderate,101,"CO, O3, PM10"
+2020-05-30,Delhi,32.0,Satisfactory,78,"CO, O3"
+2020-05-31,Delhi,28.0,Satisfactory,72,"CO, O3"
+2020-06-01,Delhi,29.0,Moderate,104,O3
+2020-06-02,Delhi,32.0,Moderate,124,"O3, PM2.5"
+2020-06-03,Delhi,33.0,Moderate,122,"O3, PM2.5"
+2020-06-04,Delhi,33.0,Moderate,153,"O3, PM10, PM2.5"
+2020-06-05,Delhi,34.0,Moderate,111,"O3, PM2.5"
+2020-06-06,Delhi,35.0,Moderate,102,"O3, PM2.5"
+2020-06-07,Delhi,34.0,Moderate,107,"O3, PM2.5"
+2020-06-08,Delhi,34.0,Moderate,108,"O3, PM2.5"
+2020-06-09,Delhi,35.0,Moderate,139,"O3, PM10, PM2.5"
+2020-06-10,Delhi,34.0,Moderate,152,"O3, PM10, PM2.5"
+2020-06-11,Delhi,27.0,Moderate,141,"O3, PM2.5"
+2020-06-12,Delhi,35.0,Moderate,153,"O3, PM10"
+2020-06-13,Delhi,33.0,Moderate,123,"PM10, PM2.5"
+2020-06-14,Delhi,31.0,Moderate,154,"O3, PM10, PM2.5"
+2020-06-15,Delhi,31.0,Moderate,115,"O3, PM10, PM2.5"
+2020-06-16,Delhi,33.0,Moderate,118,O3
+2020-06-17,Delhi,35.0,Moderate,109,O3
+2020-06-18,Delhi,34.0,Satisfactory,95,"O3, PM10, PM2.5"
+2020-06-19,Delhi,35.0,Moderate,148,"O3, PM10"
+2020-06-20,Delhi,34.0,Moderate,149,"O3, PM10"
+2020-06-21,Delhi,33.0,Satisfactory,98,"O3, PM10, PM2.5"
+2020-06-22,Delhi,33.0,Satisfactory,92,"CO, O3, PM10"
+2020-06-23,Delhi,33.0,Satisfactory,76,"CO, PM10"
+2020-06-24,Delhi,35.0,Satisfactory,66,"CO, PM10"
+2020-06-25,Delhi,34.0,Satisfactory,85,"CO, PM10, PM2.5"
+2020-06-26,Delhi,33.0,Moderate,105,"PM10, PM2.5"
+2020-06-27,Delhi,32.0,Moderate,108,"PM10, PM2.5"
+2020-06-28,Delhi,32.0,Poor,209,PM10
+2020-06-29,Delhi,34.0,Poor,230,PM10
+2020-06-30,Delhi,25.0,Moderate,102,"O3, PM10, PM2.5"
+2020-07-01,Delhi,36.0,Moderate,117,"O3, PM10, PM2.5"
+2020-07-02,Delhi,33.0,Moderate,127,O3
+2020-07-03,Delhi,34.0,Moderate,156,"O3, PM10, PM2.5"
+2020-07-04,Delhi,35.0,Moderate,105,"O3, PM10, PM2.5"
+2020-07-05,Delhi,32.0,Satisfactory,90,"O3, PM2.5"
+2020-07-06,Delhi,31.0,Satisfactory,90,"CO, PM10, PM2.5"
+2020-07-07,Delhi,36.0,Satisfactory,65,"CO, PM10, PM2.5"
+2020-07-08,Delhi,34.0,Satisfactory,51,"CO, PM2.5"
+2020-07-09,Delhi,33.0,Satisfactory,78,"O3, PM10, PM2.5"
+2020-07-10,Delhi,34.0,Satisfactory,67,"CO, PM10"
+2020-07-11,Delhi,32.0,Satisfactory,68,"CO, O3, PM10"
+2020-07-12,Delhi,33.0,Satisfactory,71,"CO, O3, PM10"
+2020-07-13,Delhi,31.0,Satisfactory,72,"CO, O3, PM2.5"
+2020-07-14,Delhi,34.0,Moderate,127,"O3, PM10, PM2.5"
+2020-07-15,Delhi,34.0,Moderate,124,"O3, PM10"
+2020-07-16,Delhi,34.0,Satisfactory,72,"CO, PM10, PM2.5"
+2020-07-17,Delhi,33.0,Satisfactory,79,"CO, PM10, PM2.5"
+2020-07-18,Delhi,34.0,Satisfactory,92,"CO, PM10, PM2.5"
+2020-07-19,Delhi,28.0,Satisfactory,65,"CO, PM10"
+2020-07-20,Delhi,27.0,Satisfactory,60,"CO, O3, PM2.5"
+2020-07-21,Delhi,30.0,Satisfactory,61,"CO, O3, PM10"
+2020-07-22,Delhi,30.0,Satisfactory,59,"CO, PM10"
+2020-07-23,Delhi,33.0,Satisfactory,65,"CO, O3, PM10"
+2020-07-24,Delhi,34.0,Satisfactory,100,"CO, PM10, PM2.5"
+2020-07-25,Delhi,28.0,Satisfactory,67,"CO, PM10, PM2.5"
+2020-07-26,Delhi,31.0,Satisfactory,78,"CO, PM10, PM2.5"
+2020-07-27,Delhi,29.0,Satisfactory,100,"PM10, PM2.5"
+2020-07-28,Delhi,34.0,Satisfactory,72,"CO, PM10"
+2020-07-29,Delhi,33.0,Satisfactory,90,"CO, PM10"
+2020-07-30,Delhi,32.0,Satisfactory,55,"CO, PM10"
+2020-07-31,Delhi,34.0,Satisfactory,75,"CO, PM10, PM2.5"
+2020-08-01,Delhi,34.0,Satisfactory,81,"CO, O3, PM10"
+2020-08-02,Delhi,33.0,Satisfactory,61,"CO, PM10"
+2020-08-03,Delhi,33.0,Satisfactory,67,"CO, PM10"
+2020-08-04,Delhi,32.0,Satisfactory,62,"CO, O3, PM10"
+2020-08-05,Delhi,34.0,Satisfactory,86,"CO, PM10"
+2020-08-06,Delhi,33.0,Satisfactory,69,"CO, PM10"
+2020-08-07,Delhi,31.0,Satisfactory,54,"CO, PM10"
+2020-08-08,Delhi,33.0,Satisfactory,87,"CO, O3, PM10"
+2020-08-09,Delhi,33.0,Satisfactory,74,"CO, NO2, PM10"
+2020-08-10,Delhi,33.0,Satisfactory,72,"CO, O3, PM10"
+2020-08-11,Delhi,33.0,Satisfactory,75,"CO, NO2, PM2.5"
+2020-08-12,Delhi,33.0,Satisfactory,63,"NO2, PM10, PM2.5"
+2020-08-13,Delhi,25.0,Good,50,"CO, NO2"
+2020-08-14,Delhi,31.0,Satisfactory,58,"CO, O3"
+2020-08-15,Delhi,32.0,Satisfactory,67,"O3, PM10, PM2.5"
+2020-08-16,Delhi,30.0,Satisfactory,52,"CO, O3, PM10"
+2020-08-17,Delhi,30.0,Satisfactory,66,"CO, PM10"
+2020-08-18,Delhi,31.0,Satisfactory,72,"NO2, PM10, PM2.5"
+2020-08-19,Delhi,32.0,Satisfactory,57,"CO, NO2"
+2020-08-20,Delhi,30.0,Good,50,"CO, NO2, PM2.5"
+2020-08-21,Delhi,33.0,Satisfactory,57,"CO, PM10, PM2.5"
+2020-08-22,Delhi,29.0,Satisfactory,53,"CO, PM10"
+2020-08-23,Delhi,26.0,Satisfactory,53,"CO, PM10"
+2020-08-24,Delhi,32.0,Good,45,"CO, NO2, PM10"
+2020-08-25,Delhi,31.0,Satisfactory,61,"NO2, O3, PM10"
+2020-08-26,Delhi,35.0,Satisfactory,57,"CO, O3, PM10"
+2020-08-27,Delhi,32.0,Satisfactory,64,"CO, PM10"
+2020-08-28,Delhi,35.0,Satisfactory,79,"CO, O3, PM10"
+2020-08-29,Delhi,35.0,Satisfactory,77,"PM10, PM2.5"
+2020-08-30,Delhi,32.0,Satisfactory,70,PM10
+2020-08-31,Delhi,32.0,Good,41,"CO, NO2, PM10"
+2020-09-01,Delhi,31.0,Satisfactory,53,"CO, NO2, PM10"
+2020-09-02,Delhi,32.0,Satisfactory,69,"CO, O3, PM10"
+2020-09-03,Delhi,31.0,Satisfactory,84,PM10
+2020-09-04,Delhi,33.0,Satisfactory,82,"CO, PM10"
+2020-09-05,Delhi,32.0,Moderate,101,"O3, PM10"
+2020-09-06,Delhi,30.0,Satisfactory,70,"CO, O3"
+2020-09-07,Delhi,27.0,Satisfactory,93,"O3, PM10, PM2.5"
+2020-09-08,Delhi,32.0,Satisfactory,79,"O3, PM10"
+2020-09-09,Delhi,33.0,Moderate,105,"PM10, PM2.5"
+2020-09-10,Delhi,33.0,Moderate,108,"O3, PM10, PM2.5"
+2020-09-11,Delhi,33.0,Moderate,136,"O3, PM10, PM2.5"
+2020-09-12,Delhi,35.0,Moderate,144,"O3, PM10"
+2020-09-13,Delhi,33.0,Moderate,142,"O3, PM10, PM2.5"
+2020-09-14,Delhi,34.0,Moderate,152,PM2.5
+2020-09-15,Delhi,33.0,Moderate,144,"O3, PM10, PM2.5"
+2020-09-16,Delhi,34.0,Moderate,151,"O3, PM10, PM2.5"
+2020-09-17,Delhi,35.0,Moderate,120,PM10
+2020-09-18,Delhi,34.0,Moderate,108,PM10
+2020-09-19,Delhi,31.0,Moderate,118,"O3, PM10"
+2020-09-20,Delhi,36.0,Moderate,148,"O3, PM2.5"
+2020-09-21,Delhi,35.0,Moderate,142,"O3, PM10"
+2020-09-22,Delhi,36.0,Moderate,115,"PM10, PM2.5"
+2020-09-23,Delhi,34.0,Satisfactory,76,"NO2, PM10"
+2020-09-24,Delhi,36.0,Moderate,104,"NO2, O3"
+2020-09-25,Delhi,35.0,Moderate,134,"O3, PM10"
+2020-09-26,Delhi,34.0,Moderate,165,"PM10, PM2.5"
+2020-09-27,Delhi,35.0,Moderate,117,"O3, PM10"
+2020-09-28,Delhi,34.0,Moderate,159,PM10
+2020-09-29,Delhi,35.0,Moderate,177,PM10
+2020-09-30,Delhi,34.0,Moderate,156,PM10
+2020-10-01,Delhi,35.0,Moderate,152,"O3, PM10"
+2020-10-02,Delhi,34.0,Moderate,180,"O3, PM10, PM2.5"
+2020-10-03,Delhi,33.0,Moderate,189,"O3, PM10, PM2.5"
+2020-10-04,Delhi,35.0,Moderate,184,"O3, PM10, PM2.5"
+2020-10-05,Delhi,34.0,Moderate,179,"O3, PM10"
+2020-10-06,Delhi,35.0,Moderate,178,PM10
+2020-10-07,Delhi,35.0,Poor,215,"PM10, PM2.5"
+2020-10-08,Delhi,32.0,Poor,208,"O3, PM10, PM2.5"
+2020-10-09,Delhi,33.0,Poor,202,"PM10, PM2.5"
+2020-10-10,Delhi,34.0,Poor,221,"PM10, PM2.5"
+2020-10-11,Delhi,35.0,Poor,216,"PM10, PM2.5"
+2020-10-12,Delhi,32.0,Poor,261,"PM10, PM2.5"
+2020-10-13,Delhi,34.0,Poor,300,"PM10, PM2.5"
+2020-10-14,Delhi,33.0,Poor,276,"PM10, PM2.5"
+2020-10-15,Delhi,34.0,Very Poor,312,"PM10, PM2.5"
+2020-10-16,Delhi,34.0,Poor,239,"PM10, PM2.5"
+2020-10-17,Delhi,36.0,Poor,287,PM10
+2020-10-18,Delhi,35.0,Poor,254,"PM10, PM2.5"
+2020-10-19,Delhi,36.0,Poor,244,"PM10, PM2.5"
+2020-10-20,Delhi,34.0,Poor,223,"PM10, PM2.5"
+2020-10-21,Delhi,34.0,Poor,256,PM10
+2020-10-22,Delhi,35.0,Poor,296,"PM10, PM2.5"
+2020-10-23,Delhi,36.0,Very Poor,366,"PM10, PM2.5"
+2020-10-24,Delhi,34.0,Very Poor,345,"PM10, PM2.5"
+2020-10-25,Delhi,35.0,Very Poor,349,"PM10, PM2.5"
+2020-10-26,Delhi,36.0,Very Poor,353,"PM10, PM2.5"
+2020-10-27,Delhi,36.0,Very Poor,312,"PM10, PM2.5"
+2020-10-28,Delhi,36.0,Poor,297,"PM10, PM2.5"
+2020-10-29,Delhi,35.0,Very Poor,395,"PM10, PM2.5"
+2020-10-30,Delhi,35.0,Very Poor,374,"PM10, PM2.5"
+2020-10-31,Delhi,36.0,Very Poor,367,"PM10, PM2.5"
+2020-11-01,Delhi,35.0,Very Poor,364,"PM10, PM2.5"
+2020-11-02,Delhi,36.0,Poor,293,PM2.5
+2020-11-03,Delhi,33.0,Very Poor,302,"PM10, PM2.5"
+2020-11-04,Delhi,35.0,Very Poor,343,PM10
+2020-11-05,Delhi,35.0,Severe,450,PM2.5
+2020-11-06,Delhi,35.0,Severe,406,"PM10, PM2.5"
+2020-11-07,Delhi,36.0,Severe,427,PM2.5
+2020-11-08,Delhi,35.0,Severe,416,"PM10, PM2.5"
+2020-11-09,Delhi,35.0,Severe,477,PM2.5
+2020-11-10,Delhi,28.0,Severe,476,PM2.5
+2020-11-11,Delhi,34.0,Very Poor,344,"PM10, PM2.5"
+2020-11-12,Delhi,35.0,Very Poor,314,"PM10, PM2.5"
+2020-11-13,Delhi,36.0,Very Poor,339,"PM10, PM2.5"
+2020-11-14,Delhi,37.0,Severe,414,PM2.5
+2020-11-15,Delhi,38.0,Severe,435,PM2.5
+2020-11-16,Delhi,35.0,Poor,221,PM2.5
+2020-11-17,Delhi,35.0,Moderate,171,"O3, PM2.5"
+2020-11-18,Delhi,37.0,Poor,211,"O3, PM2.5"
+2020-11-19,Delhi,38.0,Poor,283,PM2.5
+2020-11-20,Delhi,38.0,Poor,296,PM2.5
+2020-11-21,Delhi,34.0,Poor,251,PM2.5
+2020-11-22,Delhi,36.0,Poor,274,PM2.5
+2020-11-23,Delhi,36.0,Poor,295,"PM10, PM2.5"
+2020-11-24,Delhi,38.0,Very Poor,379,"PM10, PM2.5"
+2020-11-25,Delhi,37.0,Severe,413,PM2.5
+2020-11-26,Delhi,35.0,Very Poor,302,PM2.5
+2020-11-27,Delhi,35.0,Moderate,137,PM2.5
+2020-11-28,Delhi,37.0,Poor,231,PM2.5
+2020-11-29,Delhi,35.0,Poor,256,PM2.5
+2020-11-30,Delhi,34.0,Very Poor,318,PM2.5
+2020-12-01,Delhi,37.0,Very Poor,367,PM2.5
+2020-12-02,Delhi,38.0,Very Poor,373,PM2.5
+2020-12-03,Delhi,37.0,Very Poor,341,PM2.5
+2020-12-04,Delhi,38.0,Very Poor,382,PM2.5
+2020-12-05,Delhi,38.0,Severe,404,PM2.5
+2020-12-06,Delhi,38.0,Very Poor,389,PM2.5
+2020-12-07,Delhi,36.0,Very Poor,400,PM2.5
+2020-12-08,Delhi,36.0,Very Poor,383,PM2.5
+2020-12-09,Delhi,36.0,Very Poor,358,PM2.5
+2020-12-10,Delhi,36.0,Poor,284,PM2.5
+2020-12-11,Delhi,35.0,Poor,295,PM2.5
+2020-12-12,Delhi,37.0,Very Poor,356,PM2.5
+2020-12-13,Delhi,35.0,Very Poor,305,PM2.5
+2020-12-14,Delhi,38.0,Moderate,160,PM2.5
+2020-12-15,Delhi,37.0,Poor,230,PM2.5
+2020-12-16,Delhi,37.0,Poor,262,PM2.5
+2020-12-17,Delhi,35.0,Poor,256,PM2.5
+2020-12-18,Delhi,38.0,Poor,281,PM2.5
+2020-12-19,Delhi,36.0,Poor,290,PM2.5
+2020-12-20,Delhi,34.0,Very Poor,321,PM2.5
+2020-12-21,Delhi,36.0,Very Poor,332,PM2.5
+2020-12-22,Delhi,32.0,Severe,418,PM2.5
+2020-12-23,Delhi,37.0,Severe,433,PM2.5
+2020-12-24,Delhi,37.0,Severe,423,PM2.5
+2020-12-25,Delhi,38.0,Very Poor,357,PM2.5
+2020-12-26,Delhi,38.0,Very Poor,337,PM2.5
+2020-12-27,Delhi,38.0,Very Poor,396,PM2.5
+2020-12-28,Delhi,36.0,Poor,253,"PM10, PM2.5"
+2020-12-29,Delhi,37.0,Poor,265,"PM10, PM2.5"
+2020-12-30,Delhi,32.0,Poor,290,PM2.5
+2020-12-31,Delhi,37.0,Very Poor,347,PM2.5
+2021-01-01,Delhi,34.0,Severe,441,"PM10, PM2.5"
+2021-01-02,Delhi,33.0,Severe,443,PM2.5
+2021-01-03,Delhi,31.0,Very Poor,354,PM2.5
+2021-01-04,Delhi,33.0,Moderate,151,PM2.5
+2021-01-05,Delhi,34.0,Moderate,140,"PM10, PM2.5"
+2021-01-06,Delhi,32.0,Poor,226,PM2.5
+2021-01-07,Delhi,36.0,Poor,255,PM2.5
+2021-01-08,Delhi,38.0,Poor,234,PM2.5
+2021-01-09,Delhi,38.0,Very Poor,301,PM2.5
+2021-01-10,Delhi,36.0,Poor,245,PM2.5
+2021-01-11,Delhi,36.0,Poor,243,PM2.5
+2021-01-12,Delhi,36.0,Poor,293,PM2.5
+2021-01-13,Delhi,37.0,Very Poor,354,"PM10, PM2.5"
+2021-01-14,Delhi,36.0,Severe,429,PM2.5
+2021-01-15,Delhi,32.0,Severe,460,PM2.5
+2021-01-16,Delhi,35.0,Severe,407,PM2.5
+2021-01-17,Delhi,37.0,Very Poor,347,"PM10, PM2.5"
+2021-01-18,Delhi,37.0,Very Poor,372,"PM10, PM2.5"
+2021-01-19,Delhi,37.0,Severe,404,"PM10, PM2.5"
+2021-01-20,Delhi,37.0,Poor,283,"PM10, PM2.5"
+2021-01-21,Delhi,35.0,Poor,296,"PM10, PM2.5"
+2021-01-22,Delhi,34.0,Very Poor,364,"PM10, PM2.5"
+2021-01-23,Delhi,37.0,Very Poor,326,PM2.5
+2021-01-24,Delhi,35.0,Very Poor,364,PM2.5
+2021-01-25,Delhi,35.0,Very Poor,323,PM2.5
+2021-01-26,Delhi,35.0,Very Poor,330,"PM10, PM2.5"
+2021-01-27,Delhi,25.0,Very Poor,318,"PM10, PM2.5"
+2021-01-28,Delhi,35.0,Very Poor,357,"PM10, PM2.5"
+2021-01-29,Delhi,37.0,Very Poor,387,"PM10, PM2.5"
+2021-01-30,Delhi,38.0,Very Poor,309,PM2.5
+2021-01-31,Delhi,14.0,Poor,289,"PM10, PM2.5"
+2021-02-01,Delhi,34.0,Very Poor,352,"PM10, PM2.5"
+2021-02-02,Delhi,34.0,Very Poor,364,"PM10, PM2.5"
+2021-02-03,Delhi,36.0,Very Poor,330,PM2.5
+2021-02-04,Delhi,37.0,Very Poor,316,PM2.5
+2021-02-05,Delhi,25.0,Moderate,133,"O3, PM10, PM2.5"
+2021-02-06,Delhi,38.0,Moderate,199,"O3, PM2.5"
+2021-02-07,Delhi,37.0,Poor,232,PM2.5
+2021-02-08,Delhi,37.0,Very Poor,303,"PM10, PM2.5"
+2021-02-09,Delhi,14.0,Very Poor,305,"PM10, PM2.5"
+2021-02-10,Delhi,37.0,Poor,291,"PM10, PM2.5"
+2021-02-11,Delhi,37.0,Very Poor,330,PM2.5
+2021-02-12,Delhi,38.0,Very Poor,341,PM2.5
+2021-02-13,Delhi,37.0,Very Poor,334,PM2.5
+2021-02-14,Delhi,34.0,Very Poor,351,"PM10, PM2.5"
+2021-02-15,Delhi,31.0,Very Poor,313,"PM10, PM2.5"
+2021-02-16,Delhi,37.0,Very Poor,327,"PM10, PM2.5"
+2021-02-17,Delhi,36.0,Very Poor,324,"PM10, PM2.5"
+2021-02-18,Delhi,34.0,Very Poor,302,"PM10, PM2.5"
+2021-02-19,Delhi,37.0,Very Poor,311,"PM10, PM2.5"
+2021-02-20,Delhi,36.0,Poor,250,"PM10, PM2.5"
+2021-02-21,Delhi,36.0,Poor,296,"PM10, PM2.5"
+2021-02-22,Delhi,37.0,Poor,288,"PM10, PM2.5"
+2021-02-23,Delhi,34.0,Poor,250,"PM10, PM2.5"
+2021-02-24,Delhi,33.0,Poor,278,PM10
+2021-02-25,Delhi,37.0,Poor,298,"PM10, PM2.5"
+2021-02-26,Delhi,37.0,Poor,229,"PM10, PM2.5"
+2021-02-27,Delhi,37.0,Poor,203,PM10
+2021-02-28,Delhi,38.0,Poor,208,PM10
+2021-03-01,Delhi,36.0,Moderate,177,"PM10, PM2.5"
+2021-03-02,Delhi,38.0,Moderate,175,"O3, PM10, PM2.5"
+2021-03-03,Delhi,35.0,Moderate,188,"O3, PM10, PM2.5"
+2021-03-04,Delhi,36.0,Poor,278,PM10
+2021-03-05,Delhi,30.0,Poor,255,PM10
+2021-03-06,Delhi,36.0,Poor,204,"O3, PM10, PM2.5"
+2021-03-07,Delhi,36.0,Poor,256,PM10
+2021-03-08,Delhi,37.0,Poor,207,"PM10, PM2.5"
+2021-03-09,Delhi,36.0,Poor,283,"PM10, PM2.5"
+2021-03-10,Delhi,29.0,Moderate,175,"O3, PM10"
+2021-03-11,Delhi,31.0,Poor,242,"PM10, PM2.5"
+2021-03-12,Delhi,29.0,Poor,218,"PM10, PM2.5"
+2021-03-13,Delhi,30.0,Poor,209,"PM10, PM2.5"
+2021-03-14,Delhi,30.0,Poor,209,"O3, PM10, PM2.5"
+2021-03-15,Delhi,27.0,Poor,206,"PM10, PM2.5"
+2021-03-16,Delhi,30.0,Poor,258,PM10
+2021-03-17,Delhi,29.0,Very Poor,311,PM10
+2021-03-18,Delhi,25.0,Very Poor,315,"PM10, PM2.5"
+2021-03-19,Delhi,31.0,Poor,279,"PM10, PM2.5"
+2021-03-20,Delhi,31.0,Poor,234,"PM10, PM2.5"
+2021-03-21,Delhi,29.0,Poor,244,"PM10, PM2.5"
+2021-03-22,Delhi,31.0,Moderate,196,"PM10, PM2.5"
+2021-03-23,Delhi,29.0,Poor,244,PM10
+2021-03-24,Delhi,29.0,Moderate,175,PM10
+2021-03-25,Delhi,32.0,Moderate,148,PM10
+2021-03-26,Delhi,31.0,Moderate,150,"PM10, PM2.5"
+2021-03-27,Delhi,31.0,Moderate,199,"PM10, PM2.5"
+2021-03-28,Delhi,31.0,Poor,233,"PM10, PM2.5"
+2021-03-29,Delhi,8.0,Poor,225,"PM10, PM2.5"
+2021-03-30,Delhi,7.0,Poor,232,"PM10, PM2.5"
+2021-03-31,Delhi,7.0,Poor,203,"PM10, PM2.5"
+2021-04-01,Delhi,29.0,Moderate,182,"PM10, PM2.5"
+2021-04-02,Delhi,32.0,Moderate,176,"PM10, PM2.5"
+2021-04-03,Delhi,30.0,Moderate,159,"O3, PM10, PM2.5"
+2021-04-04,Delhi,31.0,Moderate,171,"PM10, PM2.5"
+2021-04-05,Delhi,30.0,Poor,205,"O3, PM10, PM2.5"
+2021-04-06,Delhi,30.0,Poor,279,"PM10, PM2.5"
+2021-04-07,Delhi,27.0,Poor,250,PM10
+2021-04-08,Delhi,30.0,Moderate,153,"O3, PM10, PM2.5"
+2021-04-09,Delhi,30.0,Moderate,170,"O3, PM10, PM2.5"
+2021-04-10,Delhi,29.0,Moderate,181,"PM10, PM2.5"
+2021-04-11,Delhi,32.0,Moderate,186,"NO2, PM10, PM2.5"
+2021-04-12,Delhi,31.0,Poor,241,"PM10, PM2.5"
+2021-04-13,Delhi,32.0,Poor,231,"PM10, PM2.5"
+2021-04-14,Delhi,32.0,Moderate,199,"PM10, PM2.5"
+2021-04-15,Delhi,29.0,Poor,220,"PM10, PM2.5"
+2021-04-16,Delhi,8.0,Poor,238,"PM10, PM2.5"
+2021-04-17,Delhi,29.0,Moderate,128,"PM10, PM2.5"
+2021-04-18,Delhi,26.0,Moderate,154,"O3, PM10"
+2021-04-19,Delhi,20.0,Moderate,187,"PM10, PM2.5"
+2021-04-20,Delhi,30.0,Moderate,191,"PM10, PM2.5"
+2021-04-21,Delhi,27.0,Moderate,134,"O3, PM10"
+2021-04-22,Delhi,30.0,Moderate,140,"O3, PM2.5"
+2021-04-23,Delhi,29.0,Moderate,126,"O3, PM10"
+2021-04-24,Delhi,31.0,Moderate,125,"O3, PM10"
+2021-04-25,Delhi,31.0,Moderate,192,"O3, PM10, PM2.5"
+2021-04-26,Delhi,30.0,Poor,256,"PM10, PM2.5"
+2021-04-27,Delhi,32.0,Poor,284,PM10
+2021-04-28,Delhi,28.0,Very Poor,312,PM10
+2021-04-29,Delhi,25.0,Poor,296,"PM10, PM2.5"
+2021-04-30,Delhi,27.0,Poor,287,PM10
+2021-05-01,Delhi,26.0,Poor,238,PM10
+2021-05-02,Delhi,27.0,Moderate,174,"PM10, PM2.5"
+2021-05-03,Delhi,27.0,Poor,245,PM10
+2021-05-04,Delhi,25.0,Moderate,173,"PM10, PM2.5"
+2021-05-05,Delhi,31.0,Moderate,175,"O3, PM10"
+2021-05-06,Delhi,28.0,Moderate,156,"O3, PM10, PM2.5"
+2021-05-07,Delhi,26.0,Moderate,142,"O3, PM10"
+2021-05-08,Delhi,29.0,Moderate,173,"O3, PM10, PM2.5"
+2021-05-09,Delhi,30.0,Moderate,166,O3
+2021-05-10,Delhi,24.0,Moderate,136,O3
+2021-05-11,Delhi,28.0,Moderate,151,O3
+2021-05-12,Delhi,32.0,Moderate,115,"O3, PM10"
+2021-05-13,Delhi,31.0,Moderate,121,O3
+2021-05-14,Delhi,29.0,Moderate,132,"O3, PM2.5"
+2021-05-15,Delhi,31.0,Moderate,140,"O3, PM10"
+2021-05-16,Delhi,27.0,Moderate,166,"O3, PM2.5"
+2021-05-17,Delhi,29.0,Moderate,191,"O3, PM10, PM2.5"
+2021-05-18,Delhi,28.0,Satisfactory,93,"O3, PM10"
+2021-05-19,Delhi,29.0,Satisfactory,78,"NO2, PM10, PM2.5"
+2021-05-20,Delhi,20.0,Satisfactory,58,"CO, O3, PM10"
+2021-05-21,Delhi,24.0,Satisfactory,85,"NO2, O3, PM2.5"
+2021-05-22,Delhi,25.0,Satisfactory,94,"O3, PM10"
+2021-05-23,Delhi,26.0,Poor,237,"PM10, PM2.5"
+2021-05-24,Delhi,27.0,Moderate,169,"O3, PM10, PM2.5"
+2021-05-25,Delhi,28.0,Moderate,140,"O3, PM10"
+2021-05-26,Delhi,28.0,Moderate,149,"O3, PM10, PM2.5"
+2021-05-27,Delhi,31.0,Moderate,150,"O3, PM10"
+2021-05-28,Delhi,7.0,Moderate,106,"PM10, PM2.5"
+2021-05-29,Delhi,27.0,Satisfactory,87,"O3, PM10, PM2.5"
+2021-05-30,Delhi,29.0,Moderate,101,"CO, PM10"
+2021-05-31,Delhi,30.0,Moderate,135,"O3, PM10"
+2021-06-01,Delhi,29.0,Moderate,115,"O3, PM10, PM2.5"
+2021-06-02,Delhi,30.0,Moderate,143,"O3, PM10, PM2.5"
+2021-06-03,Delhi,30.0,Moderate,159,"O3, PM2.5"
+2021-06-04,Delhi,29.0,Moderate,196,"O3, PM2.5"
+2021-06-05,Delhi,25.0,Moderate,124,"O3, PM10, PM2.5"
+2021-06-06,Delhi,30.0,Moderate,134,"O3, PM10"
+2021-06-07,Delhi,30.0,Moderate,180,"O3, PM10, PM2.5"
+2021-06-08,Delhi,31.0,Poor,205,"PM10, PM2.5"
+2021-06-09,Delhi,31.0,Very Poor,305,PM10
+2021-06-10,Delhi,32.0,Poor,221,PM10
+2021-06-11,Delhi,29.0,Moderate,145,"O3, PM10, PM2.5"
+2021-06-12,Delhi,30.0,Moderate,133,"PM10, PM2.5"
+2021-06-13,Delhi,29.0,Satisfactory,83,"NO2, O3, PM10"
+2021-06-14,Delhi,30.0,Moderate,124,"O3, PM10"
+2021-06-15,Delhi,32.0,Moderate,113,"O3, PM10, PM2.5"
+2021-06-16,Delhi,32.0,Moderate,115,"O3, PM10, PM2.5"
+2021-06-17,Delhi,32.0,Moderate,108,"PM10, PM2.5"
+2021-06-18,Delhi,34.0,Satisfactory,81,"O3, PM10, PM2.5"
+2021-06-19,Delhi,34.0,Satisfactory,70,"NO2, O3, PM10"
+2021-06-20,Delhi,33.0,Satisfactory,62,"CO, O3, PM10"
+2021-06-21,Delhi,34.0,Satisfactory,84,"O3, PM10, PM2.5"
+2021-06-22,Delhi,35.0,Moderate,127,"O3, PM10, PM2.5"
+2021-06-23,Delhi,36.0,Poor,218,"O3, PM10"
+2021-06-24,Delhi,36.0,Moderate,146,"O3, PM10, PM2.5"
+2021-06-25,Delhi,33.0,Moderate,163,"O3, PM10, PM2.5"
+2021-06-26,Delhi,34.0,Moderate,135,"O3, PM10, PM2.5"
+2021-06-27,Delhi,35.0,Moderate,168,"O3, PM10, PM2.5"
+2021-06-28,Delhi,33.0,Moderate,161,"O3, PM10, PM2.5"
+2021-06-29,Delhi,33.0,Moderate,195,"PM10, PM2.5"
+2021-06-30,Delhi,32.0,Poor,206,"PM10, PM2.5"
+2021-07-01,Delhi,33.0,Poor,266,PM10
+2021-07-02,Delhi,35.0,Poor,245,PM10
+2021-07-03,Delhi,28.0,Moderate,139,PM10
+2021-07-04,Delhi,29.0,Moderate,140,"O3, PM10, PM2.5"
+2021-07-05,Delhi,35.0,Moderate,149,"O3, PM10, PM2.5"
+2021-07-06,Delhi,35.0,Moderate,144,"PM10, PM2.5"
+2021-07-07,Delhi,33.0,Moderate,178,"PM10, PM2.5"
+2021-07-08,Delhi,35.0,Moderate,164,PM10
+2021-07-09,Delhi,35.0,Moderate,144,"O3, PM10, PM2.5"
+2021-07-10,Delhi,34.0,Satisfactory,97,"PM10, PM2.5"
+2021-07-11,Delhi,30.0,Satisfactory,94,PM10
+2021-07-12,Delhi,30.0,Satisfactory,90,PM10
+2021-07-13,Delhi,11.0,Satisfactory,80,"CO, PM10, PM2.5"
+2021-07-14,Delhi,28.0,Satisfactory,83,"CO, PM10"
+2021-07-15,Delhi,33.0,Satisfactory,83,"CO, PM10, PM2.5"
+2021-07-16,Delhi,37.0,Satisfactory,90,"PM10, PM2.5"
+2021-07-17,Delhi,29.0,Moderate,117,"O3, PM10, PM2.5"
+2021-07-18,Delhi,34.0,Satisfactory,94,"O3, PM10, PM2.5"
+2021-07-19,Delhi,27.0,Satisfactory,62,"NO2, PM10, PM2.5"
+2021-07-20,Delhi,30.0,Satisfactory,81,"NO2, O3, PM2.5"
+2021-07-21,Delhi,35.0,Satisfactory,74,"NO2, PM10, PM2.5"
+2021-07-22,Delhi,35.0,Satisfactory,83,"NO2, PM10, PM2.5"
+2021-07-23,Delhi,35.0,Satisfactory,68,"NO2, PM10, PM2.5"
+2021-07-24,Delhi,35.0,Satisfactory,99,"PM10, PM2.5"
+2021-07-25,Delhi,33.0,Moderate,107,"O3, PM10, PM2.5"
+2021-07-26,Delhi,34.0,Satisfactory,86,"NO2, O3, PM2.5"
+2021-07-27,Delhi,35.0,Satisfactory,98,"NO2, PM10, PM2.5"
+2021-07-28,Delhi,34.0,Satisfactory,61,"CO, NO2, O3"
+2021-07-29,Delhi,35.0,Satisfactory,63,"CO, O3, PM10"
+2021-07-30,Delhi,36.0,Satisfactory,76,"O3, PM10, PM2.5"
+2021-07-31,Delhi,36.0,Satisfactory,57,"CO, PM10, PM2.5"
+2021-08-01,Delhi,35.0,Satisfactory,81,"O3, PM10, PM2.5"
+2021-08-02,Delhi,34.0,Satisfactory,95,"CO, PM10, PM2.5"
+2021-08-03,Delhi,38.0,Satisfactory,71,"CO, PM10, PM2.5"
+2021-08-04,Delhi,36.0,Satisfactory,69,"NO2, PM10, PM2.5"
+2021-08-05,Delhi,36.0,Satisfactory,99,"PM10, PM2.5"
+2021-08-06,Delhi,36.0,Moderate,104,"PM10, PM2.5"
+2021-08-07,Delhi,33.0,Moderate,101,"O3, PM10, PM2.5"
+2021-08-08,Delhi,33.0,Moderate,109,"PM10, PM2.5"
+2021-08-09,Delhi,36.0,Moderate,101,"O3, PM10, PM2.5"
+2021-08-10,Delhi,35.0,Moderate,101,PM10
+2021-08-11,Delhi,36.0,Moderate,122,PM10
+2021-08-12,Delhi,33.0,Moderate,114,PM10
+2021-08-13,Delhi,33.0,Moderate,118,PM10
+2021-08-14,Delhi,31.0,Moderate,116,PM10
+2021-08-15,Delhi,36.0,Moderate,114,PM10
+2021-08-16,Delhi,33.0,Moderate,121,PM10
+2021-08-17,Delhi,37.0,Moderate,150,PM10
+2021-08-18,Delhi,36.0,Moderate,152,"PM10, PM2.5"
+2021-08-19,Delhi,37.0,Moderate,167,"PM10, PM2.5"
+2021-08-20,Delhi,23.0,Moderate,111,"PM10, PM2.5"
+2021-08-21,Delhi,29.0,Satisfactory,69,"CO, O3, PM10"
+2021-08-22,Delhi,30.0,Satisfactory,59,"CO, O3, PM2.5"
+2021-08-23,Delhi,34.0,Satisfactory,82,"CO, O3, PM10"
+2021-08-24,Delhi,34.0,Satisfactory,100,"CO, PM10"
+2021-08-25,Delhi,36.0,Moderate,115,PM10
+2021-08-26,Delhi,36.0,Moderate,114,"CO, PM10"
+2021-08-27,Delhi,38.0,Moderate,134,PM10
+2021-08-28,Delhi,36.0,Moderate,147,PM10
+2021-08-29,Delhi,33.0,Moderate,119,"O3, PM10, PM2.5"
+2021-08-30,Delhi,35.0,Satisfactory,81,"CO, PM10"
+2021-08-31,Delhi,11.0,Satisfactory,73,"CO, PM10, PM2.5"
+2021-09-01,Delhi,27.0,Satisfactory,64,"CO, PM10, PM2.5"
+2021-09-02,Delhi,36.0,Satisfactory,64,"CO, PM10, PM2.5"
+2021-09-03,Delhi,37.0,Satisfactory,70,"CO, O3, PM2.5"
+2021-09-04,Delhi,36.0,Satisfactory,68,"CO, PM10, PM2.5"
+2021-09-05,Delhi,35.0,Satisfactory,88,"CO, PM10"
+2021-09-06,Delhi,32.0,Moderate,122,"PM10, PM2.5"
+2021-09-07,Delhi,36.0,Satisfactory,98,"CO, PM10, PM2.5"
+2021-09-08,Delhi,35.0,Satisfactory,70,"CO, O3, PM10"
+2021-09-09,Delhi,34.0,Satisfactory,75,"CO, PM10"
+2021-09-10,Delhi,36.0,Satisfactory,79,"CO, PM10"
+2021-09-11,Delhi,37.0,Satisfactory,61,"CO, PM10"
+2021-09-12,Delhi,34.0,Satisfactory,60,"CO, O3, PM10"
+2021-09-13,Delhi,36.0,Satisfactory,89,"PM10, PM2.5"
+2021-09-14,Delhi,37.0,Satisfactory,69,"CO, PM10"
+2021-09-15,Delhi,37.0,Satisfactory,70,"CO, PM10"
+2021-09-16,Delhi,37.0,Satisfactory,79,"CO, PM10"
+2021-09-17,Delhi,36.0,Satisfactory,62,"CO, PM10"
+2021-09-18,Delhi,37.0,Satisfactory,69,"CO, PM10"
+2021-09-19,Delhi,36.0,Satisfactory,82,"CO, PM10"
+2021-09-20,Delhi,36.0,Satisfactory,82,"CO, O3, PM10"
+2021-09-21,Delhi,37.0,Satisfactory,83,"CO, PM10"
+2021-09-22,Delhi,37.0,Satisfactory,69,"CO, PM10"
+2021-09-23,Delhi,37.0,Satisfactory,68,"CO, PM10"
+2021-09-24,Delhi,37.0,Satisfactory,64,"CO, PM10"
+2021-09-25,Delhi,36.0,Satisfactory,80,"O3, PM10"
+2021-09-26,Delhi,36.0,Satisfactory,75,"CO, PM10"
+2021-09-27,Delhi,37.0,Moderate,108,"O3, PM10, PM2.5"
+2021-09-28,Delhi,35.0,Moderate,120,"PM10, PM2.5"
+2021-09-29,Delhi,35.0,Satisfactory,81,PM10
+2021-09-30,Delhi,38.0,Satisfactory,84,PM10
+2021-10-01,Delhi,36.0,Moderate,108,PM10
+2021-10-02,Delhi,37.0,Moderate,125,"PM10, PM2.5"
+2021-10-03,Delhi,36.0,Moderate,105,PM10
+2021-10-04,Delhi,37.0,Satisfactory,91,"CO, O3, PM10"
+2021-10-05,Delhi,37.0,Moderate,115,"CO, O3, PM10"
+2021-10-06,Delhi,37.0,Moderate,114,"PM10, PM2.5"
+2021-10-07,Delhi,38.0,Moderate,127,"O3, PM10, PM2.5"
+2021-10-08,Delhi,25.0,Moderate,167,"O3, PM10, PM2.5"
+2021-10-09,Delhi,36.0,Moderate,171,"PM10, PM2.5"
+2021-10-10,Delhi,36.0,Moderate,168,PM10
+2021-10-11,Delhi,35.0,Moderate,166,"PM10, PM2.5"
+2021-10-12,Delhi,37.0,Moderate,179,"PM10, PM2.5"
+2021-10-13,Delhi,36.0,Moderate,171,"PM10, PM2.5"
+2021-10-14,Delhi,36.0,Moderate,182,"PM10, PM2.5"
+2021-10-15,Delhi,36.0,Moderate,198,"O3, PM10, PM2.5"
+2021-10-16,Delhi,36.0,Poor,284,"PM10, PM2.5"
+2021-10-17,Delhi,31.0,Poor,298,PM2.5
+2021-10-18,Delhi,30.0,Good,46,"CO, PM10"
+2021-10-19,Delhi,36.0,Satisfactory,69,"CO, PM10, PM2.5"
+2021-10-20,Delhi,37.0,Poor,221,"PM10, PM2.5"
+2021-10-21,Delhi,37.0,Moderate,199,"PM10, PM2.5"
+2021-10-22,Delhi,35.0,Moderate,170,"PM10, PM2.5"
+2021-10-23,Delhi,37.0,Moderate,173,PM10
+2021-10-24,Delhi,37.0,Moderate,160,"PM10, PM2.5"
+2021-10-25,Delhi,27.0,Satisfactory,82,"O3, PM10, PM2.5"
+2021-10-26,Delhi,37.0,Moderate,139,"PM10, PM2.5"
+2021-10-27,Delhi,37.0,Poor,232,PM10
+2021-10-28,Delhi,34.0,Poor,268,"PM10, PM2.5"
+2021-10-29,Delhi,35.0,Poor,283,"PM10, PM2.5"
+2021-10-30,Delhi,35.0,Poor,268,"PM10, PM2.5"
+2021-10-31,Delhi,36.0,Poor,289,PM10
+2021-11-01,Delhi,37.0,Poor,281,"PM10, PM2.5"
+2021-11-02,Delhi,38.0,Very Poor,303,"PM10, PM2.5"
+2021-11-03,Delhi,31.0,Very Poor,314,"PM10, PM2.5"
+2021-11-04,Delhi,37.0,Very Poor,382,"PM10, PM2.5"
+2021-11-05,Delhi,35.0,Severe,462,PM2.5
+2021-11-06,Delhi,37.0,Severe,437,"PM10, PM2.5"
+2021-11-07,Delhi,37.0,Severe,428,PM2.5
+2021-11-08,Delhi,37.0,Very Poor,390,"PM10, PM2.5"
+2021-11-09,Delhi,37.0,Severe,404,"PM10, PM2.5"
+2021-11-10,Delhi,35.0,Very Poor,372,"PM10, PM2.5"
+2021-11-11,Delhi,36.0,Severe,411,"PM10, PM2.5"
+2021-11-12,Delhi,36.0,Severe,471,"PM10, PM2.5"
+2021-11-13,Delhi,32.0,Severe,437,"PM10, PM2.5"
+2021-11-14,Delhi,36.0,Very Poor,330,"PM10, PM2.5"
+2021-11-15,Delhi,33.0,Very Poor,353,"PM10, PM2.5"
+2021-11-16,Delhi,38.0,Severe,403,"PM10, PM2.5"
+2021-11-17,Delhi,36.0,Very Poor,375,"PM10, PM2.5"
+2021-11-18,Delhi,37.0,Very Poor,347,"PM10, PM2.5"
+2021-11-19,Delhi,35.0,Very Poor,380,"PM10, PM2.5"
+2021-11-20,Delhi,36.0,Very Poor,374,PM2.5
+2021-11-21,Delhi,36.0,Very Poor,349,"PM10, PM2.5"
+2021-11-22,Delhi,32.0,Very Poor,311,"PM10, PM2.5"
+2021-11-23,Delhi,37.0,Poor,290,PM2.5
+2021-11-24,Delhi,37.0,Very Poor,361,"PM10, PM2.5"
+2021-11-25,Delhi,37.0,Very Poor,400,"PM10, PM2.5"
+2021-11-26,Delhi,36.0,Severe,406,"PM10, PM2.5"
+2021-11-27,Delhi,36.0,Severe,402,"PM10, PM2.5"
+2021-11-28,Delhi,33.0,Severe,405,"PM10, PM2.5"
+2021-11-29,Delhi,30.0,Very Poor,389,PM2.5
+2021-11-30,Delhi,34.0,Very Poor,328,"PM10, PM2.5"
+2021-12-01,Delhi,38.0,Very Poor,370,"PM10, PM2.5"
+2021-12-02,Delhi,36.0,Severe,429,"PM10, PM2.5"
+2021-12-03,Delhi,37.0,Very Poor,346,PM2.5
+2021-12-04,Delhi,37.0,Very Poor,362,"PM10, PM2.5"
+2021-12-05,Delhi,29.0,Very Poor,305,"PM10, PM2.5"
+2021-12-06,Delhi,35.0,Very Poor,322,PM2.5
+2021-12-07,Delhi,37.0,Poor,255,"PM10, PM2.5"
+2021-12-08,Delhi,38.0,Poor,237,"PM10, PM2.5"
+2021-12-09,Delhi,37.0,Poor,289,"PM10, PM2.5"
+2021-12-10,Delhi,36.0,Very Poor,314,"PM10, PM2.5"
+2021-12-11,Delhi,31.0,Poor,281,PM2.5
+2021-12-12,Delhi,35.0,Poor,254,PM2.5
+2021-12-13,Delhi,37.0,Very Poor,331,PM2.5
+2021-12-14,Delhi,37.0,Very Poor,367,PM2.5
+2021-12-15,Delhi,36.0,Very Poor,363,PM2.5
+2021-12-16,Delhi,35.0,Very Poor,368,"PM10, PM2.5"
+2021-12-17,Delhi,36.0,Very Poor,329,"PM10, PM2.5"
+2021-12-18,Delhi,24.0,Poor,291,PM2.5
+2021-12-19,Delhi,35.0,Poor,271,PM2.5
+2021-12-20,Delhi,33.0,Very Poor,332,PM2.5
+2021-12-21,Delhi,35.0,Severe,402,PM2.5
+2021-12-22,Delhi,36.0,Severe,407,PM2.5
+2021-12-23,Delhi,35.0,Severe,423,PM2.5
+2021-12-24,Delhi,36.0,Severe,415,PM2.5
+2021-12-25,Delhi,37.0,Severe,431,PM2.5
+2021-12-26,Delhi,35.0,Severe,459,PM2.5
+2021-12-27,Delhi,35.0,Poor,283,PM2.5
+2021-12-28,Delhi,36.0,Very Poor,305,PM2.5
+2021-12-29,Delhi,35.0,Poor,267,PM2.5
+2021-12-30,Delhi,35.0,Poor,286,PM2.5
+2021-12-31,Delhi,34.0,Very Poor,321,PM2.5
+2022-01-01,Delhi,35.0,Very Poor,362,"PM10, PM2.5"
+2022-01-02,Delhi,33.0,Severe,404,PM2.5
+2022-01-03,Delhi,35.0,Very Poor,387,PM2.5
+2022-01-04,Delhi,37.0,Very Poor,378,PM2.5
+2022-01-05,Delhi,33.0,Very Poor,397,PM2.5
+2022-01-06,Delhi,29.0,Poor,258,PM2.5
+2022-01-07,Delhi,28.0,Moderate,182,PM2.5
+2022-01-08,Delhi,32.0,Satisfactory,91,"CO, PM2.5"
+2022-01-09,Delhi,29.0,Satisfactory,69,"CO, PM10, PM2.5"
+2022-01-10,Delhi,33.0,Moderate,151,PM2.5
+2022-01-11,Delhi,37.0,Poor,224,PM2.5
+2022-01-12,Delhi,33.0,Moderate,191,PM2.5
+2022-01-13,Delhi,34.0,Very Poor,321,"PM10, PM2.5"
+2022-01-14,Delhi,36.0,Very Poor,348,PM2.5
+2022-01-15,Delhi,35.0,Poor,258,PM2.5
+2022-01-16,Delhi,31.0,Poor,264,PM2.5
+2022-01-17,Delhi,32.0,Very Poor,327,PM2.5
+2022-01-18,Delhi,31.0,Very Poor,352,"PM10, PM2.5"
+2022-01-19,Delhi,34.0,Very Poor,322,"PM10, PM2.5"
+2022-01-20,Delhi,32.0,Very Poor,387,"PM10, PM2.5"
+2022-01-21,Delhi,35.0,Very Poor,365,PM2.5
+2022-01-22,Delhi,36.0,Very Poor,316,PM2.5
+2022-01-23,Delhi,29.0,Poor,202,PM2.5
+2022-01-24,Delhi,32.0,Poor,241,PM2.5
+2022-01-25,Delhi,36.0,Poor,234,"PM10, PM2.5"
+2022-01-26,Delhi,34.0,Poor,260,"PM10, PM2.5"
+2022-01-27,Delhi,36.0,Poor,262,"PM10, PM2.5"
+2022-01-28,Delhi,35.0,Poor,215,"PM10, PM2.5"
+2022-01-29,Delhi,35.0,Poor,251,"PM10, PM2.5"
+2022-01-30,Delhi,36.0,Poor,278,"PM10, PM2.5"
+2022-01-31,Delhi,32.0,Very Poor,338,"PM10, PM2.5"
+2022-02-01,Delhi,9.0,Very Poor,346,"PM10, PM2.5"
+2022-02-02,Delhi,38.0,Very Poor,319,"PM10, PM2.5"
+2022-02-03,Delhi,36.0,Very Poor,321,PM2.5
+2022-02-04,Delhi,37.0,Moderate,152,PM2.5
+2022-02-05,Delhi,38.0,Poor,224,"PM10, PM2.5"
+2022-02-06,Delhi,37.0,Poor,285,PM2.5
+2022-02-07,Delhi,36.0,Poor,250,"PM10, PM2.5"
+2022-02-08,Delhi,37.0,Poor,270,"PM10, PM2.5"
+2022-02-09,Delhi,37.0,Poor,227,"PM10, PM2.5"
+2022-02-10,Delhi,37.0,Moderate,172,"PM10, PM2.5"
+2022-02-11,Delhi,34.0,Moderate,184,"PM10, PM2.5"
+2022-02-12,Delhi,37.0,Moderate,191,"PM10, PM2.5"
+2022-02-13,Delhi,36.0,Poor,253,"PM10, PM2.5"
+2022-02-14,Delhi,33.0,Poor,239,"PM10, PM2.5"
+2022-02-15,Delhi,37.0,Poor,221,"PM10, PM2.5"
+2022-02-16,Delhi,35.0,Poor,272,"PM10, PM2.5"
+2022-02-17,Delhi,37.0,Poor,241,"PM10, PM2.5"
+2022-02-18,Delhi,38.0,Poor,252,PM10
+2022-02-19,Delhi,35.0,Moderate,180,"PM10, PM2.5"
+2022-02-20,Delhi,34.0,Moderate,173,"PM10, PM2.5"
+2022-02-21,Delhi,37.0,Moderate,165,"PM10, PM2.5"
+2022-02-22,Delhi,37.0,Poor,252,PM10
+2022-02-23,Delhi,39.0,Poor,211,PM2.5
+2022-02-24,Delhi,32.0,Very Poor,307,PM2.5
+2022-02-25,Delhi,35.0,Poor,286,PM2.5
+2022-02-26,Delhi,30.0,Moderate,102,"PM10, PM2.5"
+2022-02-27,Delhi,33.0,Satisfactory,92,"PM10, PM2.5"
+2022-02-28,Delhi,32.0,Moderate,107,"O3, PM10, PM2.5"
+2022-03-01,Delhi,38.0,Moderate,170,"O3, PM2.5"
+2022-03-02,Delhi,37.0,Poor,225,PM2.5
+2022-03-03,Delhi,36.0,Moderate,178,"O3, PM10, PM2.5"
+2022-03-04,Delhi,36.0,Moderate,199,PM2.5
+2022-03-05,Delhi,36.0,Moderate,115,"O3, PM10, PM2.5"
+2022-03-06,Delhi,34.0,Moderate,162,PM2.5
+2022-03-07,Delhi,34.0,Poor,237,"PM10, PM2.5"
+2022-03-08,Delhi,37.0,Poor,283,"PM10, PM2.5"
+2022-03-09,Delhi,36.0,Moderate,162,"PM10, PM2.5"
+2022-03-10,Delhi,38.0,Moderate,150,"PM10, PM2.5"
+2022-03-11,Delhi,38.0,Moderate,164,"PM10, PM2.5"
+2022-03-12,Delhi,35.0,Moderate,160,"PM10, PM2.5"
+2022-03-13,Delhi,36.0,Moderate,193,"PM10, PM2.5"
+2022-03-14,Delhi,36.0,Poor,231,"PM10, PM2.5"
+2022-03-15,Delhi,37.0,Poor,253,"PM10, PM2.5"
+2022-03-16,Delhi,38.0,Poor,218,"PM10, PM2.5"
+2022-03-17,Delhi,36.0,Poor,218,"PM10, PM2.5"
+2022-03-18,Delhi,38.0,Poor,293,PM2.5
+2022-03-19,Delhi,37.0,Poor,231,PM2.5
+2022-03-20,Delhi,38.0,Poor,242,"PM10, PM2.5"
+2022-03-21,Delhi,35.0,Poor,271,PM10
+2022-03-22,Delhi,38.0,Moderate,180,PM2.5
+2022-03-23,Delhi,37.0,Poor,206,"PM10, PM2.5"
+2022-03-24,Delhi,37.0,Poor,280,PM10
+2022-03-25,Delhi,38.0,Poor,211,"PM10, PM2.5"
+2022-03-26,Delhi,36.0,Poor,207,"PM10, PM2.5"
+2022-03-27,Delhi,34.0,Moderate,195,"PM10, PM2.5"
+2022-03-28,Delhi,34.0,Poor,251,PM10
+2022-03-29,Delhi,31.0,Poor,274,"PM10, PM2.5"
+2022-03-30,Delhi,37.0,Poor,276,"NO2, PM10"
+2022-03-31,Delhi,32.0,Poor,298,"NO2, PM10"
+2022-04-01,Delhi,36.0,Poor,218,"NO2, PM10, PM2.5"
+2022-04-02,Delhi,37.0,Poor,226,"NO2, PM10, PM2.5"
+2022-04-03,Delhi,36.0,Poor,245,"PM10, PM2.5"
+2022-04-04,Delhi,37.0,Poor,262,PM10
+2022-04-05,Delhi,38.0,Poor,233,"PM10, PM2.5"
+2022-04-06,Delhi,35.0,Poor,248,"PM10, PM2.5"
+2022-04-07,Delhi,34.0,Poor,264,"PM10, PM2.5"
+2022-04-08,Delhi,36.0,Poor,242,PM10
+2022-04-09,Delhi,31.0,Poor,261,"PM10, PM2.5"
+2022-04-10,Delhi,13.0,Poor,244,"PM10, PM2.5"
+2022-04-11,Delhi,36.0,Poor,258,"PM10, PM2.5"
+2022-04-12,Delhi,37.0,Poor,229,PM10
+2022-04-13,Delhi,34.0,Poor,286,PM10
+2022-04-14,Delhi,39.0,Poor,280,PM10
+2022-04-15,Delhi,36.0,Poor,201,"O3, PM10"
+2022-04-16,Delhi,34.0,Poor,253,PM10
+2022-04-17,Delhi,38.0,Poor,251,PM10
+2022-04-18,Delhi,37.0,Poor,257,PM10
+2022-04-19,Delhi,35.0,Very Poor,317,PM10
+2022-04-20,Delhi,31.0,Poor,277,PM10
+2022-04-21,Delhi,35.0,Poor,296,PM10
+2022-04-22,Delhi,38.0,Poor,204,"O3, PM10, PM2.5"
+2022-04-23,Delhi,35.0,Poor,245,PM10
+2022-04-24,Delhi,37.0,Poor,261,PM10
+2022-04-25,Delhi,38.0,Poor,244,"PM10, PM2.5"
+2022-04-26,Delhi,37.0,Poor,209,"PM10, PM2.5"
+2022-04-27,Delhi,35.0,Poor,287,"PM10, PM2.5"
+2022-04-28,Delhi,36.0,Poor,295,PM10
+2022-04-29,Delhi,33.0,Poor,299,PM10
+2022-04-30,Delhi,36.0,Poor,270,PM10
+2022-05-01,Delhi,36.0,Poor,256,PM10
+2022-05-02,Delhi,36.0,Poor,218,"PM10, PM2.5"
+2022-05-03,Delhi,36.0,Poor,227,"O3, PM10, PM2.5"
+2022-05-04,Delhi,33.0,Poor,269,"PM10, PM2.5"
+2022-05-05,Delhi,34.0,Moderate,146,"O3, PM10"
+2022-05-06,Delhi,36.0,Poor,273,"PM10, PM2.5"
+2022-05-07,Delhi,36.0,Poor,206,"O3, PM10"
+2022-05-08,Delhi,34.0,Poor,205,"O3, PM10, PM2.5"
+2022-05-09,Delhi,32.0,Moderate,171,"O3, PM10, PM2.5"
+2022-05-10,Delhi,36.0,Moderate,160,"O3, PM2.5"
+2022-05-11,Delhi,38.0,Moderate,156,"O3, PM2.5"
+2022-05-12,Delhi,37.0,Moderate,164,"O3, PM2.5"
+2022-05-13,Delhi,36.0,Moderate,176,"O3, PM10, PM2.5"
+2022-05-14,Delhi,29.0,Poor,270,"PM10, PM2.5"
+2022-05-15,Delhi,32.0,Poor,242,"PM10, PM2.5"
+2022-05-16,Delhi,31.0,Poor,297,PM10
+2022-05-17,Delhi,33.0,Poor,239,"PM10, PM2.5"
+2022-05-18,Delhi,30.0,Poor,251,"PM10, PM2.5"
+2022-05-19,Delhi,38.0,Poor,202,"O3, PM10, PM2.5"
+2022-05-20,Delhi,35.0,Poor,266,PM10
+2022-05-21,Delhi,37.0,Poor,285,"PM10, PM2.5"
+2022-05-22,Delhi,34.0,Poor,203,"O3, PM10, PM2.5"
+2022-05-23,Delhi,33.0,Moderate,136,"PM10, PM2.5"
+2022-05-24,Delhi,30.0,Satisfactory,89,"CO, O3, PM2.5"
+2022-05-25,Delhi,31.0,Moderate,166,"O3, PM10, PM2.5"
+2022-05-26,Delhi,34.0,Moderate,199,"O3, PM10, PM2.5"
+2022-05-27,Delhi,39.0,Poor,206,"PM10, PM2.5"
+2022-05-28,Delhi,15.0,Poor,210,PM10
+2022-05-29,Delhi,38.0,Poor,273,"PM10, PM2.5"
+2022-05-30,Delhi,37.0,Poor,201,"O3, PM10, PM2.5"
+2022-05-31,Delhi,31.0,Poor,215,"PM10, PM2.5"
+2022-06-01,Delhi,37.0,Very Poor,322,PM10
+2022-06-02,Delhi,35.0,Poor,202,"O3, PM10, PM2.5"
+2022-06-03,Delhi,34.0,Poor,240,"PM10, PM2.5"
+2022-06-04,Delhi,31.0,Poor,227,PM10
+2022-06-05,Delhi,34.0,Poor,215,PM10
+2022-06-06,Delhi,33.0,Moderate,195,"O3, PM10"
+2022-06-07,Delhi,26.0,Poor,280,PM10
+2022-06-08,Delhi,34.0,Very Poor,346,PM10
+2022-06-09,Delhi,34.0,Poor,223,"PM10, PM2.5"
+2022-06-10,Delhi,37.0,Very Poor,303,"PM10, PM2.5"
+2022-06-11,Delhi,34.0,Poor,256,PM10
+2022-06-12,Delhi,35.0,Poor,249,PM10
+2022-06-13,Delhi,33.0,Moderate,200,PM10
+2022-06-14,Delhi,35.0,Poor,222,"PM10, PM2.5"
+2022-06-15,Delhi,28.0,Moderate,153,"PM10, PM2.5"
+2022-06-16,Delhi,21.0,Moderate,132,"O3, PM10, PM2.5"
+2022-06-17,Delhi,33.0,Satisfactory,88,"NO2, PM10"
+2022-06-18,Delhi,36.0,Satisfactory,79,"CO, PM10"
+2022-06-19,Delhi,33.0,Satisfactory,99,"PM10, PM2.5"
+2022-06-20,Delhi,34.0,Moderate,124,"NO2, PM10, PM2.5"
+2022-06-21,Delhi,36.0,Moderate,128,"NO2, O3, PM10"
+2022-06-22,Delhi,36.0,Moderate,139,"O3, PM10"
+2022-06-23,Delhi,35.0,Moderate,140,"O3, PM10"
+2022-06-24,Delhi,34.0,Moderate,197,"PM10, PM2.5"
+2022-06-25,Delhi,32.0,Poor,230,"PM10, PM2.5"
+2022-06-26,Delhi,36.0,Moderate,169,"PM10, PM2.5"
+2022-06-27,Delhi,32.0,Moderate,127,"O3, PM10, PM2.5"
+2022-06-28,Delhi,33.0,Moderate,137,"O3, PM10, PM2.5"
+2022-06-29,Delhi,34.0,Moderate,163,"O3, PM10, PM2.5"
+2022-06-30,Delhi,27.0,Moderate,116,"PM10, PM2.5"
+2022-07-01,Delhi,26.0,Satisfactory,76,"CO, PM10, PM2.5"
+2022-07-02,Delhi,31.0,Satisfactory,95,"O3, PM2.5"
+2022-07-03,Delhi,35.0,Satisfactory,76,"CO, NO2, PM10"
+2022-07-04,Delhi,32.0,Moderate,113,"PM10, PM2.5"
+2022-07-05,Delhi,34.0,Moderate,161,PM2.5
+2022-07-06,Delhi,33.0,Moderate,104,"PM10, PM2.5"
+2022-07-07,Delhi,11.0,Satisfactory,100,"CO, PM10"
+2022-07-08,Delhi,36.0,Satisfactory,94,"CO, PM10, PM2.5"
+2022-07-09,Delhi,31.0,Moderate,110,"PM10, PM2.5"
+2022-07-10,Delhi,35.0,Satisfactory,71,"CO, NO2, PM10"
+2022-07-11,Delhi,33.0,Satisfactory,95,"PM10, PM2.5"
+2022-07-12,Delhi,35.0,Satisfactory,87,"PM10, PM2.5"
+2022-07-13,Delhi,36.0,Satisfactory,89,"CO, O3, PM10"
+2022-07-14,Delhi,35.0,Satisfactory,87,"PM10, PM2.5"
+2022-07-15,Delhi,35.0,Satisfactory,79,"PM10, PM2.5"
+2022-07-16,Delhi,34.0,Satisfactory,81,"CO, PM10, PM2.5"
+2022-07-17,Delhi,35.0,Satisfactory,61,"CO, O3"
+2022-07-18,Delhi,35.0,Satisfactory,92,"PM10, PM2.5"
+2022-07-19,Delhi,25.0,Moderate,105,"PM10, PM2.5"
+2022-07-20,Delhi,35.0,Satisfactory,98,"PM10, PM2.5"
+2022-07-21,Delhi,32.0,Satisfactory,70,"CO, O3, PM10"
+2022-07-22,Delhi,34.0,Moderate,140,PM2.5
+2022-07-23,Delhi,35.0,Satisfactory,72,"CO, O3, PM10"
+2022-07-24,Delhi,31.0,Satisfactory,72,"CO, O3, PM10"
+2022-07-25,Delhi,33.0,Satisfactory,67,"CO, O3"
+2022-07-26,Delhi,33.0,Satisfactory,69,"CO, O3, PM10"
+2022-07-27,Delhi,31.0,Satisfactory,74,"CO, O3, PM10"
+2022-07-28,Delhi,34.0,Satisfactory,68,"CO, PM10"
+2022-07-29,Delhi,35.0,Satisfactory,71,"CO, PM10"
+2022-07-30,Delhi,35.0,Satisfactory,58,"CO, PM10"
+2022-07-31,Delhi,35.0,Satisfactory,71,"CO, NO2, PM10"
+2022-08-01,Delhi,34.0,Satisfactory,71,"CO, PM10"
+2022-08-02,Delhi,35.0,Satisfactory,84,"CO, NO2, PM10"
+2022-08-03,Delhi,35.0,Moderate,122,"O3, PM10"
+2022-08-04,Delhi,33.0,Moderate,112,"PM10, PM2.5"
+2022-08-05,Delhi,13.0,Satisfactory,72,"CO, PM10"
+2022-08-06,Delhi,26.0,Satisfactory,98,"PM10, PM2.5"
+2022-08-07,Delhi,17.0,Moderate,118,"PM10, PM2.5"
+2022-08-08,Delhi,32.0,Satisfactory,84,"O3, PM10, PM2.5"
+2022-08-09,Delhi,16.0,Moderate,112,"PM10, PM2.5"
+2022-08-10,Delhi,13.0,Moderate,102,"NO2, O3, PM10"
+2022-08-11,Delhi,18.0,Satisfactory,75,"CO, PM10, PM2.5"
+2022-08-12,Delhi,13.0,Satisfactory,88,"CO, PM10"
+2022-08-13,Delhi,32.0,Satisfactory,80,"CO, O3, PM10"
+2022-08-14,Delhi,33.0,Satisfactory,84,"CO, O3, PM10"
+2022-08-15,Delhi,33.0,Satisfactory,62,"CO, PM10, PM2.5"
+2022-08-16,Delhi,33.0,Satisfactory,63,"CO, NO2, PM10"
+2022-08-17,Delhi,32.0,Satisfactory,60,"CO, NO2, O3"
+2022-08-18,Delhi,33.0,Satisfactory,72,"CO, O3, PM10"
+2022-08-19,Delhi,36.0,Satisfactory,71,"CO, PM10"
+2022-08-20,Delhi,34.0,Satisfactory,80,"CO, PM10"
+2022-08-21,Delhi,30.0,Moderate,114,PM10
+2022-08-22,Delhi,35.0,Moderate,104,"PM10, PM2.5"
+2022-08-23,Delhi,36.0,Satisfactory,83,"CO, PM10"
+2022-08-24,Delhi,35.0,Satisfactory,63,"CO, NO2, PM10"
+2022-08-25,Delhi,34.0,Satisfactory,96,"CO, O3, PM10"
+2022-08-26,Delhi,36.0,Moderate,113,PM10
+2022-08-27,Delhi,36.0,Moderate,105,"O3, PM10"
+2022-08-28,Delhi,35.0,Moderate,119,"O3, PM10, PM2.5"
+2022-08-29,Delhi,34.0,Moderate,144,"O3, PM10"
+2022-08-30,Delhi,36.0,Moderate,116,"O3, PM10"
+2022-08-31,Delhi,33.0,Moderate,124,"O3, PM10, PM2.5"
+2022-09-01,Delhi,34.0,Moderate,121,"O3, PM10, PM2.5"
+2022-09-02,Delhi,36.0,Moderate,110,"PM10, PM2.5"
+2022-09-03,Delhi,36.0,Moderate,119,"O3, PM10, PM2.5"
+2022-09-04,Delhi,23.0,Moderate,115,"O3, PM10, PM2.5"
+2022-09-05,Delhi,28.0,Moderate,102,"O3, PM10"
+2022-09-06,Delhi,34.0,Moderate,119,"PM10, PM2.5"
+2022-09-07,Delhi,35.0,Moderate,133,"O3, PM10, PM2.5"
+2022-09-08,Delhi,34.0,Moderate,136,"O3, PM10, PM2.5"
+2022-09-09,Delhi,36.0,Moderate,141,"O3, PM2.5"
+2022-09-10,Delhi,35.0,Moderate,110,"CO, PM10, PM2.5"
+2022-09-11,Delhi,34.0,Satisfactory,85,"CO, PM10"
+2022-09-12,Delhi,34.0,Satisfactory,84,"CO, PM10"
+2022-09-13,Delhi,30.0,Satisfactory,72,"O3, PM10, PM2.5"
+2022-09-14,Delhi,30.0,Satisfactory,71,"CO, PM10"
+2022-09-15,Delhi,32.0,Satisfactory,57,"CO, PM10"
+2022-09-16,Delhi,30.0,Good,47,"CO, PM10"
+2022-09-17,Delhi,32.0,Satisfactory,70,"CO, O3, PM10"
+2022-09-18,Delhi,29.0,Moderate,119,"O3, PM10"
+2022-09-19,Delhi,27.0,Moderate,182,"PM10, PM2.5"
+2022-09-20,Delhi,31.0,Moderate,130,"PM10, PM2.5"
+2022-09-21,Delhi,32.0,Moderate,109,"NO2, PM10, PM2.5"
+2022-09-22,Delhi,32.0,Satisfactory,66,"O3, PM10, PM2.5"
+2022-09-23,Delhi,31.0,Satisfactory,57,"CO, NO2, PM10"
+2022-09-24,Delhi,29.0,Satisfactory,54,"CO, NO2"
+2022-09-25,Delhi,34.0,Satisfactory,52,"CO, NO2"
+2022-09-26,Delhi,34.0,Satisfactory,100,"PM10, PM2.5"
+2022-09-27,Delhi,33.0,Moderate,108,PM10
+2022-09-28,Delhi,33.0,Moderate,140,"NO2, PM10, PM2.5"
+2022-09-29,Delhi,31.0,Moderate,151,"PM10, PM2.5"
+2022-09-30,Delhi,33.0,Moderate,173,"PM10, PM2.5"
+2022-10-01,Delhi,33.0,Moderate,186,"O3, PM10, PM2.5"
+2022-10-02,Delhi,32.0,Moderate,181,"O3, PM10, PM2.5"
+2022-10-03,Delhi,33.0,Moderate,128,"O3, PM10"
+2022-10-04,Delhi,33.0,Moderate,150,"O3, PM10, PM2.5"
+2022-10-05,Delhi,34.0,Poor,211,"PM10, PM2.5"
+2022-10-06,Delhi,33.0,Satisfactory,79,"CO, PM10, PM2.5"
+2022-10-07,Delhi,32.0,Satisfactory,55,"CO, PM10"
+2022-10-08,Delhi,25.0,Satisfactory,56,"CO, O3, PM2.5"
+2022-10-09,Delhi,20.0,Good,48,CO
+2022-10-10,Delhi,28.0,Good,44,"CO, PM2.5"
+2022-10-11,Delhi,32.0,Satisfactory,66,"CO, O3, PM2.5"
+2022-10-12,Delhi,31.0,Moderate,143,"O3, PM10, PM2.5"
+2022-10-13,Delhi,30.0,Moderate,130,"PM10, PM2.5"
+2022-10-14,Delhi,34.0,Moderate,154,"O3, PM10, PM2.5"
+2022-10-15,Delhi,32.0,Moderate,186,"O3, PM10, PM2.5"
+2022-10-16,Delhi,34.0,Poor,232,"PM10, PM2.5"
+2022-10-17,Delhi,35.0,Poor,237,"PM10, PM2.5"
+2022-10-18,Delhi,33.0,Poor,241,"PM10, PM2.5"
+2022-10-19,Delhi,29.0,Poor,228,"PM10, PM2.5"
+2022-10-20,Delhi,33.0,Poor,232,"PM10, PM2.5"
+2022-10-21,Delhi,35.0,Poor,262,"PM10, PM2.5"
+2022-10-22,Delhi,35.0,Poor,265,PM10
+2022-10-23,Delhi,31.0,Poor,259,"PM10, PM2.5"
+2022-10-24,Delhi,35.0,Very Poor,312,"PM10, PM2.5"
+2022-10-25,Delhi,35.0,Very Poor,302,"PM10, PM2.5"
+2022-10-26,Delhi,33.0,Poor,271,"PM10, PM2.5"
+2022-10-27,Delhi,27.0,Very Poor,354,"PM10, PM2.5"
+2022-10-28,Delhi,36.0,Very Poor,357,"PM10, PM2.5"
+2022-10-29,Delhi,36.0,Very Poor,397,"PM10, PM2.5"
+2022-10-30,Delhi,36.0,Very Poor,352,"PM10, PM2.5"
+2022-10-31,Delhi,35.0,Very Poor,392,"PM10, PM2.5"
+2022-11-01,Delhi,35.0,Severe,424,PM2.5
+2022-11-02,Delhi,34.0,Very Poor,376,"PM10, PM2.5"
+2022-11-03,Delhi,37.0,Severe,450,"PM10, PM2.5"
+2022-11-04,Delhi,37.0,Severe,447,PM2.5
+2022-11-05,Delhi,37.0,Very Poor,381,PM2.5
+2022-11-06,Delhi,36.0,Very Poor,339,PM2.5
+2022-11-07,Delhi,35.0,Very Poor,354,PM2.5
+2022-11-08,Delhi,36.0,Very Poor,372,PM2.5
+2022-11-09,Delhi,37.0,Poor,260,PM2.5
+2022-11-10,Delhi,37.0,Poor,295,"PM10, PM2.5"
+2022-11-11,Delhi,37.0,Very Poor,346,"PM10, PM2.5"
+2022-11-12,Delhi,37.0,Very Poor,303,PM2.5
+2022-11-13,Delhi,36.0,Very Poor,303,PM2.5
+2022-11-14,Delhi,37.0,Poor,294,"PM10, PM2.5"
+2022-11-15,Delhi,37.0,Poor,227,"O3, PM2.5"
+2022-11-16,Delhi,36.0,Poor,264,PM2.5
+2022-11-17,Delhi,36.0,Poor,260,PM2.5
+2022-11-18,Delhi,35.0,Poor,289,PM2.5
+2022-11-19,Delhi,35.0,Poor,280,"PM10, PM2.5"
+2022-11-20,Delhi,36.0,Very Poor,314,"PM10, PM2.5"
+2022-11-21,Delhi,36.0,Very Poor,310,PM2.5
+2022-11-22,Delhi,35.0,Poor,255,"O3, PM2.5"
+2022-11-23,Delhi,36.0,Poor,237,"PM10, PM2.5"
+2022-11-24,Delhi,36.0,Poor,213,"PM10, PM2.5"
+2022-11-25,Delhi,36.0,Poor,294,PM10
+2022-11-26,Delhi,36.0,Very Poor,336,PM2.5
+2022-11-27,Delhi,36.0,Very Poor,328,PM2.5
+2022-11-28,Delhi,35.0,Very Poor,333,"PM10, PM2.5"
+2022-11-29,Delhi,36.0,Very Poor,369,"PM10, PM2.5"
+2022-11-30,Delhi,36.0,Very Poor,365,"PM10, PM2.5"
+2022-12-01,Delhi,37.0,Very Poor,368,PM2.5
+2022-12-02,Delhi,37.0,Very Poor,352,PM2.5
+2022-12-03,Delhi,36.0,Very Poor,370,PM2.5
+2022-12-04,Delhi,35.0,Severe,407,"PM10, PM2.5"
+2022-12-05,Delhi,36.0,Very Poor,347,PM2.5
+2022-12-06,Delhi,36.0,Very Poor,353,"PM10, PM2.5"
+2022-12-07,Delhi,36.0,Very Poor,304,PM2.5
+2022-12-08,Delhi,36.0,Poor,281,PM2.5
+2022-12-09,Delhi,36.0,Very Poor,314,PM2.5
+2022-12-10,Delhi,36.0,Very Poor,360,"PM10, PM2.5"
+2022-12-11,Delhi,36.0,Very Poor,306,PM2.5
+2022-12-12,Delhi,36.0,Poor,218,PM2.5
+2022-12-13,Delhi,36.0,Moderate,177,"PM10, PM2.5"
+2022-12-14,Delhi,37.0,Moderate,163,PM2.5
+2022-12-15,Delhi,37.0,Moderate,189,PM2.5
+2022-12-16,Delhi,36.0,Poor,223,PM2.5
+2022-12-17,Delhi,36.0,Very Poor,304,PM2.5
+2022-12-18,Delhi,35.0,Very Poor,353,"PM10, PM2.5"
+2022-12-19,Delhi,34.0,Severe,410,PM2.5
+2022-12-20,Delhi,37.0,Very Poor,366,PM2.5
+2022-12-21,Delhi,38.0,Very Poor,328,PM2.5
+2022-12-22,Delhi,38.0,Very Poor,342,PM2.5
+2022-12-23,Delhi,35.0,Very Poor,359,"PM10, PM2.5"
+2022-12-24,Delhi,37.0,Very Poor,349,PM2.5
+2022-12-25,Delhi,38.0,Very Poor,308,"PM10, PM2.5"
+2022-12-26,Delhi,37.0,Very Poor,331,PM2.5
+2022-12-27,Delhi,39.0,Very Poor,339,PM2.5
+2022-12-28,Delhi,39.0,Very Poor,321,PM2.5
+2022-12-29,Delhi,38.0,Very Poor,306,PM2.5
+2022-12-30,Delhi,39.0,Very Poor,399,PM2.5
+2022-12-31,Delhi,38.0,Very Poor,349,PM2.5
+2023-01-01,Delhi,38.0,Poor,259,PM2.5
+2023-01-02,Delhi,38.0,Very Poor,357,PM2.5
+2023-01-03,Delhi,38.0,Very Poor,385,PM2.5
+2023-01-04,Delhi,38.0,Very Poor,343,PM2.5
+2023-01-05,Delhi,38.0,Very Poor,340,PM2.5
+2023-01-06,Delhi,38.0,Very Poor,400,PM2.5
+2023-01-07,Delhi,38.0,Very Poor,377,"PM10, PM2.5"
+2023-01-08,Delhi,38.0,Very Poor,371,"PM10, PM2.5"
+2023-01-09,Delhi,37.0,Severe,434,PM2.5
+2023-01-10,Delhi,38.0,Severe,407,PM2.5
+2023-01-11,Delhi,38.0,Very Poor,308,PM2.5
+2023-01-12,Delhi,38.0,Very Poor,371,PM2.5
+2023-01-13,Delhi,37.0,Very Poor,378,PM2.5
+2023-01-14,Delhi,30.0,Very Poor,353,PM2.5
+2023-01-15,Delhi,37.0,Poor,213,PM2.5
+2023-01-16,Delhi,36.0,Poor,270,"PM10, PM2.5"
+2023-01-17,Delhi,37.0,Poor,288,"PM10, PM2.5"
+2023-01-18,Delhi,36.0,Very Poor,306,"PM10, PM2.5"
+2023-01-19,Delhi,37.0,Very Poor,338,"PM10, PM2.5"
+2023-01-20,Delhi,36.0,Poor,226,PM2.5
+2023-01-21,Delhi,36.0,Poor,294,PM2.5
+2023-01-22,Delhi,38.0,Severe,407,"PM10, PM2.5"
+2023-01-23,Delhi,38.0,Very Poor,335,PM2.5
+2023-01-24,Delhi,38.0,Poor,237,PM2.5
+2023-01-25,Delhi,39.0,Moderate,160,PM2.5
+2023-01-26,Delhi,39.0,Poor,298,PM2.5
+2023-01-27,Delhi,38.0,Poor,229,PM2.5
+2023-01-28,Delhi,37.0,Poor,236,PM2.5
+2023-01-29,Delhi,37.0,Very Poor,331,PM2.5
+2023-01-30,Delhi,36.0,Poor,207,PM2.5
+2023-01-31,Delhi,38.0,Moderate,192,PM2.5
+2023-02-01,Delhi,39.0,Moderate,164,PM2.5
+2023-02-02,Delhi,39.0,Moderate,194,"PM10, PM2.5"
+2023-02-03,Delhi,39.0,Moderate,199,"PM10, PM2.5"
+2023-02-04,Delhi,38.0,Poor,242,"PM10, PM2.5"
+2023-02-05,Delhi,36.0,Poor,244,PM2.5
+2023-02-06,Delhi,37.0,Poor,265,"PM10, PM2.5"
+2023-02-07,Delhi,38.0,Poor,285,PM2.5
+2023-02-08,Delhi,39.0,Moderate,144,"PM10, PM2.5"
+2023-02-09,Delhi,39.0,Poor,212,"PM10, PM2.5"
+2023-02-10,Delhi,37.0,Moderate,187,PM2.5
+2023-02-11,Delhi,38.0,Poor,275,"PM10, PM2.5"
+2023-02-12,Delhi,37.0,Moderate,175,PM2.5
+2023-02-13,Delhi,36.0,Moderate,135,"PM10, PM2.5"
+2023-02-14,Delhi,38.0,Moderate,132,"PM10, PM2.5"
+2023-02-15,Delhi,39.0,Moderate,190,PM2.5
+2023-02-16,Delhi,38.0,Poor,270,PM2.5
+2023-02-17,Delhi,39.0,Very Poor,367,PM2.5
+2023-02-18,Delhi,39.0,Very Poor,371,PM2.5
+2023-02-19,Delhi,37.0,Very Poor,331,PM2.5
+2023-02-20,Delhi,37.0,Very Poor,324,PM2.5
+2023-02-21,Delhi,38.0,Poor,245,PM2.5
+2023-02-22,Delhi,38.0,Very Poor,302,PM2.5
+2023-02-23,Delhi,36.0,Poor,227,PM2.5
+2023-02-24,Delhi,36.0,Moderate,171,PM2.5
+2023-02-25,Delhi,38.0,Poor,225,PM2.5
+2023-02-26,Delhi,38.0,Poor,291,PM2.5
+2023-02-27,Delhi,36.0,Poor,260,PM2.5
+2023-02-28,Delhi,37.0,Poor,218,PM2.5
+2023-03-01,Delhi,37.0,Moderate,178,PM10
+2023-03-02,Delhi,39.0,Poor,226,PM2.5
+2023-03-03,Delhi,38.0,Moderate,152,PM2.5
+2023-03-04,Delhi,38.0,Moderate,129,"PM10, PM2.5"
+2023-03-05,Delhi,35.0,Moderate,142,PM2.5
+2023-03-06,Delhi,35.0,Moderate,142,PM2.5
+2023-03-07,Delhi,37.0,Moderate,173,PM2.5
+2023-03-08,Delhi,38.0,Poor,213,PM2.5
+2023-03-09,Delhi,37.0,Moderate,119,"O3, PM2.5"
+2023-03-10,Delhi,37.0,Moderate,187,PM2.5
+2023-03-11,Delhi,37.0,Moderate,200,PM2.5
+2023-03-12,Delhi,38.0,Poor,216,"PM10, PM2.5"
+2023-03-13,Delhi,38.0,Poor,231,PM2.5
+2023-03-14,Delhi,38.0,Poor,219,PM2.5
+2023-03-15,Delhi,37.0,Poor,213,"PM10, PM2.5"
+2023-03-16,Delhi,34.0,Poor,259,PM2.5
+2023-03-17,Delhi,35.0,Moderate,188,"PM10, PM2.5"
+2023-03-18,Delhi,35.0,Moderate,184,PM2.5
+2023-03-19,Delhi,35.0,Moderate,162,PM2.5
+2023-03-20,Delhi,34.0,Moderate,154,"PM10, PM2.5"
+2023-03-21,Delhi,34.0,Satisfactory,75,"O3, PM2.5"
+2023-03-22,Delhi,35.0,Moderate,164,"O3, PM2.5"
+2023-03-23,Delhi,36.0,Moderate,151,"O3, PM2.5"
+2023-03-24,Delhi,38.0,Poor,205,"PM10, PM2.5"
+2023-03-25,Delhi,37.0,Satisfactory,78,PM2.5
+2023-03-26,Delhi,37.0,Moderate,164,"O3, PM2.5"
+2023-03-27,Delhi,37.0,Moderate,146,"PM10, PM2.5"
+2023-03-28,Delhi,39.0,Moderate,147,"PM10, PM2.5"
+2023-03-29,Delhi,38.0,Moderate,198,PM2.5
+2023-03-30,Delhi,37.0,Moderate,170,"O3, PM2.5"
+2023-03-31,Delhi,37.0,Satisfactory,73,"CO, O3"
+2023-04-01,Delhi,38.0,Moderate,106,O3
+2023-04-02,Delhi,38.0,Moderate,128,PM2.5
+2023-04-03,Delhi,38.0,Moderate,179,"PM10, PM2.5"
+2023-04-04,Delhi,38.0,Moderate,109,"O3, PM2.5"
+2023-04-05,Delhi,38.0,Moderate,135,"PM10, PM2.5"
+2023-04-06,Delhi,37.0,Moderate,142,PM10
+2023-04-07,Delhi,37.0,Moderate,142,"PM10, PM2.5"
+2023-04-08,Delhi,37.0,Moderate,172,"PM10, PM2.5"
+2023-04-09,Delhi,36.0,Poor,217,"PM10, PM2.5"
+2023-04-10,Delhi,35.0,Moderate,195,"PM10, PM2.5"
+2023-04-11,Delhi,36.0,Poor,260,"PM10, PM2.5"
+2023-04-12,Delhi,36.0,Poor,213,"PM10, PM2.5"
+2023-04-13,Delhi,36.0,Poor,211,"PM10, PM2.5"
+2023-04-14,Delhi,36.0,Poor,246,PM10
+2023-04-15,Delhi,35.0,Poor,235,PM10
+2023-04-16,Delhi,37.0,Poor,229,"PM10, PM2.5"
+2023-04-17,Delhi,38.0,Poor,206,"PM10, PM2.5"
+2023-04-18,Delhi,38.0,Poor,235,PM10
+2023-04-19,Delhi,38.0,Poor,236,"PM10, PM2.5"
+2023-04-20,Delhi,38.0,Moderate,159,"CO, PM10"
+2023-04-21,Delhi,39.0,Moderate,129,"NO2, O3"
+2023-04-22,Delhi,38.0,Moderate,141,PM10
+2023-04-23,Delhi,39.0,Moderate,118,"NO2, PM10"
+2023-04-24,Delhi,39.0,Moderate,160,"PM10, PM2.5"
+2023-04-25,Delhi,39.0,Moderate,156,O3
+2023-04-26,Delhi,38.0,Poor,210,"NO2, PM10"
+2023-04-27,Delhi,39.0,Poor,219,PM10
+2023-04-28,Delhi,39.0,Moderate,150,"O3, PM2.5"
+2023-04-29,Delhi,37.0,Poor,216,"PM10, PM2.5"
+2023-04-30,Delhi,39.0,Moderate,132,"CO, PM2.5"
+2023-05-01,Delhi,38.0,Satisfactory,86,"NO2, PM10"
+2023-05-02,Delhi,38.0,Satisfactory,76,"PM10, PM2.5"
+2023-05-03,Delhi,38.0,Moderate,107,"PM10, PM2.5"
+2023-05-04,Delhi,37.0,Moderate,113,O3
+2023-05-05,Delhi,37.0,Moderate,183,"O3, PM2.5"
+2023-05-06,Delhi,38.0,Poor,234,"PM10, PM2.5"
+2023-05-07,Delhi,39.0,Moderate,173,"O3, PM2.5"
+2023-05-08,Delhi,38.0,Moderate,131,"O3, PM2.5"
+2023-05-09,Delhi,39.0,Moderate,197,"PM10, PM2.5"
+2023-05-10,Delhi,38.0,Poor,203,PM2.5
+2023-05-11,Delhi,39.0,Poor,274,"PM10, PM2.5"
+2023-05-12,Delhi,39.0,Poor,227,PM10
+2023-05-13,Delhi,39.0,Poor,235,PM2.5
+2023-05-14,Delhi,39.0,Poor,259,"PM10, PM2.5"
+2023-05-15,Delhi,38.0,Moderate,162,"O3, PM2.5"
+2023-05-16,Delhi,39.0,Poor,254,PM10
+2023-05-17,Delhi,37.0,Very Poor,336,"PM10, PM2.5"
+2023-05-18,Delhi,37.0,Moderate,149,"O3, PM10"
+2023-05-19,Delhi,36.0,Moderate,152,"O3, PM2.5"
+2023-05-20,Delhi,34.0,Moderate,186,"PM10, PM2.5"
+2023-05-21,Delhi,37.0,Poor,215,PM10
+2023-05-22,Delhi,37.0,Moderate,199,"PM10, PM2.5"
+2023-05-23,Delhi,37.0,Moderate,198,"PM10, PM2.5"
+2023-05-24,Delhi,37.0,Moderate,158,PM2.5
+2023-05-25,Delhi,35.0,Moderate,106,O3
+2023-05-26,Delhi,36.0,Satisfactory,98,"NO2, O3"
+2023-05-27,Delhi,36.0,Moderate,110,"O3, PM10"
+2023-05-28,Delhi,35.0,Moderate,134,"O3, PM10"
+2023-05-29,Delhi,35.0,Moderate,136,PM10
+2023-05-30,Delhi,35.0,Moderate,115,O3
+2023-05-31,Delhi,36.0,Satisfactory,85,"NO2, PM2.5"
+2023-06-01,Delhi,38.0,Satisfactory,96,"PM10, PM2.5"
+2023-06-02,Delhi,38.0,Moderate,120,"PM10, PM2.5"
+2023-06-03,Delhi,37.0,Moderate,121,"O3, PM10"
+2023-06-04,Delhi,37.0,Moderate,171,"PM10, PM2.5"
+2023-06-05,Delhi,35.0,Moderate,166,"PM10, PM2.5"
+2023-06-06,Delhi,36.0,Moderate,139,PM2.5
+2023-06-07,Delhi,38.0,Poor,239,"PM10, PM2.5"
+2023-06-08,Delhi,38.0,Moderate,161,"PM10, PM2.5"
+2023-06-09,Delhi,37.0,Moderate,152,"PM10, PM2.5"
+2023-06-10,Delhi,37.0,Moderate,134,"PM10, PM2.5"
+2023-06-11,Delhi,37.0,Moderate,130,"PM10, PM2.5"
+2023-06-12,Delhi,29.0,Moderate,169,"PM10, PM2.5"
+2023-06-13,Delhi,33.0,Poor,205,PM10
+2023-06-14,Delhi,37.0,Poor,213,"PM10, PM2.5"
+2023-06-15,Delhi,37.0,Moderate,154,"PM10, PM2.5"
+2023-06-16,Delhi,37.0,Moderate,119,"PM10, PM2.5"
+2023-06-17,Delhi,37.0,Moderate,119,"O3, PM10"
+2023-06-18,Delhi,37.0,Satisfactory,90,PM10
+2023-06-19,Delhi,29.0,Satisfactory,75,"CO, PM10"
+2023-06-20,Delhi,37.0,Moderate,104,"CO, O3"
+2023-06-21,Delhi,37.0,Satisfactory,91,"CO, O3"
+2023-06-22,Delhi,37.0,Moderate,110,"PM10, PM2.5"
+2023-06-23,Delhi,28.0,Moderate,132,"PM10, PM2.5"
+2023-06-24,Delhi,30.0,Moderate,169,PM2.5
+2023-06-25,Delhi,36.0,Satisfactory,71,"CO, PM10"
+2023-06-26,Delhi,36.0,Satisfactory,93,"CO, PM2.5"
+2023-06-27,Delhi,34.0,Satisfactory,86,"PM10, PM2.5"
+2023-06-28,Delhi,35.0,Satisfactory,93,"CO, PM10"
+2023-06-29,Delhi,36.0,Moderate,101,"NO2, PM2.5"
+2023-06-30,Delhi,36.0,Satisfactory,70,"NO2, PM10"
+2023-07-01,Delhi,36.0,Satisfactory,69,"CO, NO2"
+2023-07-02,Delhi,36.0,Satisfactory,71,"CO, NO2"
+2023-07-03,Delhi,36.0,Moderate,118,"NO2, O3"
+2023-07-04,Delhi,36.0,Moderate,144,"NO2, PM2.5"
+2023-07-05,Delhi,36.0,Satisfactory,96,"NO2, PM10"
+2023-07-06,Delhi,36.0,Satisfactory,72,"CO, NO2"
+2023-07-07,Delhi,35.0,Satisfactory,77,"O3, PM10"
+2023-07-08,Delhi,36.0,Satisfactory,71,"NO2, PM10"
+2023-07-09,Delhi,36.0,Satisfactory,64,"CO, NO2"
+2023-07-10,Delhi,24.0,Satisfactory,65,"CO, PM10"
+2023-07-11,Delhi,33.0,Satisfactory,69,"CO, NO2"
+2023-07-12,Delhi,35.0,Satisfactory,77,"CO, PM10"
+2023-07-13,Delhi,35.0,Satisfactory,77,"CO, PM10"
+2023-07-14,Delhi,33.0,Satisfactory,73,"CO, PM10"
+2023-07-15,Delhi,11.0,Satisfactory,100,PM10
+2023-07-16,Delhi,12.0,Satisfactory,69,"CO, PM10"
+2023-07-17,Delhi,12.0,Satisfactory,85,"CO, PM10"
+2023-07-18,Delhi,8.0,Moderate,113,"O3, PM10"
+2023-07-19,Delhi,11.0,Satisfactory,77,"O3, PM10"
+2023-07-20,Delhi,11.0,Satisfactory,93,"O3, PM10"
+2023-07-21,Delhi,12.0,Moderate,109,"PM10, PM2.5"
+2023-07-22,Delhi,33.0,Satisfactory,95,"PM10, PM2.5"
+2023-07-23,Delhi,35.0,Satisfactory,73,"O3, PM10"
+2023-07-24,Delhi,34.0,Satisfactory,77,"CO, PM2.5"
+2023-07-25,Delhi,29.0,Moderate,102,"O3, PM2.5"
+2023-07-26,Delhi,31.0,Satisfactory,73,"PM10, PM2.5"
+2023-07-27,Delhi,34.0,Satisfactory,92,"O3, PM10"
+2023-07-28,Delhi,36.0,Satisfactory,81,"CO, PM2.5"
+2023-07-29,Delhi,35.0,Satisfactory,59,CO
+2023-07-30,Delhi,36.0,Satisfactory,65,CO
+2023-07-31,Delhi,35.0,Satisfactory,89,"CO, PM10"
+2023-08-01,Delhi,29.0,Satisfactory,92,"CO, PM10"
+2023-08-02,Delhi,28.0,Satisfactory,91,"CO, PM10"
+2023-08-03,Delhi,29.0,Satisfactory,75,"PM10, PM2.5"
+2023-08-04,Delhi,34.0,Moderate,105,"O3, PM10"
+2023-08-05,Delhi,28.0,Satisfactory,85,"O3, PM10"
+2023-08-06,Delhi,33.0,Moderate,101,PM10
+2023-08-07,Delhi,34.0,Moderate,102,PM10
+2023-08-08,Delhi,32.0,Moderate,110,PM10
+2023-08-09,Delhi,32.0,Moderate,118,PM10
+2023-08-10,Delhi,34.0,Moderate,133,"PM10, PM2.5"
+2023-08-11,Delhi,34.0,Moderate,123,PM10
+2023-08-12,Delhi,29.0,Moderate,126,"PM10, PM2.5"
+2023-08-13,Delhi,32.0,Moderate,105,PM10
+2023-08-14,Delhi,33.0,Moderate,114,PM10
+2023-08-15,Delhi,33.0,Moderate,108,PM10
+2023-08-16,Delhi,28.0,Moderate,109,PM10
+2023-08-17,Delhi,33.0,Moderate,131,PM10
+2023-08-18,Delhi,34.0,Moderate,153,PM10
+2023-08-19,Delhi,28.0,Moderate,125,"PM10, PM2.5"
+2023-08-20,Delhi,23.0,Satisfactory,91,PM10
+2023-08-21,Delhi,29.0,Satisfactory,91,"O3, PM10"
+2023-08-22,Delhi,34.0,Moderate,106,"CO, NO2"
+2023-08-23,Delhi,33.0,Satisfactory,71,"CO, NO2"
+2023-08-24,Delhi,36.0,Satisfactory,85,PM10
+2023-08-25,Delhi,27.0,Moderate,117,"PM10, PM2.5"
+2023-08-26,Delhi,32.0,Moderate,152,PM10
+2023-08-27,Delhi,33.0,Moderate,186,PM10
+2023-08-28,Delhi,28.0,Moderate,144,PM10
+2023-08-29,Delhi,34.0,Moderate,162,"PM10, PM2.5"
+2023-08-30,Delhi,29.0,Moderate,154,PM10
+2023-08-31,Delhi,32.0,Moderate,146,"PM10, PM2.5"
+2023-09-01,Delhi,36.0,Moderate,140,PM10
+2023-09-02,Delhi,35.0,Moderate,136,PM10
+2023-09-03,Delhi,36.0,Moderate,136,PM10
+2023-09-04,Delhi,35.0,Moderate,136,PM10
+2023-09-05,Delhi,34.0,Moderate,121,"O3, PM10"
+2023-09-06,Delhi,35.0,Moderate,106,PM10
+2023-09-07,Delhi,36.0,Moderate,104,O3
+2023-09-08,Delhi,36.0,Satisfactory,83,"CO, PM10"
+2023-09-09,Delhi,37.0,Satisfactory,54,"CO, PM10"
+2023-09-10,Delhi,31.0,Good,45,"NO2, PM2.5"
+2023-09-11,Delhi,31.0,Satisfactory,53,"CO, PM10"
+2023-09-12,Delhi,34.0,Satisfactory,89,"NO2, PM10"
+2023-09-13,Delhi,34.0,Moderate,106,"O3, PM10"
+2023-09-14,Delhi,35.0,Moderate,123,"PM10, PM2.5"
+2023-09-15,Delhi,34.0,Moderate,101,"PM10, PM2.5"
+2023-09-16,Delhi,27.0,Satisfactory,85,"O3, PM10"
+2023-09-17,Delhi,29.0,Satisfactory,65,"CO, O3"
+2023-09-18,Delhi,33.0,Satisfactory,63,"CO, PM10"
+2023-09-19,Delhi,34.0,Satisfactory,73,"CO, PM10"
+2023-09-20,Delhi,35.0,Satisfactory,97,"CO, O3"
+2023-09-21,Delhi,35.0,Moderate,114,"CO, PM10"
+2023-09-22,Delhi,36.0,Moderate,103,"CO, PM10"
+2023-09-23,Delhi,34.0,Moderate,110,"PM10, PM2.5"
+2023-09-24,Delhi,36.0,Moderate,134,"PM10, PM2.5"
+2023-09-25,Delhi,33.0,Moderate,118,"PM10, PM2.5"
+2023-09-26,Delhi,31.0,Moderate,152,"PM10, PM2.5"
+2023-09-27,Delhi,35.0,Moderate,129,"PM10, PM2.5"
+2023-09-28,Delhi,32.0,Moderate,137,"PM10, PM2.5"
+2023-09-29,Delhi,33.0,Moderate,156,"O3, PM2.5"
+2023-09-30,Delhi,36.0,Moderate,166,"PM10, PM2.5"
+2023-10-01,Delhi,35.0,Moderate,147,"PM10, PM2.5"
+2023-10-02,Delhi,36.0,Moderate,146,"PM10, PM2.5"
+2023-10-03,Delhi,37.0,Moderate,155,"PM10, PM2.5"
+2023-10-04,Delhi,35.0,Moderate,176,"PM10, PM2.5"
+2023-10-05,Delhi,34.0,Moderate,177,"PM10, PM2.5"
+2023-10-06,Delhi,32.0,Poor,212,PM2.5
+2023-10-07,Delhi,36.0,Poor,216,"PM10, PM2.5"
+2023-10-08,Delhi,35.0,Moderate,164,"PM10, PM2.5"
+2023-10-09,Delhi,32.0,Moderate,175,"PM10, PM2.5"
+2023-10-10,Delhi,12.0,Moderate,180,PM2.5
+2023-10-11,Delhi,35.0,Moderate,193,"PM10, PM2.5"
+2023-10-12,Delhi,32.0,Poor,220,"PM10, PM2.5"
+2023-10-13,Delhi,35.0,Poor,256,"PM10, PM2.5"
+2023-10-14,Delhi,30.0,Poor,257,"NO2, PM10"
+2023-10-15,Delhi,33.0,Poor,233,"NO2, PM10"
+2023-10-16,Delhi,32.0,Poor,207,"NO2, PM10"
+2023-10-17,Delhi,27.0,Satisfactory,89,"PM10, PM2.5"
+2023-10-18,Delhi,33.0,Moderate,129,"PM10, PM2.5"
+2023-10-19,Delhi,34.0,Moderate,121,"PM10, PM2.5"
+2023-10-20,Delhi,35.0,Moderate,195,"O3, PM2.5"
+2023-10-21,Delhi,34.0,Poor,248,PM2.5
+2023-10-22,Delhi,34.0,Very Poor,313,PM2.5
+2023-10-23,Delhi,32.0,Poor,263,PM2.5
+2023-10-24,Delhi,34.0,Poor,220,"CO, PM2.5"
+2023-10-25,Delhi,34.0,Poor,243,PM2.5
+2023-10-26,Delhi,34.0,Poor,256,"PM10, PM2.5"
+2023-10-27,Delhi,36.0,Poor,261,"PM10, PM2.5"
+2023-10-28,Delhi,37.0,Very Poor,304,"PM10, PM2.5"
+2023-10-29,Delhi,34.0,Very Poor,325,"PM10, PM2.5"
+2023-10-30,Delhi,38.0,Very Poor,347,"PM10, PM2.5"
+2023-10-31,Delhi,37.0,Very Poor,359,"PM10, PM2.5"
+2023-11-01,Delhi,35.0,Very Poor,364,"PM10, PM2.5"
+2023-11-02,Delhi,34.0,Very Poor,392,PM2.5
+2023-11-03,Delhi,35.0,Severe,468,"PM10, PM2.5"
+2023-11-04,Delhi,35.0,Severe,415,PM10
+2023-11-05,Delhi,32.0,Severe,454,"PM10, PM2.5"
+2023-11-06,Delhi,32.0,Severe,421,PM2.5
+2023-11-07,Delhi,31.0,Very Poor,395,"PM10, PM2.5"
+2023-11-08,Delhi,33.0,Severe,426,"PM10, PM2.5"
+2023-11-09,Delhi,35.0,Severe,437,"PM10, PM2.5"
+2023-11-10,Delhi,35.0,Poor,279,PM2.5
+2023-11-11,Delhi,34.0,Poor,220,PM2.5
+2023-11-12,Delhi,36.0,Poor,218,"PM10, PM2.5"
+2023-11-13,Delhi,35.0,Very Poor,358,PM2.5
+2023-11-14,Delhi,35.0,Very Poor,397,"PM10, PM2.5"
+2023-11-15,Delhi,35.0,Severe,398,PM2.5
+2023-11-16,Delhi,35.0,Severe,419,PM2.5
+2023-11-17,Delhi,37.0,Severe,405,PM2.5
+2023-11-18,Delhi,35.0,Very Poor,319,PM2.5
+2023-11-19,Delhi,37.0,Very Poor,301,PM2.5
+2023-11-20,Delhi,38.0,Very Poor,348,PM2.5
+2023-11-21,Delhi,36.0,Very Poor,372,PM2.5
+2023-11-22,Delhi,37.0,Very Poor,395,PM2.5
+2023-11-23,Delhi,38.0,Very Poor,390,PM2.5
+2023-11-24,Delhi,38.0,Severe,415,"PM10, PM2.5"
+2023-11-25,Delhi,19.0,Very Poor,389,PM2.5
+2023-11-26,Delhi,38.0,Very Poor,396,PM2.5
+2023-11-27,Delhi,38.0,Very Poor,395,"PM10, PM2.5"
+2023-11-28,Delhi,36.0,Very Poor,312,PM2.5
+2023-11-29,Delhi,37.0,Poor,290,PM2.5
+2023-11-30,Delhi,38.0,Very Poor,398,PM2.5
+2023-12-01,Delhi,36.0,Very Poor,372,PM2.5
+2023-12-02,Delhi,35.0,Very Poor,353,PM2.5
+2023-12-03,Delhi,35.0,Very Poor,314,PM2.5
+2023-12-04,Delhi,35.0,Very Poor,310,PM2.5
+2023-12-05,Delhi,35.0,Poor,297,PM2.5
+2023-12-06,Delhi,37.0,Poor,286,PM2.5
+2023-12-07,Delhi,33.0,Very Poor,320,PM2.5
+2023-12-08,Delhi,36.0,Very Poor,324,PM2.5
+2023-12-09,Delhi,34.0,Very Poor,321,PM2.5
+2023-12-10,Delhi,34.0,Very Poor,314,PM2.5
+2023-12-11,Delhi,37.0,Very Poor,317,PM2.5
+2023-12-12,Delhi,37.0,Very Poor,355,"PM10, PM2.5"
+2023-12-13,Delhi,35.0,Very Poor,378,PM2.5
+2023-12-14,Delhi,37.0,Very Poor,326,PM2.5
+2023-12-15,Delhi,35.0,Very Poor,323,"PM10, PM2.5"
+2023-12-16,Delhi,37.0,Very Poor,354,"PM10, PM2.5"
+2023-12-17,Delhi,36.0,Very Poor,331,PM2.5
+2023-12-18,Delhi,33.0,Very Poor,330,PM2.5
+2023-12-19,Delhi,37.0,Poor,286,PM2.5
+2023-12-20,Delhi,36.0,Poor,285,PM2.5
+2023-12-21,Delhi,37.0,Very Poor,361,PM2.5
+2023-12-22,Delhi,35.0,Severe,409,"PM10, PM2.5"
+2023-12-23,Delhi,36.0,Severe,450,PM2.5
+2023-12-24,Delhi,35.0,Severe,411,"PM10, PM2.5"
+2023-12-25,Delhi,34.0,Very Poor,383,PM2.5
+2023-12-26,Delhi,35.0,Very Poor,377,PM2.5
+2023-12-27,Delhi,38.0,Very Poor,380,PM2.5
+2023-12-28,Delhi,38.0,Very Poor,358,PM2.5
+2023-12-29,Delhi,36.0,Very Poor,382,PM2.5
+2023-12-30,Delhi,37.0,Very Poor,400,PM2.5
+2023-12-31,Delhi,37.0,Very Poor,382,PM2.5
